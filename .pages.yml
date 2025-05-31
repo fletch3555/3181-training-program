@@ -2,7 +2,8 @@ content:
 - name: modules
   type: collection
   path: docs
-  filename: '{name}/index.md'
+  filename: '{name}.md'
+  subfolders: false
   fields:
     - name: name
       type: string
