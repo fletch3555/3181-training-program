@@ -1,7 +1,3 @@
-components:
-  x:
-    y:
-
 content:
 - name: modules
   type: collection
