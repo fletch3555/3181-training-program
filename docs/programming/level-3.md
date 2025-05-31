@@ -14,9 +14,8 @@ Design and implement complex robot software architectures with advanced state ma
 
 ## Prerequisites
 {: .prerequisites}
-- Programming Level 2
-- Electrical Level 2
-- Competition Strategy Level 1
+- [Programming Level 2](../programming/level-2)
+- [Electrical Level 2](../electrical/level-2)
 
 ## Tasks
 

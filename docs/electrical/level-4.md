@@ -14,9 +14,9 @@ Lead robot-level electrical architecture development including power system opti
 
 ## Prerequisites
 {: .prerequisites}
-- Electrical Level 3
-- Project Management Level 2
-- Programming Level 2
+- [Electrical Level 3](../electrical/level-3)
+- [Project Management Level 2](../project-management/level-2)
+- [Programming Level 3](../programming/level-3)
 
 ## Tasks
 

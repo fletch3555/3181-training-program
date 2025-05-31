@@ -14,9 +14,9 @@ Lead robot-level mechanical architecture development including drivetrain select
 
 ## Prerequisites
 {: .prerequisites}
-- Mechanical Level 3
-- Project Management Level 2
-- Manufacturing Level 2
+- [Mechanical Level 3](../mechanical/level-3)
+- [Project Management Level 2](../project-management/level-2)
+- [CAD Level 3](../cad/level-3)
 
 ## Tasks
 

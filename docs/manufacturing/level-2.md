@@ -14,7 +14,8 @@ Operate power tools including drill press, band saw, and grinders with proper se
 
 ## Prerequisites
 {: .prerequisites}
-Manufacturing Level 1
+- [Manufacturing Level 1](../manufacturing/level-1)
+- [CAD Level 1](../cad/level-1)
 
 ## Tasks
 

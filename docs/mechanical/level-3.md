@@ -14,8 +14,9 @@ Design complex mechanical systems with multiple integrated mechanisms and motion
 
 ## Prerequisites
 {: .prerequisites}
-- Mechanical Level 2
-- CAD Level 2
+- [Mechanical Level 2](../mechanical/level-2)
+- [CAD Level 2](../cad/level-2)
+- [Manufacturing Level 2](../manufacturing/level-2)
 
 ## Tasks
 

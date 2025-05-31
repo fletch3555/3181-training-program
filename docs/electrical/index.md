@@ -24,12 +24,6 @@ Design complex control systems, implement custom electronics, and develop advanc
 ### [Level 4: System Architecture](level-4)
 Lead electrical system design, develop testing procedures, and optimize robot electrical systems.
 
-## Prerequisites
-- No prerequisites for Level 1
-- Each subsequent level requires completion of previous levels
-- Level 3 requires Programming Level 2
-- Level 4 requires Project Management Level 2
-
 ## Resources
 - [FRC Control System Documentation]
 - [Electrical Safety Guidelines]

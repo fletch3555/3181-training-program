@@ -14,8 +14,9 @@ Create compelling visions for transformational change that inspire extraordinary
 
 ## Prerequisites
 {: .prerequisites}
-- Leadership Level 3
-- Project Management Level 3
+- [Leadership Level 3](../leadership/level-3)
+- [Project Management Level 3](../project-management/level-3)
+- One Level 3 technical certification
 
 ## Tasks
 

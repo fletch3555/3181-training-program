@@ -14,9 +14,9 @@ Lead robot-level software architecture development with advanced system design p
 
 ## Prerequisites
 {: .prerequisites}
-- Programming Level 3
-- Project Management Level 2
-- Competition Strategy Level 2
+- [Programming Level 3](../programming/level-3)
+- [Project Management Level 2](../project-management/level-2)
+- [Electrical Level 3](../electrical/level-3)
 
 ## Tasks
 

@@ -14,8 +14,9 @@ Design and implement advanced sensor systems including vision processing and cus
 
 ## Prerequisites
 {: .prerequisites}
-- Electrical Level 2
-- Programming Level 1
+- [Electrical Level 2](../electrical/level-2)
+- [Programming Level 2](../programming/level-2)
+- [CAD Level 2](../cad/level-2)
 
 ## Tasks
 

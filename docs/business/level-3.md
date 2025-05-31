@@ -14,8 +14,9 @@ Master advanced financial management including complex budgeting, multi-source f
 
 ## Prerequisites
 {: .prerequisites}
-- Business Level 2
-- Leadership Level 2
+- [Business Level 2](../business/level-2)
+- [Project Management Level 2](../project-management/level-2)
+- [Leadership Level 2](../leadership/level-2)
 
 ## Tasks
 

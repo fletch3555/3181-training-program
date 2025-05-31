@@ -14,8 +14,9 @@ Lead strategic planning processes with critical decision-making and stakeholder 
 
 ## Prerequisites
 {: .prerequisites}
-- Business Level 3
-- Project Management Level 3
+- [Business Level 3](../business/level-3)
+- [Project Management Level 3](../project-management/level-3)
+- [Leadership Level 3](../leadership/level-3)
 
 ## Tasks
 

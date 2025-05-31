@@ -14,8 +14,8 @@ Lead drive teams and strategic decision-making with real-time tactical adjustmen
 
 ## Prerequisites
 {: .prerequisites}
-- Strategy Level 2
-- Leadership Level 2
+- [Strategy Level 2](../strategy/level-2)
+- [Project Management Level 2](../project-management/level-2)
 
 ## Tasks
 

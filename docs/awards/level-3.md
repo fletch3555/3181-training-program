@@ -14,8 +14,9 @@ Lead comprehensive award campaigns coordinating multiple team members with timel
 
 ## Prerequisites
 {: .prerequisites}
-- Awards Level 2
-- Leadership Level 2
+- [Awards Level 2](../awards/level-2)
+- [Project Management Level 2](../project-management/level-2)
+- [Business Level 2](../business/level-2)
 
 ## Tasks
 

@@ -14,7 +14,8 @@ Implement advanced robot control systems including closed-loop feedback and moti
 
 ## Prerequisites
 {: .prerequisites}
-Programming Level 1
+- [Programming Level 1](../programming/level-1)
+- [Electrical Level 1](../electrical/level-1)
 
 ## Tasks
 

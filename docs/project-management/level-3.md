@@ -14,8 +14,9 @@ Manage large-scale initiatives coordinating multiple interdependent projects wit
 
 ## Prerequisites
 {: .prerequisites}
-- Project Management Level 2
-- One technical Level 2+
+- [Project Management Level 2](../project-management/level-2)
+- [Business Level 2](../business/level-2)
+- [Leadership Level 2](../leadership/level-2)
 
 ## Tasks
 

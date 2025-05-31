@@ -49,7 +49,9 @@ order: 3
 - Design Review Templates
 
 ## Prerequisites
-- Completion of CAD Level 2
-- Completion of Mechanical Level 2
+{: .prerequisites}
+- [CAD Level 2](../cad/level-2)
+- [Manufacturing Level 2](../manufacturing/level-2)
+- [Mechanical Level 2](../mechanical/level-2)
 
 [← Back to CAD Training](./)

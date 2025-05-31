@@ -24,13 +24,6 @@ Create complete mechanical subsystems, optimize designs for performance, and coo
 ### [Level 4: Mechanical Architecture](level-4)
 Lead mechanical design teams, develop system architecture, and optimize complete robot mechanical systems.
 
-## Prerequisites
-- No prerequisites for Level 1
-- Each subsequent level requires completion of previous levels
-- Level 2 requires CAD Level 1
-- Level 3 requires CAD Level 2
-- Level 4 requires Project Management Level 2
-
 ## Resources
 - [FRC Mechanical Design Principles]
 - [Machine Design Guidelines]

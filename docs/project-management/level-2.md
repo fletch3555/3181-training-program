@@ -14,8 +14,8 @@ Lead small project teams through effective meeting facilitation and conflict res
 
 ## Prerequisites
 {: .prerequisites}
-- Project Management Level 1
-- Business Level 1
+- [Project Management Level 1](../project-management/level-1)
+- [Business Level 1](../business/level-1)
 
 ## Tasks
 

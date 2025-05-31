@@ -14,8 +14,9 @@ Execute championship-level strategic leadership under extreme competitive pressu
 
 ## Prerequisites
 {: .prerequisites}
-- Strategy Level 3
-- Project Management Level 2
+- [Strategy Level 3](../strategy/level-3)
+- [Project Management Level 3](../project-management/level-3)
+- One technical Level 3+
 
 ## Tasks
 

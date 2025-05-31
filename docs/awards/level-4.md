@@ -14,8 +14,9 @@ Create sustainable award systems that consistently achieve highest-level recogni
 
 ## Prerequisites
 {: .prerequisites}
-- Awards Level 3
-- Business Level 2
+- [Awards Level 3](../awards/level-3)
+- [Leadership Level 3](../leadership/level-3)
+- [Business Level 3](../business/level-3)
 
 ## Tasks
 

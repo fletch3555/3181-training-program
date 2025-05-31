@@ -14,7 +14,8 @@ Design and implement FRC-specific electrical systems including power distributio
 
 ## Prerequisites
 {: .prerequisites}
-Electrical Level 1
+- [Electrical Level 1](../electrical/level-1)
+- [Programming Level 1](../programming/level-1)
 
 ## Tasks
 

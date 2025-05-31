@@ -14,8 +14,9 @@ Provide strategic leadership through vision development and organizational align
 
 ## Prerequisites
 {: .prerequisites}
-- Leadership Level 2
-- Project Management Level 2
+- [Leadership Level 2](../leadership/level-2)
+- [Project Management Level 2](../project-management/level-2)
+- [Business Level 2](../business/level-2)
 
 ## Tasks
 

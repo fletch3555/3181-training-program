@@ -49,6 +49,8 @@ order: 2
 - Example Assembly Files
 
 ## Prerequisites
-- Completion of CAD Level 1
+{: .prerequisites}
+- [CAD Level 1](../cad/level-1)
+- [Mechanical Level 1](../mechanical/level-1)
 
 [← Back to CAD Training](./)

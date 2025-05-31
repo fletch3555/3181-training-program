@@ -14,7 +14,8 @@ Create inclusive team environments that build trust and collaboration among dive
 
 ## Prerequisites
 {: .prerequisites}
-Leadership Level 1
+- [Leadership Level 1](../leadership/level-1)
+- [Project Management Level 1](../project-management/level-1)
 
 ## Tasks
 

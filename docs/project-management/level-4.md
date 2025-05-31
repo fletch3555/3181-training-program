@@ -14,8 +14,9 @@ Provide executive-level leadership for entire robotics program including vision 
 
 ## Prerequisites
 {: .prerequisites}
-- Project Management Level 3
-- Leadership Level 2
+- [Project Management Level 3](../project-management/level-3)
+- [Business Level 3](../business/level-3)
+- [Leadership Level 3](../leadership/level-3)
 
 ## Tasks
 

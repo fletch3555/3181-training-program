@@ -12,6 +12,7 @@ order: 1
 Master the CAD software interface and navigation, create fully-constrained 2D sketches using geometric and dimensional constraints, generate basic 3D parts through extrusion and modification features, and establish proper file management practices for collaborative design work.
 
 ## Prerequisites
+{: .prerequisites}
 None
 
 ## Tasks

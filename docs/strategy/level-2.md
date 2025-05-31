@@ -14,7 +14,8 @@ Develop mathematical models for optimal game strategies with risk-reward analysi
 
 ## Prerequisites
 {: .prerequisites}
-Strategy Level 1
+- [Strategy Level 1](../strategy/level-1)
+- [Project Management Level 1](../project-management/level-1)
 
 ## Tasks
 

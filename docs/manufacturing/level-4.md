@@ -14,9 +14,9 @@ Lead comprehensive manufacturing operations including production planning, resou
 
 ## Prerequisites
 {: .prerequisites}
-- Manufacturing Level 3
-- CAD Level 2
-- Project Management Level 2
+- [Manufacturing Level 3](../manufacturing/level-3)
+- [Project Management Level 2](../project-management/level-2)
+- [CAD Level 3](../cad/level-3)
 
 ## Tasks
 

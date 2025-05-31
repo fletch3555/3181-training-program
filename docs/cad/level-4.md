@@ -49,7 +49,9 @@ order: 4
 - Design Review Protocols
 
 ## Prerequisites
-- Completion of CAD Level 3
-- Completion of Project Management Level 2
+{: .prerequisites}
+- [CAD Level 3](../cad/level-3)
+- [Project Management Level 2](../project-management/level-2)
+- [Mechanical Level 3](../mechanical/level-3)
 
 [← Back to CAD Training](./)

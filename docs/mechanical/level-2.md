@@ -14,8 +14,8 @@ Design and analyze power transmission systems including gear trains, belt drives
 
 ## Prerequisites
 {: .prerequisites}
-- Mechanical Level 1
-- CAD Level 1
+- [Mechanical Level 1](../mechanical/level-1)
+- [CAD Level 1](../cad/level-1)
 
 ## Tasks
 

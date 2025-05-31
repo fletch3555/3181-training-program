@@ -14,9 +14,9 @@ Execute complex multi-axis machining operations including contoured surfaces and
 
 ## Prerequisites
 {: .prerequisites}
-- Manufacturing Level 2
-- Mechanical Level 2
-- Programming Level 1
+- [Manufacturing Level 2](../manufacturing/level-2)
+- [CAD Level 2](../cad/level-2)
+- [Mechanical Level 2](../mechanical/level-2)
 
 ## Tasks
 

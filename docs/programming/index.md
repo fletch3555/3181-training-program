@@ -24,13 +24,6 @@ Develop sophisticated control systems including PID controllers and computer vis
 ### [Level 4: Software Architecture & Leadership](level-4)
 Design scalable software architecture, lead development teams, and implement cutting-edge robotics algorithms.
 
-## Prerequisites
-- No prerequisites for Level 1
-- Each subsequent level requires completion of previous levels
-- Level 2 requires Electrical Level 1
-- Level 3 requires Mechanical Level 2
-- Level 4 requires Project Management Level 2
-
 ## Resources
 - [WPILib Documentation]
 - [FRC Programming Guide]

@@ -14,7 +14,8 @@ Develop multi-year award strategies aligned with team strengths and create compr
 
 ## Prerequisites
 {: .prerequisites}
-Awards Level 1
+- [Awards Level 1](../awards/level-1)
+- [Project Management Level 1](../project-management/level-1)
 
 ## Tasks
 

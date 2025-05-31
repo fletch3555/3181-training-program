@@ -14,7 +14,8 @@ Conduct comprehensive strategic analysis using SWOT methodology and competitive 
 
 ## Prerequisites
 {: .prerequisites}
-Business Level 1
+- [Business Level 1](../business/level-1)
+- [Project Management Level 1](../project-management/level-1)
 
 ## Tasks
 
