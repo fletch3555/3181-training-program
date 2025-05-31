@@ -6,8 +6,6 @@ category: CAD
 order: 4
 ---
 
-# CAD Level 4: Full Robot Integration
-
 ## Learning Objective
 {: .learning-objective}
 Lead comprehensive robot design architecture from concept through manufacturing, coordinate multi-disciplinary design teams across mechanical, electrical, and programming domains, perform advanced engineering analysis including FEA stress analysis and center of gravity calculations, manage design iterations based on testing feedback, and create complete manufacturing documentation while mentoring junior designers.

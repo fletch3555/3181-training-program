@@ -6,8 +6,6 @@ category: Training Modules
 order: 5
 ---
 
-# Programming & Software Development Training
-
 This module provides comprehensive training in programming and software development for FRC team members. Students will progress from basic programming concepts to advanced robot control systems and autonomous operation.
 
 ## Module Overview

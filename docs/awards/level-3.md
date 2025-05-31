@@ -6,8 +6,6 @@ category: Awards
 order: 3
 ---
 
-# Awards Level 3: Award Program Management
-
 ## Learning Objective
 {: .learning-objective}
 Lead comprehensive award programs across multiple competitions and award categories, develop advanced documentation and presentation systems with multimedia integration, implement sophisticated interview preparation programs, and coordinate cross-functional teams for award submission development.

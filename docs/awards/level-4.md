@@ -6,8 +6,6 @@ category: Awards
 order: 4
 ---
 
-# Awards Level 4: Championship Awards Leadership
-
 ## Learning Objective
 {: .learning-objective}
 Lead championship-level award programs with innovative documentation and presentation techniques, develop cutting-edge award submission systems and processes, create comprehensive award program development frameworks, and mentor future award leaders while building sustainable practices.

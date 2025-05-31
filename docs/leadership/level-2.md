@@ -6,8 +6,6 @@ category: Leadership
 order: 2
 ---
 
-# Leadership Level 2: Team Leadership
-
 ## Learning Objective
 {: .learning-objective}
 Lead small teams effectively through coaching and mentoring practices, facilitate productive meetings and team discussions, manage team dynamics and conflict resolution, and develop team culture and morale while achieving collective goals.

@@ -6,8 +6,6 @@ category: Programming
 order: 3
 ---
 
-# Programming Level 3: Advanced Systems Integration
-
 ## Learning Objective
 {: .learning-objective}
 Design and implement complex robot software architectures with advanced state management and error handling, develop vision processing systems for target tracking and navigation, create sophisticated autonomous behaviors using path planning algorithms, and lead cross-functional integration with mechanical and electrical systems.

@@ -6,8 +6,6 @@ category: CAD
 order: 3
 ---
 
-# CAD Level 3: Robot Subsystem Design
-
 ## Learning Objective
 {: .learning-objective}
 Design complete functional robot subsystems incorporating mechanical calculations, create dynamic assemblies with motion studies and interference detection, integrate electrical component placement and wire routing considerations into mechanical designs, and validate designs against FRC rules and performance requirements through simulation and analysis.

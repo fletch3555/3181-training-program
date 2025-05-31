@@ -6,8 +6,6 @@ category: CAD
 order: 1
 ---
 
-# CAD Level 1: Fundamentals
-
 ## Learning Objective
 {: .learning-objective}
 Master the CAD software interface and navigation, create fully-constrained 2D sketches using geometric and dimensional constraints, generate basic 3D parts through extrusion and modification features, and establish proper file management practices for collaborative design work.

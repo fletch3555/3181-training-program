@@ -6,8 +6,6 @@ category: Leadership
 order: 3
 ---
 
-# Leadership Level 3: Organizational Leadership
-
 ## Learning Objective
 {: .learning-objective}
 Drive organizational effectiveness through strategic leadership and culture development, mentor emerging leaders and build leadership development systems, manage organizational change initiatives and stakeholder relationships, and establish sustainable team practices that promote long-term success.

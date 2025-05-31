@@ -6,8 +6,6 @@ category: Training Modules
 order: 7
 ---
 
-# Leadership & Communication Training
-
 This module provides comprehensive training in leadership development and communication skills for FRC team members. Students will progress from basic leadership principles to advanced organizational leadership and mentoring.
 
 ## Module Overview

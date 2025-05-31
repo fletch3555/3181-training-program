@@ -6,8 +6,6 @@ category: Mechanical
 order: 3
 ---
 
-# Mechanical Level 3: Advanced System Design
-
 ## Learning Objective
 {: .learning-objective}
 Design complex mechanical systems with multiple integrated mechanisms and motion paths, perform dynamic analysis including acceleration, momentum, and energy calculations for moving systems, optimize mechanisms for performance and reliability using simulation tools, and lead subsystem integration with cross-functional teams.

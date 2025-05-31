@@ -6,8 +6,6 @@ category: CAD
 order: 2
 ---
 
-# CAD Level 2: Part Design & Assembly
-
 ## Learning Objective
 {: .learning-objective}
 Create complex 3D parts using advanced modeling features (revolve, sweep, loft, patterns), build multi-part assemblies with proper mate constraints and interference checking, apply design for manufacturing principles including tolerances and standard fasteners, and generate technical drawings with dimensions and annotations.

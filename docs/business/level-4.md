@@ -6,8 +6,6 @@ category: Business
 order: 4
 ---
 
-# Business Level 4: Executive Business Leadership
-
 ## Learning Objective
 {: .learning-objective}
 Lead organization-wide business strategy development and execution, establish sustainable funding and resource development programs, create comprehensive organizational governance frameworks, and build lasting business capabilities while mentoring future business leaders.

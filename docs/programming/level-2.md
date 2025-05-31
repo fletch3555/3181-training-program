@@ -6,8 +6,6 @@ category: Programming
 order: 2
 ---
 
-# Programming Level 2: Robot Control Systems
-
 ## Learning Objective
 {: .learning-objective}
 Implement advanced robot control systems including closed-loop feedback and motion profiles, integrate various sensor types with proper calibration and error handling, develop command-based robot architecture with subsystem management, and create comprehensive autonomous routines.

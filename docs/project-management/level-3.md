@@ -6,8 +6,6 @@ category: Project Management
 order: 3
 ---
 
-# Project Management Level 3: Strategic Management
-
 ## Learning Objective
 {: .learning-objective}
 Manage large-scale initiatives coordinating multiple interdependent projects with complex resource allocation decisions, develop and implement strategic planning processes with competitive analysis and data-driven decision making, establish performance management systems with key performance indicators and continuous improvement processes, and lead organizational change initiatives.

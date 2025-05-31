@@ -6,8 +6,6 @@ category: Electrical
 order: 3
 ---
 
-# Electrical Level 3: Advanced Control Systems
-
 ## Learning Objective
 {: .learning-objective}
 Design and implement advanced sensor systems including vision processing and custom sensor integration, develop sophisticated motor control systems with closed-loop feedback and motion profiling, create comprehensive electrical system documentation and troubleshooting procedures, and coordinate with programming team for control system development.

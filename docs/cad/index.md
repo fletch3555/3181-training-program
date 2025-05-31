@@ -6,8 +6,6 @@ category: Training Modules
 order: 1
 ---
 
-# CAD (Computer-Aided Design) Training
-
 This module provides comprehensive training in Computer-Aided Design for FRC team members. Students will progress from basic CAD fundamentals to complete robot system design and integration.
 
 ## Module Overview

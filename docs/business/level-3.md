@@ -6,8 +6,6 @@ category: Business
 order: 3
 ---
 
-# Business Level 3: Advanced Business Management
-
 ## Learning Objective
 {: .learning-objective}
 Master advanced financial management including complex budgeting, multi-source funding coordination, and financial forecasting with stakeholder reporting, develop and manage strategic partnerships, implement innovation management systems for continuous improvement, and establish comprehensive risk management frameworks.

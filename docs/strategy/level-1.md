@@ -6,8 +6,6 @@ category: Strategy
 order: 1
 ---
 
-# Strategy Level 1: Game Analysis Fundamentals
-
 ## Learning Objective
 {: .learning-objective}
 Achieve complete mastery of game rules and penalty conditions with near-perfect accuracy, analyze scoring opportunities and time constraints to identify highest-value activities, understand competition formats including qualification, alliance selection, and elimination procedures with ranking systems, and develop basic scouting systems.

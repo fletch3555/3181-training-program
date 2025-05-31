@@ -6,8 +6,6 @@ category: Manufacturing
 order: 1
 ---
 
-# Manufacturing Level 1: Shop Safety & Basic Tools
-
 ## Learning Objective
 {: .learning-objective}
 Achieve comprehensive machine shop safety certification including hazard identification and emergency procedures, master precision measurement techniques using calipers, micrometers, and layout tools to specified tolerances, develop proficiency with basic hand tools for filing, cutting, and finishing operations, and demonstrate proper workholding and material handling techniques.

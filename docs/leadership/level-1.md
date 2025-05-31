@@ -6,8 +6,6 @@ category: Leadership
 order: 1
 ---
 
-# Leadership Level 1: Personal Leadership
-
 ## Learning Objective
 {: .learning-objective}
 Develop fundamental leadership skills including self-awareness and emotional intelligence, master effective communication strategies for various situations, build strong interpersonal relationships through active listening and feedback, and establish personal growth practices for continuous improvement.

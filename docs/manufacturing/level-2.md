@@ -6,8 +6,6 @@ category: Manufacturing
 order: 2
 ---
 
-# Manufacturing Level 2: Power Tools & Basic Machining
-
 ## Learning Objective
 {: .learning-objective}
 Master safe operation of power tools and basic machine tools including drill press, band saw, and bench grinder, perform fundamental machining operations on manual mill and lathe with proper setup and tooling selection, implement quality control procedures including in-process inspection and documentation, and develop basic fixturing skills.

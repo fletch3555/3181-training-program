@@ -1,12 +1,10 @@
 ---
 layout: libdoc/page
-title: Strategy Training Program
+title: Competition Strategy Training
 description: Competition strategy and game analysis training
 category: Training Modules
 order: 9
 ---
-
-# Competition Strategy Training
 
 This module provides comprehensive training in FRC competition strategy and game analysis. Students will progress from basic game analysis to advanced match strategy and alliance leadership.
 

@@ -6,8 +6,6 @@ category: Training Modules
 order: 4
 ---
 
-# Electrical Systems Training
-
 This module provides comprehensive training in electrical systems and control implementation for FRC team members. Students will progress from basic electrical concepts to advanced control systems and troubleshooting.
 
 ## Module Overview

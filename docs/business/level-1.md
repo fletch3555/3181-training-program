@@ -6,8 +6,6 @@ category: Business
 order: 1
 ---
 
-# Business Level 1: Fundamentals
-
 ## Learning Objective
 {: .learning-objective}
 Develop financial literacy including basic accounting principles, budgeting, expense tracking, and ROI calculations for team activities, understand marketing fundamentals including target audience identification, material creation, and effectiveness measurement, comprehend organizational structures and decision-making processes within team context.

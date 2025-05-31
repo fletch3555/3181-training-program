@@ -6,8 +6,6 @@ category: Strategy
 order: 2
 ---
 
-# Strategy Level 2: Strategic Analysis & Planning
-
 ## Learning Objective
 {: .learning-objective}
 Develop comprehensive match strategies through detailed game analysis and scoring optimization, create alliance selection strategies using multi-dimensional team evaluation, implement advanced scouting systems with data analytics, and coordinate strategy execution with drive team and pit crew.

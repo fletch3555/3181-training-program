@@ -6,8 +6,6 @@ category: Awards
 order: 2
 ---
 
-# Awards Level 2: Award Strategy & Documentation
-
 ## Learning Objective
 {: .learning-objective}
 Develop comprehensive award strategies with clear action plans and timelines, create detailed documentation systems for award submissions, implement advanced presentation and interview techniques, and coordinate award submission teams across multiple categories.

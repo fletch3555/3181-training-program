@@ -6,8 +6,6 @@ category: Training Modules
 order: 8
 ---
 
-# Business & Strategy Training
-
 This module provides comprehensive training in business management and strategic planning for FRC team members. Students will develop skills in financial management, marketing, organizational leadership, and strategic planning while building sustainable team operations.
 
 ## Module Overview

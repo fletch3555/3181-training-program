@@ -6,8 +6,6 @@ category: Electrical
 order: 2
 ---
 
-# Electrical Level 2: Robot Electronics
-
 ## Learning Objective
 {: .learning-objective}
 Design and implement FRC-specific electrical systems including power distribution, motor controller setup, and sensor integration, understand motor characteristics and control methods for different applications, implement proper grounding and noise reduction techniques, and develop basic troubleshooting skills.

@@ -6,8 +6,6 @@ category: Electrical
 order: 1
 ---
 
-# Electrical Level 1: Basic Electronics
-
 ## Learning Objective
 {: .learning-objective}
 Master fundamental electrical concepts including voltage, current, and resistance relationships through Ohm's law, understand electrical safety procedures and proper use of measurement tools, develop basic circuit construction skills using breadboards and hand tools, and learn proper wire management techniques.

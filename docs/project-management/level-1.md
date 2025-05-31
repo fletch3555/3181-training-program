@@ -6,8 +6,6 @@ category: Project Management
 order: 1
 ---
 
-# Project Management Level 1: Personal Organization
-
 ## Learning Objective
 {: .learning-objective}
 Develop strong personal productivity skills using time management tools and prioritization frameworks, establish goal-setting practices with SMART criteria and progress tracking systems, master fundamental communication skills including written correspondence and meeting participation, and create basic project planning abilities.

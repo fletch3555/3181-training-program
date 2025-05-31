@@ -6,8 +6,6 @@ category: Programming
 order: 1
 ---
 
-# Programming Level 1: Programming Fundamentals
-
 ## Learning Objective
 {: .learning-objective}
 Master fundamental programming concepts including variables, control structures, and functions, set up the FRC development environment with necessary tools and dependencies, implement basic robot control code for tank drive operation, and establish version control practices using Git.

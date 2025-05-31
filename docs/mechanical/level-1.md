@@ -6,8 +6,6 @@ category: Mechanical
 order: 1
 ---
 
-# Mechanical Level 1: Basic Mechanical Concepts
-
 ## Learning Objective
 {: .learning-objective}
 Develop fundamental understanding of mechanical engineering principles including force, torque, and work relationships, master safe operation of hand tools and measuring instruments, understand material properties and selection criteria for robotics applications, and apply basic statics calculations to analyze simple mechanical systems.

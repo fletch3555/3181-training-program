@@ -6,8 +6,6 @@ category: Training Modules
 order: 10
 ---
 
-# Awards & Recognition Training
-
 This module provides comprehensive training in FIRST award preparation and documentation. Students will develop skills in award documentation, presentation, and team recognition while building sustainable award submission processes.
 
 ## Module Overview

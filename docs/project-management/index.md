@@ -6,8 +6,6 @@ category: Training Modules
 order: 6
 ---
 
-# Project Management Training
-
 This module provides comprehensive training in project management and organizational leadership for FRC team members. Students will develop from personal organization skills to executive leadership while building strong project management capabilities.
 
 ## Module Overview

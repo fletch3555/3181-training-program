@@ -6,8 +6,6 @@ category: Electrical
 order: 4
 ---
 
-# Electrical Level 4: Systems Architecture & Innovation
-
 ## Learning Objective
 {: .learning-objective}
 Lead robot-level electrical architecture development including power system optimization and control system integration, pioneer innovative electrical solutions through advanced system design and custom electronics development, implement comprehensive testing and validation frameworks, and mentor future electrical designers while building sustainable practices.

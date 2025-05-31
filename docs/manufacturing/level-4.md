@@ -6,8 +6,6 @@ category: Manufacturing
 order: 4
 ---
 
-# Manufacturing Level 4: Manufacturing Leadership
-
 ## Learning Objective
 {: .learning-objective}
 Lead manufacturing operations including process optimization and lean manufacturing implementation, develop innovative manufacturing solutions through technology integration and continuous improvement, establish comprehensive quality management systems, and mentor future manufacturing team members while building sustainable manufacturing practices.

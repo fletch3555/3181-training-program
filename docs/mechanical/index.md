@@ -6,8 +6,6 @@ category: Training Modules
 order: 2
 ---
 
-# Mechanical Systems Training
-
 This module provides comprehensive training in mechanical engineering principles and mechanism design for FRC team members. Students will progress from basic mechanical concepts to advanced systems integration and optimization.
 
 ## Module Overview

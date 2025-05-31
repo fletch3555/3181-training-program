@@ -6,8 +6,6 @@ category: Leadership
 order: 4
 ---
 
-# Leadership Level 4: Executive Leadership
-
 ## Learning Objective
 {: .learning-objective}
 Provide executive-level leadership through strategic vision and organizational development, build high-performance organizations through effective systems and processes, establish strategic partnerships and community relationships, and create lasting program impact while developing future executive leaders.

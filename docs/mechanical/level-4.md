@@ -6,8 +6,6 @@ category: Mechanical
 order: 4
 ---
 
-# Mechanical Level 4: Systems Architecture
-
 ## Learning Objective
 {: .learning-objective}
 Lead robot-level mechanical architecture development including drivetrain selection and major subsystem integration, pioneer innovative mechanical solutions through advanced analysis and creative problem-solving, develop comprehensive testing and validation frameworks for mechanical systems, and mentor future mechanical designers while building sustainable design practices.

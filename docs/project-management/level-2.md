@@ -6,8 +6,6 @@ category: Project Management
 order: 2
 ---
 
-# Project Management Level 2: Team Coordination
-
 ## Learning Objective
 {: .learning-objective}
 Lead small project teams through effective meeting facilitation and conflict resolution techniques, develop comprehensive project planning skills with milestone tracking and resource management, implement risk management processes including identification, mitigation, and contingency planning, and manage stakeholder relationships.

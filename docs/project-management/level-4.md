@@ -6,8 +6,6 @@ category: Project Management
 order: 4
 ---
 
-# Project Management Level 4: Executive Leadership
-
 ## Learning Objective
 {: .learning-objective}
 Lead organization-wide program management initiatives with strategic vision and resource optimization, develop innovative project management methodologies tailored to team needs, establish comprehensive governance frameworks for project selection and portfolio management, and build sustainable program management capabilities while mentoring future leaders.

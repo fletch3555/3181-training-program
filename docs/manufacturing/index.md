@@ -6,8 +6,6 @@ category: Training Modules
 order: 3
 ---
 
-# Manufacturing & Machining Training
-
 This module provides comprehensive training in manufacturing and machining operations for FRC team members. Students will progress from basic shop safety to advanced manufacturing leadership and process optimization.
 
 ## Module Overview

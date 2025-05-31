@@ -6,8 +6,6 @@ category: Business
 order: 2
 ---
 
-# Business Level 2: Strategic Planning
-
 ## Learning Objective
 {: .learning-objective}
 Conduct comprehensive strategic analysis using SWOT methodology and competitive landscape assessment, develop multi-year strategic plans with measurable objectives and performance metrics aligned to organizational priorities, design sustainable business models including funding strategies and stakeholder value propositions.

@@ -6,8 +6,6 @@ category: Manufacturing
 order: 3
 ---
 
-# Manufacturing Level 3: Advanced Machining & Fixtures
-
 ## Learning Objective
 {: .learning-objective}
 Execute complex machining operations requiring tight tolerances and surface finish specifications, design and fabricate custom fixturing for repeatable part production, develop comprehensive process planning documentation including operation sequencing and tooling requirements, and coordinate manufacturing with design requirements.

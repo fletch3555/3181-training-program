@@ -6,8 +6,6 @@ category: Strategy
 order: 3
 ---
 
-# Strategy Level 3: Advanced Competition Management
-
 ## Learning Objective
 {: .learning-objective}
 Lead competition-level strategic operations including multi-match planning and alliance coordination, develop advanced data analytics systems for real-time decision support, create comprehensive playbooks for various game scenarios and opponents, and coordinate cross-functional teams during competition.

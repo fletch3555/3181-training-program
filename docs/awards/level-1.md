@@ -6,8 +6,6 @@ category: Awards
 order: 1
 ---
 
-# Awards Level 1: Award Understanding
-
 ## Learning Objective
 {: .learning-objective}
 Master comprehensive understanding of all FIRST award categories and requirements, develop basic documentation skills including team information gathering and organization, understand judging processes and interview techniques, and create simple award submission materials.

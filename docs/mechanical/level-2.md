@@ -6,8 +6,6 @@ category: Mechanical
 order: 2
 ---
 
-# Mechanical Level 2: Mechanism Design & Analysis
-
 ## Learning Objective
 {: .learning-objective}
 Design and analyze power transmission systems including gear trains, belt drives, and chain systems with proper ratio calculations and component selection, understand bearing and shaft design principles for rotating machinery, integrate multiple mechanical elements into functional mechanisms, and build physical prototypes to validate theoretical calculations.
