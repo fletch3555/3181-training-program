@@ -4,21 +4,21 @@ description: Comprehensive training program for FIRST Robotics Competition teams
 remote_theme: olivier3lanc/Jekyll-LibDoc
 
 # Theme Settings
-libdoc:
-  nav_head: FRC Team 3181 Training Program
-  title_label: true
-  title_size: 'md'
-  nav_local: true
-  nav_search: true
-  nav_size: 'sm'
-  toc: true
-  toc_size: 'lg'
-  copy_code: true
-  font_size: '1rem'
-  nav_border: true
-  nav_animation: true
-  nav_sticky: true
-  breadcrumbs: true
+#libdoc:
+#  nav_head: FRC Team 3181 Training Program
+#  title_label: true
+#  title_size: 'md'
+#  nav_local: true
+#  nav_search: true
+#  nav_size: 'sm'
+#  toc: true
+#  toc_size: 'lg'
+#  copy_code: true
+#  font_size: '1rem'
+#  nav_border: true
+#  nav_animation: true
+#  nav_sticky: true
+#  breadcrumbs: true
 
 # Navigation
 navigation:
