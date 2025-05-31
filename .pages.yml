@@ -1,7 +1,8 @@
 content:
 - name: modules
   type: collection
-  path: docs/{name}/index.md
+  path: docs
+  filename: '{name}/index.md'
   fields:
     - name: name
       type: string
@@ -27,7 +28,8 @@ content:
 
 - name: levels
   type: collection
-  path: docs/{name}/level-{level}.md
+  path: docs
+  filename: '{module}/level-{level}.md'
   fields:
     - name: title
       type: string
