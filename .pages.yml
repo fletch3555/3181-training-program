@@ -3,7 +3,8 @@ content:
   type: collection
   path: docs/*/index.md
   fields:
-    - name: string
+    - name: name
+      type: string
       description: text
     - name: category
       type: select
