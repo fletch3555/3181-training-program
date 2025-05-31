@@ -9,6 +9,7 @@ order: 1
 # CAD Level 1: Fundamentals
 
 ## Learning Objective
+{: .learning-objective}
 Master the CAD software interface and navigation, create fully-constrained 2D sketches using geometric and dimensional constraints, generate basic 3D parts through extrusion and modification features, and establish proper file management practices for collaborative design work.
 
 ## Prerequisites
@@ -52,24 +53,10 @@ None
 - Demonstrate proper file organization
 
 ## Resources
+{: .resources}
 - CAD Software Tutorial Videos
 - Team File Naming Convention Guide
 - Basic Parts Design Guide
 - Example Project Files
-
-<style>
-.task-group {
-    color: #0366d6;
-    margin-top: 2rem;
-}
-
-.task-group + ul {
-    margin-top: 1rem;
-}
-
-input[type="checkbox"] {
-    margin-right: 0.5rem;
-}
-</style>
 
 [← Back to CAD Training](../)

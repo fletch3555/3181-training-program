@@ -20,38 +20,38 @@ Lead robot-level software architecture development with advanced system design p
 
 ## Tasks
 
-### 1. System Architecture
+### 1. Software Architecture
 {: .task-group}
-- [ ] Design complete software architecture
-- [ ] Implement advanced design patterns
-- [ ] Optimize system performance
-- [ ] Create architectural documentation
+- [ ] Design scalable software architecture
+- [ ] Lead software development team
+- [ ] Implement software design patterns
+- [ ] Coordinate software with all technical disciplines
 
-### 2. Innovation Leadership
+### 2. Advanced Algorithms
 {: .task-group}
-- [ ] Research cutting-edge algorithms
-- [ ] Develop novel software solutions
-- [ ] Lead performance optimization
-- [ ] Share innovations with FIRST community
+- [ ] Implement advanced path planning algorithms
+- [ ] Develop custom control algorithms
+- [ ] Optimize algorithms for competition performance
+- [ ] Research and implement cutting-edge techniques
 
-### 3. Quality Assurance
+### 3. System Performance
 {: .task-group}
-- [ ] Implement continuous integration
-- [ ] Create comprehensive test suites
-- [ ] Develop code review processes
-- [ ] Establish quality metrics
+- [ ] Profile and optimize code performance
+- [ ] Implement real-time system monitoring
+- [ ] Design fault-tolerant software systems
+- [ ] Validate software reliability
 
-### 4. Technical Leadership
+### 4. Leadership & Innovation
 {: .task-group}
 - [ ] Mentor programming team members
-- [ ] Lead architecture reviews
-- [ ] Create coding standards
+- [ ] Research advanced software techniques
+- [ ] Document architectural decisions
 - [ ] Build sustainable development practices
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully lead robot software development
-- Implement innovative solutions
+- Successfully lead software architecture development
+- Implement innovative algorithms
 - Create lasting technical documentation
 
 ## Resources

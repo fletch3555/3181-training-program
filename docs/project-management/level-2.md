@@ -21,43 +21,43 @@ Lead small project teams through effective meeting facilitation and conflict res
 
 ### 1. Team Leadership
 {: .task-group}
-- [ ] Lead small project teams (3-5 people)
-- [ ] Facilitate productive team meetings
-- [ ] Resolve conflicts within team
-- [ ] Motivate team members toward common goals
+- [ ] Facilitate effective team meetings
+- [ ] Manage team dynamics
+- [ ] Resolve conflicts constructively
+- [ ] Delegate tasks appropriately
 
 ### 2. Project Planning
 {: .task-group}
-- [ ] Create detailed project plans with milestones
-- [ ] Coordinate multiple parallel work streams
-- [ ] Manage project resources and assignments
-- [ ] Track project progress and report status
+- [ ] Create detailed project schedules
+- [ ] Track milestones and deliverables
+- [ ] Manage resource allocation
+- [ ] Monitor project progress
 
 ### 3. Risk Management
 {: .task-group}
 - [ ] Identify potential project risks
-- [ ] Develop risk mitigation strategies
-- [ ] Monitor risks throughout project lifecycle
-- [ ] Implement contingency plans when needed
+- [ ] Develop mitigation strategies
+- [ ] Create contingency plans
+- [ ] Monitor risk indicators
 
 ### 4. Stakeholder Management
 {: .task-group}
-- [ ] Identify all project stakeholders
-- [ ] Communicate regularly with stakeholders
-- [ ] Manage stakeholder expectations
-- [ ] Resolve stakeholder conflicts
+- [ ] Identify key stakeholders
+- [ ] Develop communication plans
+- [ ] Manage expectations
+- [ ] Build stakeholder relationships
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully lead team project to completion
-- Create and execute risk management plan
-- Receive positive stakeholder feedback
+- Successfully lead team project
+- Create comprehensive project plan
+- Demonstrate effective stakeholder management
 
 ## Resources
 {: .resources}
-- Project Management Templates
-- Meeting Facilitation Guide
-- Risk Management Tools
-- Stakeholder Communication Plan
+- Team Leadership Guide
+- Project Planning Templates
+- Risk Management Framework
+- Stakeholder Communication Tools
 
 [← Back to Project Management Training](../)

@@ -1,64 +1,64 @@
 ---
 layout: libdoc/page
-title: Awards Level 4 - Award Program Leadership
-description: High-level award program development and organizational impact
+title: Awards Level 4 - Championship Awards Leadership
+description: Championship-level awards program leadership and innovation
 category: Awards
 order: 4
 ---
 
-# Awards Level 4: Award Program Leadership
+# Awards Level 4: Championship Awards Leadership
 
 ## Learning Objective
 {: .learning-objective}
-Create sustainable award systems that consistently achieve highest-level recognition through systematic documentation and preparation processes, develop scalable impact programs that demonstrate measurable community benefit aligned with FIRST values, establish comprehensive award infrastructure supporting long-term success, and mentor other teams in award excellence.
+Lead championship-level award programs with innovative documentation and presentation techniques, develop cutting-edge award submission systems and processes, create comprehensive award program development frameworks, and mentor future award leaders while building sustainable practices.
 
 ## Prerequisites
 {: .prerequisites}
 - [Awards Level 3](../awards/level-3)
+- [Project Management Level 3](../project-management/level-3)
 - [Leadership Level 3](../leadership/level-3)
-- [Business Level 3](../business/level-3)
 
 ## Tasks
 
-### 1. Program Development
+### 1. Program Innovation
 {: .task-group}
-- [ ] Create sustainable award systems
-- [ ] Develop standardized processes
-- [ ] Build award preparation infrastructure
-- [ ] Establish recognition tracking methods
+- [ ] Design innovative submission systems
+- [ ] Create advanced documentation tools
+- [ ] Develop new presentation methods
+- [ ] Lead program innovation efforts
 
-### 2. Impact Programs
+### 2. Strategic Leadership
 {: .task-group}
-- [ ] Design scalable outreach initiatives
-- [ ] Create impact measurement systems
-- [ ] Develop partnership networks
-- [ ] Document long-term community benefits
+- [ ] Lead award strategy development
+- [ ] Create long-term program plans
+- [ ] Build organizational capabilities
+- [ ] Drive continuous improvement
 
-### 3. Program Leadership
+### 3. System Development
 {: .task-group}
-- [ ] Lead Chairman's Award submissions
-- [ ] Mentor other teams' award programs
-- [ ] Create award preparation resources
-- [ ] Build program sustainability
+- [ ] Create comprehensive frameworks
+- [ ] Develop evaluation systems
+- [ ] Implement quality controls
+- [ ] Design program metrics
 
-### 4. Legacy Development
+### 4. Program Legacy
 {: .task-group}
-- [ ] Establish knowledge transfer systems
-- [ ] Create multi-year award strategies
-- [ ] Build award preparation capacity
-- [ ] Document best practices and lessons
+- [ ] Mentor award program leaders
+- [ ] Document program knowledge
+- [ ] Create succession plans
+- [ ] Ensure program sustainability
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Achieve highest-level award recognition
-- Create sustainable award systems
-- Successfully mentor other teams
+- Successfully lead championship awards
+- Implement innovative systems
+- Create lasting program impact
 
 ## Resources
 {: .resources}
-- Award Program Development Guide
-- Impact Measurement Framework
-- Program Leadership Manual
-- Legacy Planning Templates
+- Innovation Framework Guide
+- Strategic Leadership Manual
+- System Development Tools
+- Program Legacy Framework
 
 [← Back to Awards Training](../)

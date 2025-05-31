@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Electrical Level 2 - Robot Electronics
-description: FRC-specific electrical systems and motor control
+description: Robot electrical systems and motor control
 category: Electrical
 order: 2
 ---
@@ -19,38 +19,38 @@ Design and implement FRC-specific electrical systems including power distributio
 
 ## Tasks
 
-### 1. Power Distribution
+### 1. Power Systems
 {: .task-group}
-- [ ] Design power distribution layout
-- [ ] Install PDP and breakers correctly
-- [ ] Manage voltage brownout scenarios
-- [ ] Calculate system power requirements
+- [ ] Set up power distribution panel
+- [ ] Configure breaker panel
+- [ ] Implement voltage regulation
+- [ ] Design power routing
 
 ### 2. Motor Control
 {: .task-group}
-- [ ] Understand motor types and characteristics
-- [ ] Configure motor controllers properly
+- [ ] Configure motor controllers
+- [ ] Understand motor characteristics
 - [ ] Implement current limiting
-- [ ] Set up encoder feedback systems
+- [ ] Test motor operation
 
 ### 3. Sensor Integration
 {: .task-group}
-- [ ] Install limit switches and encoders
-- [ ] Configure gyros and accelerometers
-- [ ] Set up vision system connections
-- [ ] Test sensor functionality
+- [ ] Install limit switches
+- [ ] Configure encoders
+- [ ] Set up gyro/accelerometer
+- [ ] Test sensor operation
 
-### 4. System Protection
+### 4. System Maintenance
 {: .task-group}
-- [ ] Implement proper grounding
-- [ ] Reduce electrical noise
-- [ ] Protect sensitive electronics
-- [ ] Create backup power systems
+- [ ] Perform basic troubleshooting
+- [ ] Monitor system health
+- [ ] Maintain electrical documentation
+- [ ] Create spare parts inventory
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
 - Successfully build robot electrical system
-- Pass electrical inspection requirements
+- Pass motor control evaluation
 - Demonstrate troubleshooting skills
 
 ## Resources
@@ -58,6 +58,6 @@ Design and implement FRC-specific electrical systems including power distributio
 - FRC Electrical Guide
 - Motor Control Manual
 - Sensor Integration Guide
-- Electrical Testing Procedures
+- Troubleshooting Manual
 
 [← Back to Electrical Training](../)

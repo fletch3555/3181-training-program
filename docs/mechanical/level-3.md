@@ -20,33 +20,33 @@ Design complex mechanical systems with multiple integrated mechanisms and motion
 
 ## Tasks
 
-### 1. Complex Mechanism Design
+### 1. Advanced Mechanism Design
 {: .task-group}
-- [ ] Design multi-DOF mechanisms
-- [ ] Create path-following mechanisms
-- [ ] Integrate multiple power transmission systems
-- [ ] Optimize mechanism performance
+- [ ] Design four-bar linkages for specific motion
+- [ ] Create cam-follower systems
+- [ ] Analyze instant centers and velocity
+- [ ] Design complex manipulator with 3+ degrees of freedom
 
 ### 2. Dynamic Analysis
 {: .task-group}
-- [ ] Calculate system dynamics and forces
-- [ ] Analyze acceleration and deceleration profiles
-- [ ] Model energy transfer through mechanisms
-- [ ] Perform vibration and resonance analysis
+- [ ] Calculate system inertia and dynamics
+- [ ] Analyze vibration and resonance issues
+- [ ] Design for dynamic loading conditions
+- [ ] Perform motion analysis using CAD tools
 
-### 3. System Integration
+### 3. Optimization Techniques
 {: .task-group}
-- [ ] Lead mechanical subsystem integration
+- [ ] Optimize mechanisms for multiple objectives
+- [ ] Perform trade studies between alternatives
+- [ ] Use simulation tools for validation
+- [ ] Implement design improvements based on testing
+
+### 4. System Integration
+{: .task-group}
+- [ ] Lead mechanical subsystem development
 - [ ] Coordinate with electrical and programming teams
-- [ ] Resolve interface conflicts
-- [ ] Create system integration test plans
-
-### 4. Performance Optimization
-{: .task-group}
-- [ ] Use simulation tools for analysis
-- [ ] Optimize weight and strength ratios
-- [ ] Improve system reliability
-- [ ] Develop testing and validation procedures
+- [ ] Resolve integration conflicts
+- [ ] Document system interfaces and dependencies
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification

@@ -10,7 +10,7 @@ order: 1
 
 ## Learning Objective
 {: .learning-objective}
-Achieve comprehensive machine shop safety certification including hazard identification and emergency procedures, master precision measurement techniques using calipers, micrometers, and layout tools to specified tolerances, develop proficiency with basic hand tools for filing, cutting, and finishing operations, and demonstrate proper workholding and material handling techniques for safe and accurate work.
+Achieve comprehensive machine shop safety certification including hazard identification and emergency procedures, master precision measurement techniques using calipers, micrometers, and layout tools to specified tolerances, develop proficiency with basic hand tools for filing, cutting, and finishing operations, and demonstrate proper workholding and material handling techniques.
 
 ## Prerequisites
 {: .prerequisites}
@@ -35,28 +35,28 @@ None
 ### 3. Basic Hand Tools
 {: .task-group}
 - [ ] File to specified dimensions and surface finish
-- [ ] Use hand saws and hacksaws properly
-- [ ] Deburr parts to professional standards
-- [ ] Complete project: hand-filed bracket to ±0.005"
+- [ ] Cut materials with hand saws
+- [ ] Use taps and dies properly
+- [ ] Demonstrate proper deburring techniques
 
-### 4. Bench Work Skills
+### 4. Workholding
 {: .task-group}
-- [ ] Tap holes with proper technique
-- [ ] Drill holes with hand drill to location/size tolerance
-- [ ] Use vises and clamps effectively
-- [ ] Demonstrate proper part handling and workholding
+- [ ] Use bench vises safely
+- [ ] Select appropriate clamps and fixtures
+- [ ] Demonstrate proper part support
+- [ ] Practice safe material handling
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Pass shop safety exam with 90% or higher
-- Successfully complete hand-filed bracket project
-- Demonstrate proper tool usage and safety practices
+- Pass safety certification exam
+- Complete measurement accuracy test
+- Demonstrate proper tool handling
 
 ## Resources
 {: .resources}
 - Shop Safety Manual
 - Precision Measurement Guide
 - Hand Tool Reference
-- Project Specifications
+- Material Handling Guidelines
 
 [← Back to Manufacturing Training](../)

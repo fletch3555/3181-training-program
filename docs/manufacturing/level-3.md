@@ -10,7 +10,7 @@ order: 3
 
 ## Learning Objective
 {: .learning-objective}
-Execute complex multi-axis machining operations including contoured surfaces and precision threading, design and fabricate custom workholding fixtures to ensure part accuracy and repeatability, develop comprehensive manufacturing process plans with optimized tooling and sequencing, and coordinate machining operations with design requirements.
+Execute complex machining operations requiring tight tolerances and surface finish specifications, design and fabricate custom fixturing for repeatable part production, develop comprehensive process planning documentation including operation sequencing and tooling requirements, and coordinate manufacturing with design requirements.
 
 ## Prerequisites
 {: .prerequisites}
@@ -20,38 +20,38 @@ Execute complex multi-axis machining operations including contoured surfaces and
 
 ## Tasks
 
-### 1. Advanced Mill Operations
+### 1. Advanced Machining
 {: .task-group}
-- [ ] Machine complex contours and profiles
-- [ ] Perform 4-axis machining operations
-- [ ] Create custom cutting tools and fixtures
-- [ ] Machine parts requiring multiple setups
+- [ ] Perform complex milling operations
+- [ ] Machine precision turned components
+- [ ] Achieve specified surface finishes
+- [ ] Machine to tight tolerances (±0.001")
 
-### 2. Advanced Lathe Operations
+### 2. Fixture Design
 {: .task-group}
-- [ ] Perform threading operations
-- [ ] Machine tapers and complex profiles
-- [ ] Use live tooling for cross-drilling
-- [ ] Create parts requiring multiple lathe operations
+- [ ] Design custom fixturing systems
+- [ ] Create modular fixture components
+- [ ] Implement quick-change features
+- [ ] Validate fixture repeatability
 
-### 3. Fixture Design & Build
+### 3. Process Planning
 {: .task-group}
-- [ ] Design custom workholding fixtures
-- [ ] Build fixtures using machining and welding
-- [ ] Validate fixture accuracy and repeatability
-- [ ] Train others on fixture usage
+- [ ] Create detailed operation sequences
+- [ ] Specify tooling requirements
+- [ ] Document setup procedures
+- [ ] Develop inspection protocols
 
-### 4. Process Planning
+### 4. Design Integration
 {: .task-group}
-- [ ] Develop manufacturing process plans
-- [ ] Select optimal tooling and speeds/feeds
-- [ ] Plan machining sequences for efficiency
-- [ ] Estimate machining time and costs
+- [ ] Review designs for manufacturability
+- [ ] Suggest design improvements
+- [ ] Coordinate with design team
+- [ ] Create manufacturing feedback loop
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully complete complex machining project
-- Design and build effective fixturing system
+- Successfully machine complex parts
+- Design and implement custom fixtures
 - Create comprehensive process documentation
 
 ## Resources
@@ -59,6 +59,6 @@ Execute complex multi-axis machining operations including contoured surfaces and
 - Advanced Machining Guide
 - Fixture Design Manual
 - Process Planning Templates
-- Cost Estimation Tools
+- Design for Manufacturing Guide
 
 [← Back to Manufacturing Training](../)

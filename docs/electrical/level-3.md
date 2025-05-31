@@ -20,39 +20,39 @@ Design and implement advanced sensor systems including vision processing and cus
 
 ## Tasks
 
-### 1. Advanced Sensing
+### 1. Advanced Sensors
 {: .task-group}
-- [ ] Implement computer vision systems
 - [ ] Design custom sensor solutions
-- [ ] Create sensor fusion systems
-- [ ] Calibrate complex sensor arrays
+- [ ] Implement vision system hardware
+- [ ] Set up advanced feedback systems
+- [ ] Calibrate sensor networks
 
-### 2. Advanced Motor Control
+### 2. Motor Control Systems
 {: .task-group}
 - [ ] Implement closed-loop control
 - [ ] Design motion profiling systems
 - [ ] Optimize motor performance
-- [ ] Create multi-motor coordinated systems
+- [ ] Configure multi-motor coordination
 
 ### 3. System Documentation
 {: .task-group}
-- [ ] Create comprehensive wiring diagrams
-- [ ] Document system configurations
-- [ ] Develop troubleshooting guides
-- [ ] Maintain electrical system records
+- [ ] Create electrical system diagrams
+- [ ] Document troubleshooting procedures
+- [ ] Maintain component specifications
+- [ ] Design testing protocols
 
 ### 4. Cross-Team Integration
 {: .task-group}
 - [ ] Coordinate with programming team
-- [ ] Support control system development
-- [ ] Implement testing procedures
-- [ ] Resolve system integration issues
+- [ ] Support mechanical integration
+- [ ] Implement control system interfaces
+- [ ] Validate system performance
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully implement advanced control systems
-- Create complete system documentation
-- Lead electrical-software integration
+- Successfully implement advanced control system
+- Create comprehensive documentation
+- Lead cross-functional integration
 
 ## Resources
 {: .resources}

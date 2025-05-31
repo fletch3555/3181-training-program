@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Leadership Level 2 - Team Leadership
-description: Team-level leadership and management skills
+description: Team leadership and coaching skills
 category: Leadership
 order: 2
 ---
@@ -10,7 +10,7 @@ order: 2
 
 ## Learning Objective
 {: .learning-objective}
-Create inclusive team environments that build trust and collaboration among diverse team members, inspire and motivate teams toward shared vision while recognizing achievements and maintaining morale during challenges, develop conflict resolution skills to mediate disputes and find collaborative solutions, and implement performance management practices.
+Lead small teams effectively through coaching and mentoring practices, facilitate productive meetings and team discussions, manage team dynamics and conflict resolution, and develop team culture and morale while achieving collective goals.
 
 ## Prerequisites
 {: .prerequisites}
@@ -19,45 +19,45 @@ Create inclusive team environments that build trust and collaboration among dive
 
 ## Tasks
 
-### 1. Team Building
+### 1. Team Development
 {: .task-group}
-- [ ] Create inclusive team environment
-- [ ] Build trust among team members
-- [ ] Facilitate team bonding activities
-- [ ] Address team dynamics issues
+- [ ] Lead team building activities
+- [ ] Coach individual team members
+- [ ] Set team goals and expectations
+- [ ] Foster positive team culture
 
-### 2. Motivation & Inspiration
+### 2. Meeting Leadership
 {: .task-group}
-- [ ] Inspire team members toward common vision
-- [ ] Recognize and celebrate team achievements
-- [ ] Help team members overcome challenges
-- [ ] Maintain team morale during difficult periods
+- [ ] Plan and facilitate meetings
+- [ ] Guide productive discussions
+- [ ] Document and track action items
+- [ ] Follow up on commitments
 
-### 3. Conflict Resolution
+### 3. Conflict Management
 {: .task-group}
-- [ ] Identify sources of team conflict
-- [ ] Mediate disputes between team members
-- [ ] Find win-win solutions to disagreements
-- [ ] Prevent conflicts from escalating
+- [ ] Identify sources of conflict
+- [ ] Mediate team disagreements
+- [ ] Find win-win solutions
+- [ ] Build team consensus
 
-### 4. Performance Management
+### 4. Team Performance
 {: .task-group}
-- [ ] Set clear expectations for team members
-- [ ] Provide regular feedback on performance
-- [ ] Address performance issues constructively
-- [ ] Help team members develop their skills
+- [ ] Monitor team progress
+- [ ] Provide team feedback
+- [ ] Celebrate team successes
+- [ ] Address performance issues
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully lead a subteam for an entire season
-- Resolve multiple team conflicts effectively
-- Receive positive feedback from team members
+- Successfully lead team initiatives
+- Demonstrate effective meeting facilitation
+- Show positive team development
 
 ## Resources
 {: .resources}
-- Team Building Activity Guide
-- Conflict Resolution Best Practices
-- Performance Management Templates
-- Leadership Development Resources
+- Team Building Guide
+- Meeting Facilitation Manual
+- Conflict Resolution Toolkit
+- Performance Management Guide
 
 [← Back to Leadership Training](../)

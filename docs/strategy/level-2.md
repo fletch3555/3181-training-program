@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Strategy Level 2 - Strategic Analysis & Planning
-description: Advanced strategy development and match planning
+description: Advanced game strategy and alliance selection
 category: Strategy
 order: 2
 ---
@@ -10,7 +10,7 @@ order: 2
 
 ## Learning Objective
 {: .learning-objective}
-Develop mathematical models for optimal game strategies with risk-reward analysis and meta-game trend identification, create comprehensive scouting systems with team management and detailed opponent capability databases, design match-specific strategies with pre-game planning and in-match adaptation protocols, and develop alliance selection strategies.
+Develop comprehensive match strategies through detailed game analysis and scoring optimization, create alliance selection strategies using multi-dimensional team evaluation, implement advanced scouting systems with data analytics, and coordinate strategy execution with drive team and pit crew.
 
 ## Prerequisites
 {: .prerequisites}
@@ -21,43 +21,43 @@ Develop mathematical models for optimal game strategies with risk-reward analysi
 
 ### 1. Advanced Game Analysis
 {: .task-group}
-- [ ] Model optimal game strategies mathematically
-- [ ] Analyze risk vs. reward for different approaches
-- [ ] Identify meta-game trends and evolution
-- [ ] Coordinate with technical teams on robot requirements
+- [ ] Create detailed scoring models
+- [ ] Analyze match tempo and pacing
+- [ ] Develop counter-strategies
+- [ ] Map optimal field navigation paths
 
-### 2. Comprehensive Scouting
+### 2. Alliance Selection
 {: .task-group}
-- [ ] Design comprehensive scouting system
-- [ ] Train and manage scouting team
-- [ ] Analyze opponent strengths and weaknesses
-- [ ] Create detailed team capability databases
+- [ ] Create team evaluation rubrics
+- [ ] Analyze team complementarity
+- [ ] Develop selection algorithms
+- [ ] Plan backup selection strategies
 
-### 3. Match Strategy
+### 3. Advanced Scouting
 {: .task-group}
-- [ ] Develop pre-match strategy for each opponent
-- [ ] Create in-match adaptation protocols
-- [ ] Design autonomous strategy selection
-- [ ] Plan endgame and overtime strategies
+- [ ] Design comprehensive scouting systems
+- [ ] Train scouting teams
+- [ ] Analyze performance trends
+- [ ] Generate detailed team reports
 
-### 4. Alliance Strategy
+### 4. Strategy Implementation
 {: .task-group}
-- [ ] Analyze alliance composition options
-- [ ] Develop alliance selection priorities
-- [ ] Create complementary robot strategies
-- [ ] Plan alliance coordination and communication
+- [ ] Brief drive teams on strategy
+- [ ] Coordinate with pit crew
+- [ ] Make real-time strategy adjustments
+- [ ] Conduct post-match analysis
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully implement comprehensive scouting system
-- Demonstrate effective match strategy planning
-- Lead alliance selection analysis
+- Develop comprehensive match strategy
+- Successfully manage scouting system
+- Execute effective alliance selection
 
 ## Resources
 {: .resources}
 - Advanced Strategy Guide
-- Scouting System Manual
-- Match Planning Templates
 - Alliance Selection Tools
+- Scouting Analysis Templates
+- Match Strategy Framework
 
 [← Back to Strategy Training](../)

@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Awards Level 1 - Award Understanding
-description: Basic award preparation and documentation skills
+description: Basic understanding of FIRST awards and documentation
 category: Awards
 order: 1
 ---
@@ -10,7 +10,7 @@ order: 1
 
 ## Learning Objective
 {: .learning-objective}
-Develop comprehensive understanding of all FIRST award criteria and judging processes, create basic documentation portfolios with high-quality photography and clear accomplishment descriptions, master fundamental presentation skills including public speaking techniques and question answering, and identify team's unique story connecting activities to FIRST values.
+Master comprehensive understanding of all FIRST award categories and requirements, develop basic documentation skills including team information gathering and organization, understand judging processes and interview techniques, and create simple award submission materials.
 
 ## Prerequisites
 {: .prerequisites}
@@ -20,43 +20,43 @@ None
 
 ### 1. Award Knowledge
 {: .task-group}
-- [ ] Study all FIRST award criteria thoroughly
-- [ ] Understand judging process and timeline
-- [ ] Identify team strengths relevant to different awards
-- [ ] Research previous award winners and their approaches
+- [ ] Study all FIRST award categories
+- [ ] Understand award requirements
+- [ ] Learn judging rubrics
+- [ ] Map award dependencies
 
 ### 2. Documentation Basics
 {: .task-group}
-- [ ] Create basic team documentation portfolio
-- [ ] Take high-quality photos of team activities
-- [ ] Write clear descriptions of team accomplishments
-- [ ] Organize documentation for easy access
+- [ ] Gather team information
+- [ ] Organize documentation
+- [ ] Create basic templates
+- [ ] Maintain activity records
 
-### 3. Presentation Skills
+### 3. Interview Skills
 {: .task-group}
-- [ ] Practice basic public speaking techniques
-- [ ] Create simple presentations about team activities
-- [ ] Answer questions clearly and confidently
-- [ ] Demonstrate enthusiasm and team spirit
+- [ ] Learn interview techniques
+- [ ] Practice award presentations
+- [ ] Master elevator pitches
+- [ ] Handle judge questions
 
-### 4. Team Story Development
+### 4. Basic Submissions
 {: .task-group}
-- [ ] Identify key team accomplishments and activities
-- [ ] Understand team's impact on members and community
-- [ ] Document team's journey and growth
-- [ ] Connect activities to FIRST values and mission
+- [ ] Create award outlines
+- [ ] Write simple submissions
+- [ ] Collect supporting materials
+- [ ] Review submission quality
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Create comprehensive award documentation portfolio
-- Successfully present team story to mentors
-- Pass award criteria knowledge assessment
+- Pass award knowledge test
+- Successfully create basic submission
+- Demonstrate interview skills
 
 ## Resources
 {: .resources}
-- FIRST Award Guidelines
-- Documentation Best Practices
-- Presentation Skills Guide
-- Team Story Development Template
+- FIRST Awards Guide
+- Documentation Templates
+- Interview Practice Guide
+- Submission Examples
 
 [← Back to Awards Training](../)

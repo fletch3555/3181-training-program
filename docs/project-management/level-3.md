@@ -16,7 +16,7 @@ Manage large-scale initiatives coordinating multiple interdependent projects wit
 {: .prerequisites}
 - [Project Management Level 2](../project-management/level-2)
 - [Business Level 2](../business/level-2)
-- [Leadership Level 2](../leadership/level-2)
+- One technical Level 2+
 
 ## Tasks
 
@@ -39,26 +39,26 @@ Manage large-scale initiatives coordinating multiple interdependent projects wit
 - [ ] Establish key performance indicators
 - [ ] Monitor and analyze performance metrics
 - [ ] Implement continuous improvement processes
-- [ ] Report performance to senior stakeholders
+- [ ] Create performance reporting systems
 
 ### 4. Change Management
 {: .task-group}
 - [ ] Lead organizational change initiatives
 - [ ] Manage resistance to change
-- [ ] Implement new processes and procedures
-- [ ] Train team members on new methods
+- [ ] Implement new processes and systems
+- [ ] Build organizational capabilities
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
 - Successfully manage multiple project initiatives
-- Implement effective performance tracking system
+- Implement effective performance management system
 - Lead successful organizational change
 
 ## Resources
 {: .resources}
 - Program Management Guide
-- Strategic Planning Templates
-- Performance Metrics Dashboard
+- Strategic Planning Framework
+- Performance Metrics Manual
 - Change Management Toolkit
 
 [← Back to Project Management Training](../)

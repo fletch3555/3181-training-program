@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Leadership Level 3 - Organizational Leadership
-description: Strategic leadership and organizational development
+description: High-level organizational leadership and culture building
 category: Leadership
 order: 3
 ---
@@ -10,7 +10,7 @@ order: 3
 
 ## Learning Objective
 {: .learning-objective}
-Provide strategic leadership through vision development and organizational alignment while making difficult decisions for long-term benefit, create and promote organizational culture emphasizing values, continuous learning, diversity, and excellence, represent the organization effectively to external stakeholders while building community partnerships, and develop future leaders.
+Drive organizational effectiveness through strategic leadership and culture development, mentor emerging leaders and build leadership development systems, manage organizational change initiatives and stakeholder relationships, and establish sustainable team practices that promote long-term success.
 
 ## Prerequisites
 {: .prerequisites}
@@ -22,43 +22,43 @@ Provide strategic leadership through vision development and organizational align
 
 ### 1. Strategic Leadership
 {: .task-group}
-- [ ] Develop and communicate organizational vision
-- [ ] Align team activities with strategic goals
-- [ ] Make difficult decisions for organization benefit
-- [ ] Lead change management initiatives
+- [ ] Develop organizational vision
+- [ ] Create strategic initiatives
+- [ ] Drive organizational alignment
+- [ ] Lead change management efforts
 
-### 2. Cultural Development
+### 2. Leadership Development
 {: .task-group}
-- [ ] Define and promote organizational values
-- [ ] Create culture of continuous learning
-- [ ] Promote diversity and inclusion
-- [ ] Build culture of innovation and excellence
+- [ ] Mentor emerging leaders
+- [ ] Create leadership training programs
+- [ ] Build succession plans
+- [ ] Foster leadership culture
 
-### 3. External Leadership
+### 3. Culture Building
 {: .task-group}
-- [ ] Represent organization to external stakeholders
-- [ ] Build relationships with community partners
-- [ ] Lead presentations to sponsors and judges
-- [ ] Advocate for STEM education in community
+- [ ] Define organizational values
+- [ ] Implement cultural initiatives
+- [ ] Build inclusive environment
+- [ ] Measure cultural health
 
-### 4. Leadership Development
+### 4. Organizational Systems
 {: .task-group}
-- [ ] Identify and develop future leaders
-- [ ] Create leadership development programs
-- [ ] Mentor other team leaders
-- [ ] Establish leadership succession planning
+- [ ] Design organizational structures
+- [ ] Develop decision-making frameworks
+- [ ] Create feedback systems
+- [ ] Establish sustainable practices
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully lead major organizational initiative
-- Establish new community partnerships
-- Develop and mentor future team leaders
+- Successfully lead organizational initiatives
+- Develop emerging leaders
+- Create lasting cultural impact
 
 ## Resources
 {: .resources}
 - Strategic Leadership Guide
-- Cultural Development Framework
-- Community Partnership Toolkit
-- Leadership Development Program Templates
+- Leadership Development Framework
+- Culture Building Toolkit
+- Organizational Design Manual
 
 [← Back to Leadership Training](../)

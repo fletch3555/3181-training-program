@@ -24,35 +24,35 @@ Lead robot-level electrical architecture development including power system opti
 {: .task-group}
 - [ ] Design complete electrical architecture
 - [ ] Optimize power distribution systems
-- [ ] Integrate multiple control systems
-- [ ] Create system-level documentation
+- [ ] Develop system redundancy plans
+- [ ] Lead architecture design reviews
 
-### 2. Innovation Leadership
+### 2. Innovation Development
 {: .task-group}
-- [ ] Develop novel electrical solutions
-- [ ] Create custom electronic systems
-- [ ] Lead advanced system optimization
-- [ ] Share innovations with FIRST community
+- [ ] Research cutting-edge solutions
+- [ ] Design custom electrical systems
+- [ ] Prototype innovative concepts
+- [ ] Validate new technologies
 
-### 3. Validation Framework
+### 3. Testing & Validation
 {: .task-group}
-- [ ] Create electrical test procedures
-- [ ] Design validation equipment
-- [ ] Implement quality control systems
-- [ ] Document system performance data
+- [ ] Create comprehensive test plans
+- [ ] Develop validation procedures
+- [ ] Implement automated testing
+- [ ] Document system performance
 
-### 4. Technical Leadership
+### 4. Leadership & Mentoring
 {: .task-group}
 - [ ] Mentor electrical team members
-- [ ] Lead design reviews and troubleshooting
-- [ ] Create electrical standards
-- [ ] Build sustainable design practices
+- [ ] Document best practices
+- [ ] Lead technical decision-making
+- [ ] Build sustainable program
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully lead robot electrical design
+- Successfully lead electrical system design
 - Implement innovative solutions
-- Create lasting technical documentation
+- Create lasting documentation
 
 ## Resources
 {: .resources}

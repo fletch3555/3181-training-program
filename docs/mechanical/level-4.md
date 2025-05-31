@@ -20,33 +20,33 @@ Lead robot-level mechanical architecture development including drivetrain select
 
 ## Tasks
 
-### 1. Robot Architecture
+### 1. System Architecture
 {: .task-group}
 - [ ] Design complete robot mechanical architecture
-- [ ] Select and optimize drivetrain configurations
-- [ ] Integrate all mechanical subsystems
-- [ ] Create system-level design documentation
+- [ ] Select and validate drivetrain configuration
+- [ ] Define subsystem interfaces and requirements
+- [ ] Lead system-level design reviews
 
-### 2. Innovation Leadership
+### 2. Innovation Development
 {: .task-group}
-- [ ] Develop novel mechanical solutions
-- [ ] Create proof-of-concept prototypes
-- [ ] Lead advanced analysis and optimization
-- [ ] Share innovations with FIRST community
+- [ ] Research cutting-edge mechanical solutions
+- [ ] Prototype innovative mechanisms
+- [ ] Analyze competitor solutions and improvements
+- [ ] Present technical innovations to judges and peers
 
-### 3. System Validation
+### 3. Testing & Validation
 {: .task-group}
 - [ ] Create comprehensive test plans
-- [ ] Design test fixtures and equipment
 - [ ] Develop validation procedures
+- [ ] Implement design improvements from testing
 - [ ] Document system performance data
 
-### 4. Technical Leadership
+### 4. Leadership & Mentoring
 {: .task-group}
-- [ ] Mentor mechanical design team
-- [ ] Lead design reviews and critiques
-- [ ] Create design standards and guidelines
-- [ ] Build sustainable design practices
+- [ ] Mentor junior mechanical team members
+- [ ] Document design principles and best practices
+- [ ] Lead mechanical strategy development
+- [ ] Transfer knowledge to future teams
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification

@@ -8,29 +8,40 @@ order: 3
 
 # CAD Level 3: Robot Subsystem Design
 
-**Learning Objective:** Design complete functional robot subsystems incorporating mechanical calculations, create dynamic assemblies with motion studies and interference detection, integrate electrical component placement and wire routing considerations into mechanical designs, and validate designs against FRC rules and performance requirements through simulation and analysis.
+## Learning Objective
+{: .learning-objective}
+Design complete functional robot subsystems incorporating mechanical calculations, create dynamic assemblies with motion studies and interference detection, integrate electrical component placement and wire routing considerations into mechanical designs, and validate designs against FRC rules and performance requirements through simulation and analysis.
+
+## Prerequisites
+{: .prerequisites}
+- [CAD Level 2](../cad/level-2)
+- [Mechanical Level 2](../mechanical/level-2)
 
 ## Tasks
 
 ### 1. Mechanism Design
+{: .task-group}
 - [ ] Design multi-degree-of-freedom mechanisms
 - [ ] Calculate gear ratios and mechanical advantage
 - [ ] Analyze motion profiles
 - [ ] Create functional drivetrain or manipulator subsystem
 
 ### 2. Advanced Assembly Techniques
+{: .task-group}
 - [ ] Use advanced mates (gear, cam, slot)
 - [ ] Create motion studies
 - [ ] Perform interference detection during motion
 - [ ] Optimize assembly for serviceability
 
 ### 3. Integration Planning
+{: .task-group}
 - [ ] Design with electrical component placement in mind
 - [ ] Plan wire routing and access
 - [ ] Consider weight distribution
 - [ ] Coordinate with Programming Level 2 for sensor placement
 
 ### 4. Design Validation
+{: .task-group}
 - [ ] Perform basic finite element analysis
 - [ ] Validate against game rules
 - [ ] Create multiple design iterations
@@ -38,20 +49,15 @@ order: 3
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully design and validate a complete robot subsystem
-- Demonstrate integration with electrical and programming requirements
-- Present comprehensive design review to team
+- Successfully design complex robot subsystem
+- Complete motion study and interference analysis
+- Present comprehensive design review
 
 ## Resources
-- FRC Game Manual and Rules
-- Mechanism Design Examples
-- Simulation and Analysis Guides
+{: .resources}
+- FRC Design Guidelines
+- Motion Analysis Guide
+- FEA Basics Tutorial
 - Design Review Templates
 
-## Prerequisites
-{: .prerequisites}
-- [CAD Level 2](../cad/level-2)
-- [Manufacturing Level 2](../manufacturing/level-2)
-- [Mechanical Level 2](../mechanical/level-2)
-
-[← Back to CAD Training](./)
+[← Back to CAD Training](../)

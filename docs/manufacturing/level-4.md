@@ -10,7 +10,7 @@ order: 4
 
 ## Learning Objective
 {: .learning-objective}
-Lead comprehensive manufacturing operations including production planning, resource allocation, and workflow optimization, implement lean manufacturing principles and statistical process control to improve quality and efficiency, integrate advanced manufacturing technologies including CNC programming and CAM systems, and drive continuous improvement initiatives.
+Lead manufacturing operations including process optimization and lean manufacturing implementation, develop innovative manufacturing solutions through technology integration and continuous improvement, establish comprehensive quality management systems, and mentor future manufacturing team members while building sustainable manufacturing practices.
 
 ## Prerequisites
 {: .prerequisites}
@@ -20,45 +20,45 @@ Lead comprehensive manufacturing operations including production planning, resou
 
 ## Tasks
 
-### 1. Production Management
+### 1. Manufacturing Leadership
 {: .task-group}
-- [ ] Plan and schedule multiple machining operations
-- [ ] Coordinate with design team on manufacturability
-- [ ] Manage machining resources and workflow
-- [ ] Train and supervise junior machinists
-
-### 2. Process Optimization
-{: .task-group}
+- [ ] Lead manufacturing team operations
 - [ ] Implement lean manufacturing principles
-- [ ] Optimize setup and cycle times
-- [ ] Develop standard operating procedures
-- [ ] Analyze and improve manufacturing quality
+- [ ] Optimize production workflows
+- [ ] Develop manufacturing strategies
 
-### 3. Advanced Problem Solving
+### 2. Process Innovation
 {: .task-group}
-- [ ] Troubleshoot complex machining problems
-- [ ] Develop creative solutions for difficult parts
-- [ ] Perform process capability studies
+- [ ] Research advanced manufacturing technologies
+- [ ] Implement innovative production methods
+- [ ] Develop custom manufacturing solutions
+- [ ] Create manufacturing improvement plans
+
+### 3. Quality Management
+{: .task-group}
+- [ ] Establish quality control systems
 - [ ] Implement statistical process control
+- [ ] Develop inspection procedures
+- [ ] Create quality documentation standards
 
-### 4. Technology Integration
+### 4. Program Development
 {: .task-group}
-- [ ] Program and operate CNC equipment
-- [ ] Integrate CAM with machining operations
-- [ ] Evaluate new manufacturing technologies
-- [ ] Develop manufacturing strategy for competition
+- [ ] Mentor manufacturing team members
+- [ ] Document manufacturing best practices
+- [ ] Create training materials
+- [ ] Build sustainable manufacturing program
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully manage manufacturing operations
+- Successfully lead manufacturing operations
 - Implement process improvements
-- Lead manufacturing technology adoption
+- Create comprehensive documentation system
 
 ## Resources
 {: .resources}
 - Lean Manufacturing Guide
-- Process Optimization Tools
-- CNC Programming Manual
-- Manufacturing Strategy Templates
+- Quality Management Manual
+- Manufacturing Innovation Resources
+- Leadership Development Guide
 
 [← Back to Manufacturing Training](../)

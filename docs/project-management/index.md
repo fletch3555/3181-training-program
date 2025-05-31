@@ -37,7 +37,7 @@ This module provides comprehensive training in project management and organizati
   prereqs="Project Management Level 3, Leadership Level 2" %}
 
 ## Resources
-- Project Planning Templates
-- Risk Management Tools
-- Stakeholder Communication Guide
-- Team Performance Metrics
+- [Project Planning Templates]
+- [Risk Management Tools]
+- [Stakeholder Communication Guide]
+- [Team Performance Metrics]

@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Business Level 3 - Advanced Business Management
-description: Complex financial management and strategic partnerships
+description: Advanced business operations and innovation management
 category: Business
 order: 3
 ---
@@ -20,45 +20,45 @@ Master advanced financial management including complex budgeting, multi-source f
 
 ## Tasks
 
-### 1. Advanced Financial Management
+### 1. Advanced Finance
 {: .task-group}
-- [ ] Develop complex budgets and financial models
-- [ ] Manage multiple funding sources
-- [ ] Conduct financial analysis and forecasting
-- [ ] Present financial information to stakeholders
+- [ ] Manage complex budgets
+- [ ] Coordinate multiple funding sources
+- [ ] Create financial forecasts
+- [ ] Develop stakeholder reports
 
-### 2. Strategic Partnerships
+### 2. Partnership Management
 {: .task-group}
-- [ ] Identify and evaluate potential partners
-- [ ] Negotiate partnership agreements
-- [ ] Manage ongoing partner relationships
-- [ ] Measure partnership value and ROI
+- [ ] Develop strategic partnerships
+- [ ] Manage partner relationships
+- [ ] Create partnership agreements
+- [ ] Measure partnership value
 
 ### 3. Innovation Management
 {: .task-group}
-- [ ] Create systems for innovation and improvement
-- [ ] Manage innovation portfolio and investments
-- [ ] Measure innovation impact and success
-- [ ] Foster culture of innovation and entrepreneurship
+- [ ] Implement innovation processes
+- [ ] Lead continuous improvement
+- [ ] Manage change initiatives
+- [ ] Track innovation metrics
 
 ### 4. Risk Management
 {: .task-group}
-- [ ] Identify and assess business risks
-- [ ] Develop risk mitigation strategies
-- [ ] Implement risk monitoring systems
-- [ ] Create contingency plans for major risks
+- [ ] Identify strategic risks
+- [ ] Develop mitigation strategies
+- [ ] Create contingency plans
+- [ ] Monitor risk indicators
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully manage complex team budget
-- Establish multiple strategic partnerships
-- Implement effective risk management system
+- Successfully manage complex financial systems
+- Build strategic partnerships
+- Implement innovation program
 
 ## Resources
 {: .resources}
-- Financial Management Tools
-- Partnership Development Guide
+- Advanced Financial Management Guide
+- Partnership Development Manual
 - Innovation Management Framework
-- Risk Assessment Templates
+- Risk Management Toolkit
 
 [← Back to Business Training](../)

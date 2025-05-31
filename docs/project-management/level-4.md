@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Project Management Level 4 - Executive Leadership
-description: Executive-level program management and organizational leadership
+description: Executive-level program management and leadership
 category: Project Management
 order: 4
 ---
@@ -10,55 +10,55 @@ order: 4
 
 ## Learning Objective
 {: .learning-objective}
-Provide executive-level leadership for entire robotics program including vision setting and strategic direction, build high-performing organizations through capability development and culture creation, establish strategic partnerships with external stakeholders, and implement comprehensive legacy planning with succession management and knowledge transfer systems.
+Lead organization-wide program management initiatives with strategic vision and resource optimization, develop innovative project management methodologies tailored to team needs, establish comprehensive governance frameworks for project selection and portfolio management, and build sustainable program management capabilities while mentoring future leaders.
 
 ## Prerequisites
 {: .prerequisites}
 - [Project Management Level 3](../project-management/level-3)
-- [Business Level 3](../business/level-3)
 - [Leadership Level 3](../leadership/level-3)
+- [Business Level 3](../business/level-3)
 
 ## Tasks
 
-### 1. Executive Leadership
+### 1. Portfolio Management
 {: .task-group}
-- [ ] Lead entire robotics program
-- [ ] Set organizational vision and strategy
-- [ ] Make critical decisions under pressure
-- [ ] Represent team to external stakeholders
+- [ ] Develop project selection criteria
+- [ ] Optimize resource allocation
+- [ ] Manage project portfolio balancing
+- [ ] Create investment strategies
 
-### 2. Organizational Development
+### 2. Program Innovation
 {: .task-group}
-- [ ] Build high-performing teams
-- [ ] Develop organizational capabilities
-- [ ] Create culture of excellence and innovation
-- [ ] Implement knowledge management systems
+- [ ] Design custom PM methodologies
+- [ ] Implement innovative tools and processes
+- [ ] Create scalable program frameworks
+- [ ] Develop best practice guidelines
 
-### 3. Strategic Partnerships
+### 3. Governance & Standards
 {: .task-group}
-- [ ] Develop relationships with sponsors and mentors
-- [ ] Lead collaboration with other teams
-- [ ] Represent team at competitions and events
-- [ ] Build community support for program
+- [ ] Establish governance frameworks
+- [ ] Create program standards
+- [ ] Implement quality assurance
+- [ ] Develop compliance processes
 
-### 4. Legacy Planning
+### 4. Legacy Building
 {: .task-group}
-- [ ] Develop succession planning for key roles
-- [ ] Create systems for knowledge transfer
-- [ ] Establish sustainable program processes
-- [ ] Mentor next generation of leaders
+- [ ] Mentor project managers
+- [ ] Build sustainable practices
+- [ ] Document organizational knowledge
+- [ ] Create succession plans
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully lead program through entire season
-- Establish multiple strategic partnerships
-- Create effective succession management system
+- Successfully manage program portfolio
+- Implement innovative PM practices
+- Create lasting organizational impact
 
 ## Resources
 {: .resources}
-- Executive Leadership Guide
-- Organizational Development Tools
-- Partnership Management Framework
-- Succession Planning Templates
+- Portfolio Management Guide
+- Innovation Framework
+- Governance Standards Manual
+- Leadership Development Guide
 
 [← Back to Project Management Training](../)

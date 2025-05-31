@@ -1,64 +1,64 @@
 ---
 layout: libdoc/page
-title: Leadership Level 4 - Transformational Leadership
-description: High-level strategic leadership and organizational transformation
+title: Leadership Level 4 - Executive Leadership
+description: Executive-level leadership and program development
 category: Leadership
 order: 4
 ---
 
-# Leadership Level 4: Transformational Leadership
+# Leadership Level 4: Executive Leadership
 
 ## Learning Objective
 {: .learning-objective}
-Create compelling visions for transformational change that inspire extraordinary performance and challenge conventional approaches, develop systems thinking capabilities to understand complex organizational dynamics and identify high-leverage intervention points, contribute to global FIRST community through best practice sharing and advisory participation, and build lasting organizational legacies.
+Provide executive-level leadership through strategic vision and organizational development, build high-performance organizations through effective systems and processes, establish strategic partnerships and community relationships, and create lasting program impact while developing future executive leaders.
 
 ## Prerequisites
 {: .prerequisites}
 - [Leadership Level 3](../leadership/level-3)
 - [Project Management Level 3](../project-management/level-3)
-- One Level 3 technical certification
+- [Business Level 3](../business/level-3)
 
 ## Tasks
 
-### 1. Visionary Leadership
+### 1. Strategic Vision
 {: .task-group}
-- [ ] Create compelling vision for the future
-- [ ] Inspire others to achieve extraordinary results
-- [ ] Challenge status quo and drive innovation
-- [ ] Build coalition for transformational change
+- [ ] Define long-term organizational vision
+- [ ] Create strategic roadmaps
+- [ ] Build organizational coalitions
+- [ ] Drive strategic decision-making
 
-### 2. Systems Thinking
+### 2. Organizational Development
 {: .task-group}
-- [ ] Understand complex organizational systems
-- [ ] Identify leverage points for maximum impact
-- [ ] Think long-term about organizational sustainability
-- [ ] Consider broader ecosystem and community impact
+- [ ] Design organizational architecture
+- [ ] Implement performance systems
+- [ ] Develop leadership pipelines
+- [ ] Create sustainable programs
 
-### 3. Global Impact
+### 3. External Relations
 {: .task-group}
-- [ ] Contribute to broader FIRST community
-- [ ] Share best practices with other teams
-- [ ] Participate in FIRST advisory committees
-- [ ] Advocate for FIRST at regional/national level
+- [ ] Build strategic partnerships
+- [ ] Manage stakeholder relationships
+- [ ] Represent organization externally
+- [ ] Develop community engagement
 
-### 4. Legacy Building
+### 4. Program Legacy
 {: .task-group}
-- [ ] Create lasting positive change in organization
-- [ ] Establish systems that outlast individual tenure
-- [ ] Develop multiple generations of leaders
-- [ ] Contribute to long-term success of FIRST community
+- [ ] Mentor executive leaders
+- [ ] Create succession plans
+- [ ] Document organizational wisdom
+- [ ] Ensure program sustainability
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Lead successful organizational transformation
-- Make significant contributions to FIRST community
-- Create sustainable leadership development systems
+- Successfully lead organizational strategy
+- Build lasting partnerships
+- Create sustainable program legacy
 
 ## Resources
 {: .resources}
-- Transformational Leadership Guide
-- Systems Thinking Toolkit
-- FIRST Community Resources
-- Legacy Planning Templates
+- Executive Leadership Guide
+- Organizational Development Manual
+- Partnership Building Framework
+- Legacy Planning Tools
 
 [← Back to Leadership Training](../)

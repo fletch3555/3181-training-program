@@ -37,7 +37,7 @@ This module provides comprehensive training in business management and strategic
   prereqs="Business Level 3, Project Management Level 3" %}
 
 ## Resources
-- Financial Management Guide
-- Marketing Strategy Templates
-- Strategic Planning Tools
-- Partnership Development Resources
+- [Financial Management Guide]
+- [Marketing Strategy Templates]
+- [Strategic Planning Tools]
+- [Partnership Development Resources]

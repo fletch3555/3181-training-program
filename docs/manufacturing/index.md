@@ -8,7 +8,7 @@ order: 3
 
 # Manufacturing & Machining Training
 
-This module provides comprehensive training in manufacturing and machining processes for FRC team members. Students will progress from basic shop safety and hand tools to advanced machining operations and manufacturing leadership.
+This module provides comprehensive training in manufacturing and machining operations for FRC team members. Students will progress from basic shop safety to advanced manufacturing leadership and process optimization.
 
 ## Module Overview
 
@@ -37,7 +37,7 @@ This module provides comprehensive training in manufacturing and machining proce
   prereqs="Manufacturing Level 3, CAD Level 2, Project Management Level 2" %}
 
 ## Resources
-- Shop Safety Manual
-- Machine Tool Reference Guides
-- Quality Control Standards
-- Manufacturing Best Practices
+- [Shop Safety Manual]
+- [Machine Tool Reference Guides]
+- [Quality Control Standards]
+- [Manufacturing Best Practices]

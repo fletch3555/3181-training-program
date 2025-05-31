@@ -55,9 +55,9 @@ Implement advanced robot control systems including closed-loop feedback and moti
 
 ## Resources
 {: .resources}
-- Control Systems Guide
+- Advanced Control Guide
 - Sensor Integration Manual
 - Command-Based Programming Tutorial
-- Autonomous Development Examples
+- Autonomous Development Guide
 
 [← Back to Programming Training](../)

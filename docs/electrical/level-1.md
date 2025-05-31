@@ -54,9 +54,9 @@ None
 
 ## Resources
 {: .resources}
-- Electrical Safety Guide
-- Basic Electronics Manual
+- Electrical Safety Manual
+- Basic Electronics Guide
+- Circuit Construction Guide
 - Wire Management Standards
-- FRC Wiring Guide
 
 [← Back to Electrical Training](../)

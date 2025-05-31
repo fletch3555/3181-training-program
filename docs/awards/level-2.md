@@ -1,16 +1,16 @@
 ---
 layout: libdoc/page
-title: Awards Level 2 - Award Preparation & Execution
-description: Advanced award documentation and presentation skills
+title: Awards Level 2 - Award Strategy & Documentation
+description: Advanced award planning and documentation
 category: Awards
 order: 2
 ---
 
-# Awards Level 2: Award Preparation & Execution
+# Awards Level 2: Award Strategy & Documentation
 
 ## Learning Objective
 {: .learning-objective}
-Develop multi-year award strategies aligned with team strengths and create comprehensive documentation systems capturing community impact with external validation, design and deliver compelling presentations adapted to various formats while coordinating effective team member participation, and master judge interactions including pit visits and technical discussions.
+Develop comprehensive award strategies with clear action plans and timelines, create detailed documentation systems for award submissions, implement advanced presentation and interview techniques, and coordinate award submission teams across multiple categories.
 
 ## Prerequisites
 {: .prerequisites}
@@ -19,45 +19,45 @@ Develop multi-year award strategies aligned with team strengths and create compr
 
 ## Tasks
 
-### 1. Strategic Award Planning
+### 1. Award Strategy
 {: .task-group}
-- [ ] Analyze team strengths against award criteria
-- [ ] Develop multi-year award strategy
-- [ ] Coordinate activities to support award goals
-- [ ] Track and document award-relevant activities
+- [ ] Create award action plans
+- [ ] Set submission timelines
+- [ ] Identify target awards
+- [ ] Develop success metrics
 
-### 2. Comprehensive Documentation
+### 2. Advanced Documentation
 {: .task-group}
-- [ ] Create detailed portfolio of team activities
-- [ ] Document community impact and outreach
-- [ ] Collect testimonials and external validation
-- [ ] Maintain organized records throughout season
+- [ ] Design documentation systems
+- [ ] Create detailed templates
+- [ ] Implement tracking tools
+- [ ] Manage digital assets
 
-### 3. Professional Presentations
+### 3. Presentation Development
 {: .task-group}
-- [ ] Create compelling presentations for judges
-- [ ] Practice presentation delivery and timing
-- [ ] Prepare for various presentation formats
-- [ ] Coordinate team members for group presentations
+- [ ] Create presentation strategies
+- [ ] Develop visual materials
+- [ ] Train presentation teams
+- [ ] Practice Q&A scenarios
 
-### 4. Judge Interaction
+### 4. Team Coordination
 {: .task-group}
-- [ ] Engage effectively with judges during pit visits
-- [ ] Answer technical and non-technical questions
-- [ ] Demonstrate team culture and values
-- [ ] Follow up appropriately with judges
+- [ ] Lead submission teams
+- [ ] Coordinate documentation efforts
+- [ ] Manage review processes
+- [ ] Ensure quality control
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Create award-winning documentation portfolio
-- Successfully deliver team presentations
-- Receive positive judge feedback
+- Create comprehensive award strategy
+- Develop complete documentation system
+- Successfully lead submission team
 
 ## Resources
 {: .resources}
-- Award Strategy Planning Guide
+- Award Strategy Guide
 - Documentation System Templates
-- Presentation Skills Handbook
-- Judge Interaction Best Practices
+- Presentation Development Manual
+- Team Coordination Tools
 
 [← Back to Awards Training](../)

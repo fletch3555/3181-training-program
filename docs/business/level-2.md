@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Business Level 2 - Strategic Planning
-description: Strategic analysis and planning for FRC teams
+description: Strategic planning and business development
 category: Business
 order: 2
 ---
@@ -10,7 +10,7 @@ order: 2
 
 ## Learning Objective
 {: .learning-objective}
-Conduct comprehensive strategic analysis using SWOT methodology and competitive landscape assessment, develop multi-year strategic plans with measurable objectives and performance metrics aligned to organizational priorities, design sustainable business models including funding strategies and stakeholder value propositions, and implement performance measurement systems.
+Conduct comprehensive strategic analysis using SWOT methodology and competitive landscape assessment, develop multi-year strategic plans with measurable objectives and performance metrics aligned to organizational priorities, design sustainable business models including funding strategies and stakeholder value propositions.
 
 ## Prerequisites
 {: .prerequisites}
@@ -21,43 +21,43 @@ Conduct comprehensive strategic analysis using SWOT methodology and competitive 
 
 ### 1. Strategic Analysis
 {: .task-group}
-- [ ] Conduct comprehensive SWOT analysis
-- [ ] Analyze competitive landscape
-- [ ] Identify market opportunities and threats
-- [ ] Assess internal capabilities and resources
+- [ ] Perform detailed SWOT analysis
+- [ ] Research competitive landscape
+- [ ] Identify market opportunities
+- [ ] Analyze industry trends
 
-### 2. Strategy Development
+### 2. Business Planning
 {: .task-group}
-- [ ] Develop multi-year strategic plan
-- [ ] Create strategic objectives and metrics
-- [ ] Align activities with strategic priorities
-- [ ] Develop competitive positioning strategy
+- [ ] Create multi-year strategic plan
+- [ ] Develop measurable objectives
+- [ ] Design performance metrics
+- [ ] Align goals with resources
 
-### 3. Business Model Design
+### 3. Financial Strategy
 {: .task-group}
-- [ ] Design sustainable funding model
-- [ ] Identify value propositions for different stakeholders
-- [ ] Create partnerships and alliances
-- [ ] Develop resource mobilization strategy
+- [ ] Develop funding strategies
+- [ ] Create financial projections
+- [ ] Plan resource allocation
+- [ ] Establish financial controls
 
-### 4. Performance Measurement
+### 4. Stakeholder Management
 {: .task-group}
-- [ ] Establish key performance indicators
-- [ ] Create dashboard for tracking progress
-- [ ] Analyze performance data for insights
-- [ ] Make data-driven strategic adjustments
+- [ ] Map stakeholder relationships
+- [ ] Create value propositions
+- [ ] Develop engagement plans
+- [ ] Build support networks
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
 - Create comprehensive strategic plan
-- Successfully implement performance tracking system
-- Present business model to stakeholders
+- Develop viable funding strategy
+- Present stakeholder engagement plan
 
 ## Resources
 {: .resources}
-- Strategic Planning Templates
-- Business Model Canvas Guide
-- KPI Development Tools
-- Performance Dashboard Examples
+- Strategic Analysis Guide
+- Business Planning Templates
+- Financial Strategy Manual
+- Stakeholder Management Tools
 
 [← Back to Business Training](../)

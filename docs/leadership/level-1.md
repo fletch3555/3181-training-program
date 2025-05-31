@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Leadership Level 1 - Personal Leadership
-description: Fundamental leadership and communication skills
+description: Basic leadership and communication skills
 category: Leadership
 order: 1
 ---
@@ -10,7 +10,7 @@ order: 1
 
 ## Learning Objective
 {: .learning-objective}
-Develop self-awareness through leadership assessments and feedback systems, master fundamental communication skills including active listening and adaptable communication styles, demonstrate personal accountability and integrity in all interactions, and begin mentoring activities by helping new team members develop their skills.
+Develop fundamental leadership skills including self-awareness and emotional intelligence, master effective communication strategies for various situations, build strong interpersonal relationships through active listening and feedback, and establish personal growth practices for continuous improvement.
 
 ## Prerequisites
 {: .prerequisites}
@@ -18,45 +18,45 @@ None
 
 ## Tasks
 
-### 1. Self-Assessment
+### 1. Self Development
 {: .task-group}
-- [ ] Complete leadership style assessments
-- [ ] Identify personal strengths and development areas
-- [ ] Seek feedback from peers and mentors
+- [ ] Complete leadership style assessment
+- [ ] Identify strengths and areas for growth
 - [ ] Create personal development plan
+- [ ] Practice self-reflection techniques
 
-### 2. Communication Fundamentals
+### 2. Communication Skills
 {: .task-group}
-- [ ] Practice active listening in team settings
-- [ ] Give clear and specific instructions
-- [ ] Ask effective questions to gather information
-- [ ] Adapt communication style to different audiences
+- [ ] Master active listening techniques
+- [ ] Give and receive constructive feedback
+- [ ] Present ideas clearly and confidently
+- [ ] Practice written communication
 
-### 3. Personal Accountability
+### 3. Relationship Building
 {: .task-group}
-- [ ] Take ownership of mistakes and learning
-- [ ] Follow through on commitments consistently
-- [ ] Show reliability in meeting deadlines
-- [ ] Demonstrate integrity in all interactions
+- [ ] Build positive peer relationships
+- [ ] Work effectively in teams
+- [ ] Show empathy and understanding
+- [ ] Navigate difficult conversations
 
-### 4. Basic Mentoring
+### 4. Personal Effectiveness
 {: .task-group}
-- [ ] Help new team members get oriented
-- [ ] Share knowledge and skills with others
-- [ ] Provide encouragement and support
-- [ ] Model positive team behavior
+- [ ] Make decisions systematically
+- [ ] Manage personal stress
+- [ ] Set and achieve personal goals
+- [ ] Lead by example
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Submit completed leadership assessment results
-- Receive positive peer feedback on communication
-- Successfully mentor at least one new team member
+- Successfully complete leadership assessment
+- Demonstrate effective communication skills
+- Show personal growth and development
 
 ## Resources
 {: .resources}
-- Leadership Style Assessment Tools
-- Communication Skills Handbook
-- Mentoring Best Practices Guide
-- Personal Development Templates
+- Leadership Style Assessment
+- Communication Skills Guide
+- Relationship Building Manual
+- Personal Development Tools
 
 [← Back to Leadership Training](../)

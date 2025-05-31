@@ -2,7 +2,7 @@
 layout: libdoc/page
 title: Mechanical Systems Training
 description: Mechanical engineering and systems design curriculum for FRC teams
-category: Training
+category: Training Modules
 order: 2
 ---
 
@@ -10,19 +10,31 @@ order: 2
 
 This module provides comprehensive training in mechanical engineering principles and mechanism design for FRC team members. Students will progress from basic mechanical concepts to advanced systems integration and optimization.
 
-## Training Levels
+## Module Overview
 
-### [Level 1: Mechanical Fundamentals](level-1)
-Master basic mechanical principles, tool safety, and simple mechanism design while developing proper documentation habits.
+{% include module_level.html 
+  title="Level 1: Basic Mechanical Concepts"
+  description="Master basic mechanical principles, tool safety, and simple mechanism design while developing proper documentation habits."
+  link="level-1"
+  prereqs="None" %}
 
-### [Level 2: Advanced Mechanisms](level-2)
-Design and analyze complex mechanisms, integrate power transmission systems, and apply engineering calculations to design decisions.
+{% include module_level.html 
+  title="Level 2: Mechanism Design & Analysis"
+  description="Design and analyze complex mechanisms, integrate power transmission systems, and apply engineering calculations to design decisions."
+  link="level-2"
+  prereqs="Mechanical Level 1" %}
 
-### [Level 3: System Integration](level-3)
-Create complete mechanical subsystems, optimize designs for performance, and coordinate integration with other subsystems.
+{% include module_level.html 
+  title="Level 3: System Integration"
+  description="Create complete mechanical subsystems, optimize designs for performance, and coordinate integration with other subsystems."
+  link="level-3"
+  prereqs="Mechanical Level 2, CAD Level 2" %}
 
-### [Level 4: Mechanical Architecture](level-4)
-Lead mechanical design teams, develop system architecture, and optimize complete robot mechanical systems.
+{% include module_level.html 
+  title="Level 4: Mechanical Architecture"
+  description="Lead mechanical design teams, develop system architecture, and optimize complete robot mechanical systems."
+  link="level-4"
+  prereqs="Mechanical Level 3, Project Management Level 2" %}
 
 ## Resources
 - [FRC Mechanical Design Principles]

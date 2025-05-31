@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Mechanical Level 1 - Basic Mechanical Concepts
-description: Fundamental mechanical engineering principles and calculations
+description: Fundamental mechanical engineering principles
 category: Mechanical
 order: 1
 ---
@@ -18,45 +18,45 @@ None
 
 ## Tasks
 
-### 1. Tool Identification & Safety
+### 1. Engineering Principles
 {: .task-group}
-- [ ] Identify 20+ common hand tools
-- [ ] Demonstrate proper tool handling and storage
-- [ ] Complete shop safety certification
-- [ ] Use basic measuring tools (ruler, caliper, protractor)
+- [ ] Understand force and motion
+- [ ] Calculate torque and leverage
+- [ ] Learn work and power relationships
+- [ ] Apply basic statics principles
 
-### 2. Fastener Knowledge
+### 2. Tool Proficiency
 {: .task-group}
-- [ ] Identify bolt grades and materials
-- [ ] Calculate proper torque specifications
-- [ ] Understand thread pitch and engagement
-- [ ] Demonstrate proper fastener selection for 5 scenarios
+- [ ] Master basic hand tools
+- [ ] Use measuring instruments accurately
+- [ ] Practice proper tool safety
+- [ ] Maintain tools and workspace
 
-### 3. Basic Mechanical Principles
+### 3. Materials Knowledge
 {: .task-group}
-- [ ] Calculate mechanical advantage for levers
-- [ ] Understand force, torque, and work relationships
-- [ ] Analyze simple machines (pulleys, inclined planes)
-- [ ] Solve 10 basic statics problems
+- [ ] Learn material properties
+- [ ] Understand material selection
+- [ ] Apply fastener principles
+- [ ] Calculate material requirements
 
-### 4. Material Properties
+### 4. Basic Analysis
 {: .task-group}
-- [ ] Identify common materials (aluminum, steel, plastic)
-- [ ] Understand strength vs. weight trade-offs
-- [ ] Select appropriate materials for given applications
-- [ ] Calculate basic material properties (density, strength)
+- [ ] Perform force calculations
+- [ ] Analyze simple mechanisms
+- [ ] Create free body diagrams
+- [ ] Document analysis results
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Pass tool identification test
-- Successfully complete mechanics problems
-- Demonstrate proper material selection
+- Pass tool safety certification
+- Successfully complete material analysis
+- Demonstrate basic calculations
 
 ## Resources
 {: .resources}
-- Hand Tool Safety Guide
-- Fastener Reference Manual
-- Basic Mechanics Workbook
+- Engineering Principles Guide
+- Tool Safety Manual
 - Materials Selection Guide
+- Basic Analysis Templates
 
 [← Back to Mechanical Training](../)

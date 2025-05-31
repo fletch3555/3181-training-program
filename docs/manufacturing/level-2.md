@@ -10,54 +10,54 @@ order: 2
 
 ## Learning Objective
 {: .learning-objective}
-Operate power tools including drill press, band saw, and grinders with proper setup and safety procedures, perform fundamental milling and lathe operations to produce parts within specified dimensional tolerances, understand cutting tool selection and speeds/feeds for different materials, and implement quality control procedures.
+Master safe operation of power tools and basic machine tools including drill press, band saw, and bench grinder, perform fundamental machining operations on manual mill and lathe with proper setup and tooling selection, implement quality control procedures including in-process inspection and documentation, and develop basic fixturing skills.
 
 ## Prerequisites
 {: .prerequisites}
 - [Manufacturing Level 1](../manufacturing/level-1)
-- [CAD Level 1](../cad/level-1)
+- [Mechanical Level 1](../mechanical/level-1)
 
 ## Tasks
 
-### 1. Power Tool Proficiency
+### 1. Power Tool Operations
 {: .task-group}
-- [ ] Operate drill press with various tooling
-- [ ] Use band saw with proper blade selection
-- [ ] Operate angle grinder safely and effectively
-- [ ] Complete project using multiple power tools
+- [ ] Use drill press safely and effectively
+- [ ] Operate band saw with proper blade selection
+- [ ] Use bench and angle grinders safely
+- [ ] Master portable power tool operations
 
-### 2. Basic Mill Operations
+### 2. Basic Machining
 {: .task-group}
-- [ ] Perform basic milling setup and operation
-- [ ] Use end mills and face mills appropriately
-- [ ] Machine square features to ±0.005"
-- [ ] Create simple machined part from stock material
+- [ ] Set up and operate manual mill
+- [ ] Perform basic lathe operations
+- [ ] Select proper cutting tools and speeds
+- [ ] Complete basic machining project
 
-### 3. Basic Lathe Operations
+### 3. Quality Control
 {: .task-group}
-- [ ] Perform safe lathe setup and operation
-- [ ] Turn external diameters to specification
-- [ ] Face parts to proper length
-- [ ] Machine simple shaft with multiple diameters
+- [ ] Perform in-process inspection
+- [ ] Document critical dimensions
+- [ ] Use go/no-go gauges
+- [ ] Maintain quality control records
 
-### 4. Quality Control
+### 4. Workholding & Setup
 {: .task-group}
-- [ ] Inspect parts using appropriate tools
-- [ ] Understand GD&T basics
-- [ ] Maintain quality records
-- [ ] Identify and correct common machining errors
+- [ ] Design simple fixtures
+- [ ] Use machine vises properly
+- [ ] Implement 3-2-1 locating principles
+- [ ] Create setup documentation
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully complete machined parts project
-- Pass quality inspection requirements
-- Demonstrate safe power tool operation
+- Successfully complete machining project
+- Pass power tool safety evaluation
+- Create complete documentation package
 
 ## Resources
 {: .resources}
-- Power Tool Safety Guide
-- Basic Machining Manual
-- Quality Control Standards
-- GD&T Reference Guide
+- Machine Tool Operations Guide
+- Cutting Speed Calculator
+- Quality Control Templates
+- Setup Documentation Examples
 
 [← Back to Manufacturing Training](../)

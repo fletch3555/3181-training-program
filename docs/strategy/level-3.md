@@ -1,7 +1,7 @@
 ---
 layout: libdoc/page
 title: Strategy Level 3 - Advanced Competition Management
-description: High-level strategic leadership and analytics
+description: High-level competition strategy and team coordination
 category: Strategy
 order: 3
 ---
@@ -10,54 +10,55 @@ order: 3
 
 ## Learning Objective
 {: .learning-objective}
-Lead drive teams and strategic decision-making with real-time tactical adjustments under pressure, implement advanced analytics including statistical performance analysis and predictive modeling for match outcomes, coordinate multi-event strategies with robot modifications and competition-level adaptations, and develop competitive intelligence capabilities.
+Lead competition-level strategic operations including multi-match planning and alliance coordination, develop advanced data analytics systems for real-time decision support, create comprehensive playbooks for various game scenarios and opponents, and coordinate cross-functional teams during competition.
 
 ## Prerequisites
 {: .prerequisites}
 - [Strategy Level 2](../strategy/level-2)
 - [Project Management Level 2](../project-management/level-2)
+- [Leadership Level 2](../leadership/level-2)
 
 ## Tasks
 
-### 1. Strategic Leadership
+### 1. Competition Strategy
 {: .task-group}
-- [ ] Lead drive team and strategic decisions
-- [ ] Make real-time tactical adjustments
-- [ ] Coordinate between robot operators and strategy
-- [ ] Manage pressure and time constraints in competition
+- [ ] Develop multi-match strategies
+- [ ] Coordinate alliance tactics
+- [ ] Manage strategic adjustments
+- [ ] Lead match strategy meetings
 
 ### 2. Advanced Analytics
 {: .task-group}
-- [ ] Implement statistical analysis of performance
-- [ ] Use predictive modeling for match outcomes
-- [ ] Analyze performance trends throughout competition
-- [ ] Create data-driven strategy recommendations
+- [ ] Implement predictive analytics
+- [ ] Create real-time dashboards
+- [ ] Analyze opponent patterns
+- [ ] Generate strategic insights
 
-### 3. Multi-Event Strategy
+### 3. Playbook Development
 {: .task-group}
-- [ ] Plan strategy across multiple competitions
-- [ ] Adapt strategy based on competition level
-- [ ] Coordinate robot modifications between events
-- [ ] Manage strategic knowledge sharing with alliance partners
+- [ ] Create comprehensive playbooks
+- [ ] Design counter-strategies
+- [ ] Document tactical variations
+- [ ] Update based on competition data
 
-### 4. Competitive Intelligence
+### 4. Team Coordination
 {: .task-group}
-- [ ] Analyze competitor design and strategy evolution
-- [ ] Understand regional and global competition trends
-- [ ] Predict opponent strategic adaptations
-- [ ] Develop counter-strategies for common approaches
+- [ ] Lead strategy team
+- [ ] Coordinate with drive team
+- [ ] Manage scouting operations
+- [ ] Integrate pit feedback
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Successfully lead competition strategy execution
-- Demonstrate effective real-time decision making
-- Create comprehensive analytics reports
+- Successfully lead competition strategy
+- Implement advanced analytics system
+- Create effective playbook system
 
 ## Resources
 {: .resources}
-- Advanced Analytics Guide
-- Competition Management Manual
-- Strategic Leadership Resources
-- Competitive Analysis Tools
+- Competition Strategy Guide
+- Analytics Framework
+- Playbook Templates
+- Team Coordination Manual
 
 [← Back to Strategy Training](../)

@@ -1,64 +1,64 @@
 ---
 layout: libdoc/page
-title: Awards Level 3 - Award Leadership & Excellence
-description: Award program leadership and mentoring
+title: Awards Level 3 - Award Program Management
+description: High-level award program development and coordination
 category: Awards
 order: 3
 ---
 
-# Awards Level 3: Award Leadership & Excellence
+# Awards Level 3: Award Program Management
 
 ## Learning Objective
 {: .learning-objective}
-Lead comprehensive award campaigns coordinating multiple team members with timeline management and strategic integration, achieve consistent award recognition through excellence in execution and measurable impact demonstration, mentor team members and other teams in award preparation while sharing best practices with FIRST community, and pioneer innovative approaches to award preparation.
+Lead comprehensive award programs across multiple competitions and award categories, develop advanced documentation and presentation systems with multimedia integration, implement sophisticated interview preparation programs, and coordinate cross-functional teams for award submission development.
 
 ## Prerequisites
 {: .prerequisites}
 - [Awards Level 2](../awards/level-2)
 - [Project Management Level 2](../project-management/level-2)
-- [Business Level 2](../business/level-2)
+- [Leadership Level 2](../leadership/level-2)
 
 ## Tasks
 
-### 1. Award Campaign Management
+### 1. Program Management
 {: .task-group}
-- [ ] Lead comprehensive award campaigns
-- [ ] Coordinate multiple team members in award efforts
-- [ ] Manage award preparation timeline and deliverables
-- [ ] Integrate award goals with overall team strategy
+- [ ] Manage multiple award submissions
+- [ ] Coordinate submission timelines
+- [ ] Lead documentation teams
+- [ ] Track program metrics
 
-### 2. Excellence in Execution
+### 2. Advanced Systems
 {: .task-group}
-- [ ] Achieve consistent award recognition
-- [ ] Create award-winning presentations and submissions
-- [ ] Excel in judge interactions and interviews
-- [ ] Demonstrate measurable impact and results
+- [ ] Create multimedia presentations
+- [ ] Develop digital portfolios
+- [ ] Implement data management systems
+- [ ] Design review processes
 
-### 3. Mentorship and Training
+### 3. Interview Excellence
 {: .task-group}
-- [ ] Train team members in award preparation
-- [ ] Mentor other teams in award strategies
-- [ ] Share best practices with FIRST community
-- [ ] Develop award preparation resources
+- [ ] Create interview strategies
+- [ ] Develop presentation teams
+- [ ] Lead mock interviews
+- [ ] Design feedback systems
 
-### 4. Innovation in Recognition
+### 4. Team Development
 {: .task-group}
-- [ ] Develop creative approaches to award preparation
-- [ ] Pioneer new methods for demonstrating impact
-- [ ] Create compelling narratives and presentations
-- [ ] Push boundaries of traditional award approaches
+- [ ] Train award team members
+- [ ] Create mentoring programs
+- [ ] Build sustainable practices
+- [ ] Document best practices
 
 ## Assessment Criteria
 - Complete all checklist items with mentor verification
-- Lead successful award submissions
-- Train other teams in award preparation
-- Implement innovative award strategies
+- Successfully manage award program
+- Create effective submission systems
+- Lead successful presentation teams
 
 ## Resources
 {: .resources}
-- Award Campaign Management Guide
-- Excellence Framework
-- Mentoring Best Practices
-- Innovation Strategy Toolkit
+- Program Management Guide
+- Multimedia Development Tools
+- Interview Excellence Manual
+- Team Development Framework
 
 [← Back to Awards Training](../)
