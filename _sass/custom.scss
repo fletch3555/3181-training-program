@@ -29,11 +29,51 @@ h3 { font-size: 1.5rem; }
     }
 }
 
+// Navigation styling for technical/non-technical sections
+.libdoc {
+    // Technical skills section
+    nav li:has(> a:contains("Technical Skills")) {
+        margin-top: 2rem;
+        border-top: 2px solid #e0e0e0;
+        padding-top: 1rem;
+
+        > a {
+            color: #2196F3;
+            font-weight: bold;
+        }
+    }
+
+    // Non-technical skills section
+    nav li:has(> a:contains("Non-Technical Skills")) {
+        margin-top: 2rem;
+        border-top: 2px solid #e0e0e0;
+        padding-top: 1rem;
+
+        > a {
+            color: #4CAF50;
+            font-weight: bold;
+        }
+    }
+
+    // Sub-items styling
+    nav li ul li a {
+        padding-left: 2rem;
+    }
+}
+
 // Content area
 .content {
     max-width: 900px;
     margin: 0 auto;
     padding: 2rem;
+
+    > h2 + p + .module-card {
+        margin-top: 2rem;
+    }
+    
+    > h2 {
+        clear: both;
+    }
 }
 
 // Task lists
@@ -94,5 +134,36 @@ h3 { font-size: 1.5rem; }
         &:hover {
             text-decoration: underline;
         }
+    }
+}
+
+@media (min-width: 768px) {
+    .module-card {
+        width: calc(50% - 1rem);
+        float: left;
+        margin-right: 1rem;
+        
+        &:nth-child(2n) {
+            margin-right: 0;
+        }
+        
+        &:nth-child(2n+1) {
+            clear: left;
+        }
+    }
+}
+
+// Module card type indicators
+.level-badge {
+    &:before {
+        margin-right: 0.3rem;
+    }
+    
+    &[data-level="Technical"]:before {
+        content: "🔧";
+    }
+    
+    &[data-level="Non-Technical"]:before {
+        content: "📋";
     }
 }
