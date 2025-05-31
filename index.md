@@ -8,69 +8,75 @@ order: 1
 
 # FRC Team Training Curriculum
 
-Welcome to the FRC Team Training Program! This curriculum provides a structured pathway for student development across all aspects of FIRST Robotics Competition. Each module contains 4 progressive levels with defined learning objectives and assessment tasks.
+Welcome to the FRC Team Training Curriculum! This comprehensive program is designed to develop both technical and non-technical skills essential for success in FIRST Robotics Competition.
 
-## Training Modules
+## Technical Skills
 
-{% include docs_module.html 
-  title="CAD (Computer-Aided Design)"
-  description="Master CAD software to design robot components and assemblies, from basic part modeling to complete robot integration."
-  link="/docs/cad/"
-  level="4 Levels" %}
+These modules focus on the hands-on, technical aspects of robot design and construction:
 
 {% include docs_module.html 
-  title="Mechanical Systems"
-  description="Learn mechanical engineering principles and mechanism design, from basic concepts to advanced systems integration."
-  link="/docs/mechanical/"
-  level="4 Levels" %}
+    title="CAD"
+    description="Computer-Aided Design skills for robot modeling and visualization. Learn to create 3D models, assemblies, and technical drawings."
+    link="/docs/cad/"
+    level="Technical" %}
 
 {% include docs_module.html 
-  title="Manufacturing"
-  description="Develop skills in fabrication and manufacturing processes, from hand tools to advanced machining operations."
-  link="/docs/manufacturing/"
-  level="4 Levels" %}
+    title="Mechanical Systems"
+    description="Understanding and designing mechanical components, mechanisms, and systems for robot functionality."
+    link="/docs/mechanical/"
+    level="Technical" %}
 
 {% include docs_module.html 
-  title="Electrical Systems"
-  description="Understand electrical systems and control implementation, from basic circuits to advanced control systems."
-  link="/docs/electrical/"
-  level="4 Levels" %}
+    title="Manufacturing"
+    description="Fabrication and assembly techniques for building robust and reliable robot components."
+    link="/docs/manufacturing/"
+    level="Technical" %}
 
 {% include docs_module.html 
-  title="Programming & Software"
-  description="Learn software development for robotics, from basic programming to advanced control and vision systems."
-  link="/docs/programming/"
-  level="4 Levels" %}
+    title="Electrical Systems"
+    description="Wiring, electronics, and control systems implementation for robot operation."
+    link="/docs/electrical/"
+    level="Technical" %}
 
 {% include docs_module.html 
-  title="Project Management"
-  description="Master project management skills, from personal organization to executive leadership."
-  link="/docs/project-management/"
-  level="4 Levels" %}
+    title="Programming"
+    description="Robot control software development, from basic commands to advanced autonomous routines."
+    link="/docs/programming/"
+    level="Technical" %}
+
+## Non-Technical Skills
+
+These modules develop the organizational and soft skills crucial for team success:
 
 {% include docs_module.html 
-  title="Leadership & Communication"
-  description="Develop leadership abilities, from personal skills to transformational leadership."
-  link="/docs/leadership/"
-  level="4 Levels" %}
+    title="Project Management"
+    description="Planning and organizing team efforts, timeline management, and resource allocation."
+    link="/docs/project-management/"
+    level="Non-Technical" %}
 
 {% include docs_module.html 
-  title="Business & Strategy"
-  description="Build business acumen, from basic principles to executive management."
-  link="/docs/business/"
-  level="4 Levels" %}
+    title="Leadership"
+    description="Team leadership, personal development, and effective communication strategies."
+    link="/docs/leadership/"
+    level="Non-Technical" %}
 
 {% include docs_module.html 
-  title="Competition Strategy"
-  description="Master competition strategy, from game analysis to championship-level leadership."
-  link="/docs/strategy/"
-  level="4 Levels" %}
+    title="Business & Strategy"
+    description="Team sustainability, fundraising, outreach, and strategic planning."
+    link="/docs/business/"
+    level="Non-Technical" %}
 
 {% include docs_module.html 
-  title="Awards & Recognition"
-  description="Learn award preparation and documentation, from basic understanding to program leadership."
-  link="/docs/awards/"
-  level="4 Levels" %}
+    title="Competition Strategy"
+    description="Game analysis, scouting systems, and alliance selection strategies."
+    link="/docs/strategy/"
+    level="Non-Technical" %}
+
+{% include docs_module.html 
+    title="Awards & Recognition"
+    description="Documentation, award submission preparation, and presentation skills."
+    link="/docs/awards/"
+    level="Non-Technical" %}
 
 ## Implementation Guidelines
 

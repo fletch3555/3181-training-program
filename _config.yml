@@ -24,26 +24,30 @@ libdoc:
 navigation:
   - title: Overview
     url: /
-  - title: CAD
-    url: /docs/cad/
-  - title: Mechanical Systems
-    url: /docs/mechanical/
-  - title: Manufacturing
-    url: /docs/manufacturing/
-  - title: Electrical Systems
-    url: /docs/electrical/
-  - title: Programming
-    url: /docs/programming/
-  - title: Project Management
-    url: /docs/project-management/
-  - title: Leadership
-    url: /docs/leadership/
-  - title: Business & Strategy
-    url: /docs/business/
-  - title: Competition Strategy
-    url: /docs/competition/
-  - title: Awards & Recognition
-    url: /docs/awards/
+  - title: Technical Skills
+    children:
+      - title: CAD
+        url: /docs/cad/
+      - title: Mechanical Systems
+        url: /docs/mechanical/
+      - title: Manufacturing
+        url: /docs/manufacturing/
+      - title: Electrical Systems
+        url: /docs/electrical/
+      - title: Programming
+        url: /docs/programming/
+  - title: Non-Technical Skills
+    children:
+      - title: Project Management
+        url: /docs/project-management/
+      - title: Leadership
+        url: /docs/leadership/
+      - title: Business & Strategy
+        url: /docs/business/
+      - title: Competition Strategy
+        url: /docs/competition/
+      - title: Awards & Recognition
+        url: /docs/awards/
 
 # Custom CSS
 sass:
