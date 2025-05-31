@@ -1,0 +1,43 @@
+<div class="module-card">
+    <h3><a href="{{ include.link }}">{{ include.title }}</a></h3>
+    <p>{{ include.description }}</p>
+    <div class="module-meta">
+        <span class="level-badge">{{ include.level }}</span>
+    </div>
+</div>
+
+<style>
+.module-card {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: #fff;
+    transition: box-shadow 0.3s ease;
+}
+
+.module-card:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.module-card h3 {
+    margin-top: 0;
+}
+
+.module-card h3 a {
+    text-decoration: none;
+    color: #0366d6;
+}
+
+.module-meta {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+}
+
+.level-badge {
+    background: #e1e4e8;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+}
+</style>

@@ -1,11 +1,66 @@
+# Site settings
+title: FRC Team Training Curriculum
+description: Comprehensive training program for FIRST Robotics Competition teams
 remote_theme: olivier3lanc/Jekyll-LibDoc
 
-defaults:
-  -
-    values:
-      layout: libdoc/page
-kramdown:
-    syntax_highlighter_opts:
-        disable: true
+# Theme Settings
+libdoc:
+  nav_head: FRC Team 3181 Training Program
+  title_label: true
+  title_size: 'md'
+  nav_local: true
+  nav_search: true
+  nav_size: 'sm'
+  toc: true
+  toc_size: 'lg'
+  copy_code: true
+  font_size: '1rem'
+  nav_border: true
+  nav_animation: true
+  nav_sticky: true
+  breadcrumbs: true
+
+# Navigation
+navigation:
+  - title: Overview
+    url: /
+  - title: CAD
+    url: /docs/cad/
+  - title: Mechanical Systems
+    url: /docs/mechanical/
+  - title: Manufacturing
+    url: /docs/manufacturing/
+  - title: Electrical Systems
+    url: /docs/electrical/
+  - title: Programming
+    url: /docs/programming/
+  - title: Project Management
+    url: /docs/project-management/
+  - title: Leadership
+    url: /docs/leadership/
+  - title: Business & Strategy
+    url: /docs/business/
+  - title: Competition Strategy
+    url: /docs/competition/
+  - title: Awards & Recognition
+    url: /docs/awards/
+
+# Custom CSS
 sass:
-    style: compressed
+  sass_dir: _sass
+  style: compressed
+
+# Collections
+collections:
+  docs:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: "libdoc/page"
+      category: "Documentation"
+
