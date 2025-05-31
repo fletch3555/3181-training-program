@@ -40,6 +40,7 @@ content:
       type: reference
       options:
         collection: modules
+        value: '{name}'
     - name: level
       type: number
       options:
