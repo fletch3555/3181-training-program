@@ -21,36 +21,10 @@ content:
     - name: moduleType
       type: select
       options:
-<<<<<<< HEAD
-        values: 
-        - Technical
-        - Non-Technical
-    - name: layout
-      type: string
-      default: libdoc/page
-      hidden: true
-
-- name: levels
-  type: collection
-  path: docs
-  filename: '{module}/level-{level}.md'
-  fields:
-    - name: title
-      type: string
-      description: text
-    - name: module
-      label: Module
-      type: reference
-      options:
-        collection: modules
-        value: '{name}'
-    - name: level
-=======
         values:
           - Technical
           - Non-Technical
     - name: order
->>>>>>> b6ea627 (migrating to 11ty)
       type: number
     - name: resources
       label: Module Resources
