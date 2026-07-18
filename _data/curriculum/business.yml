@@ -1,0 +1,260 @@
+name: Business
+title: Business & Strategy Training
+description: Business management and strategic planning curriculum for FRC teams
+intro: This module provides comprehensive training in business management and strategic planning for FRC team members. Students will develop skills in financial management, marketing, organizational leadership, and strategic planning while building sustainable team operations.
+moduleType: Non-Technical
+order: 8
+resources:
+  - Financial Management Guide
+  - Marketing Strategy Templates
+  - Strategic Planning Tools
+  - Partnership Development Resources
+levels:
+  - level: 1
+    title: Fundamentals
+    description: Basic business and financial principles for FRC teams
+    objective: Develop financial literacy including basic accounting principles, budgeting, expense tracking, and ROI calculations for team activities, understand marketing fundamentals including target audience identification, material creation, and effectiveness measurement, comprehend organizational structures and decision-making processes within team context.
+    prerequisites: []
+    primaryResources:
+      - Basic Accounting Guide
+      - Marketing Templates
+      - Organizational Structure Examples
+      - Strategic Planning Tools
+    tasks:
+      - heading: Financial Literacy
+        items:
+          - text: Understand basic accounting principles
+            subitems: []
+          - text: Create and manage simple budgets
+            subitems: []
+          - text: Track expenses and revenue
+            subitems: []
+          - text: Calculate return on investment for team activities
+            subitems: []
+      - heading: Marketing Basics
+        items:
+          - text: Understand target audience identification
+            subitems: []
+          - text: Create basic marketing materials
+            subitems: []
+          - text: Use social media for team promotion
+            subitems: []
+          - text: Measure marketing effectiveness
+            subitems: []
+      - heading: Organizational Structure
+        items:
+          - text: Understand different organizational models
+            subitems: []
+          - text: Map team organizational structure
+            subitems: []
+          - text: Identify roles and responsibilities
+            subitems: []
+          - text: Understand decision-making processes
+            subitems: []
+      - heading: Basic Strategy
+        items:
+          - text: Conduct simple competitive analysis
+            subitems: []
+          - text: Identify team strengths and weaknesses
+            subitems: []
+          - text: Set measurable team objectives
+            subitems: []
+          - text: Understand resource allocation principles
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully create and manage a basic team budget
+      - Develop a simple marketing plan
+      - Present a basic SWOT analysis of the team
+  - level: 2
+    title: Strategic Planning
+    description: Strategic planning and business development
+    objective: Conduct comprehensive strategic analysis using SWOT methodology and competitive landscape assessment, develop multi-year strategic plans with measurable objectives and performance metrics aligned to organizational priorities, design sustainable business models including funding strategies and stakeholder value propositions.
+    prerequisites:
+      - module: business
+        level: 1
+        text: null
+      - module: project-management
+        level: 1
+        text: null
+    primaryResources:
+      - Strategic Analysis Guide
+      - Business Planning Templates
+      - Financial Strategy Manual
+      - Stakeholder Management Tools
+    tasks:
+      - heading: Strategic Analysis
+        items:
+          - text: Perform detailed SWOT analysis
+            subitems: []
+          - text: Research competitive landscape
+            subitems: []
+          - text: Identify market opportunities
+            subitems: []
+          - text: Analyze industry trends
+            subitems: []
+      - heading: Business Planning
+        items:
+          - text: Create multi-year strategic plan
+            subitems: []
+          - text: Develop measurable objectives
+            subitems: []
+          - text: Design performance metrics
+            subitems: []
+          - text: Align goals with resources
+            subitems: []
+      - heading: Financial Strategy
+        items:
+          - text: Develop funding strategies
+            subitems: []
+          - text: Create financial projections
+            subitems: []
+          - text: Plan resource allocation
+            subitems: []
+          - text: Establish financial controls
+            subitems: []
+      - heading: Stakeholder Management
+        items:
+          - text: Map stakeholder relationships
+            subitems: []
+          - text: Create value propositions
+            subitems: []
+          - text: Develop engagement plans
+            subitems: []
+          - text: Build support networks
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Create comprehensive strategic plan
+      - Develop viable funding strategy
+      - Present stakeholder engagement plan
+  - level: 3
+    title: Advanced Business Management
+    description: Advanced business operations and innovation management
+    objective: Master advanced financial management including complex budgeting, multi-source funding coordination, and financial forecasting with stakeholder reporting, develop and manage strategic partnerships, implement innovation management systems for continuous improvement, and establish comprehensive risk management frameworks.
+    prerequisites:
+      - module: business
+        level: 2
+        text: null
+      - module: project-management
+        level: 2
+        text: null
+      - module: leadership
+        level: 2
+        text: null
+    primaryResources:
+      - Advanced Financial Management Guide
+      - Partnership Development Manual
+      - Innovation Management Framework
+      - Risk Management Toolkit
+    tasks:
+      - heading: Advanced Finance
+        items:
+          - text: Manage complex budgets
+            subitems: []
+          - text: Coordinate multiple funding sources
+            subitems: []
+          - text: Create financial forecasts
+            subitems: []
+          - text: Develop stakeholder reports
+            subitems: []
+      - heading: Partnership Management
+        items:
+          - text: Develop strategic partnerships
+            subitems: []
+          - text: Manage partner relationships
+            subitems: []
+          - text: Create partnership agreements
+            subitems: []
+          - text: Measure partnership value
+            subitems: []
+      - heading: Innovation Management
+        items:
+          - text: Implement innovation processes
+            subitems: []
+          - text: Lead continuous improvement
+            subitems: []
+          - text: Manage change initiatives
+            subitems: []
+          - text: Track innovation metrics
+            subitems: []
+      - heading: Risk Management
+        items:
+          - text: Identify strategic risks
+            subitems: []
+          - text: Develop mitigation strategies
+            subitems: []
+          - text: Create contingency plans
+            subitems: []
+          - text: Monitor risk indicators
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully manage complex financial systems
+      - Build strategic partnerships
+      - Implement innovation program
+  - level: 4
+    title: Executive Business Leadership
+    description: Executive-level business strategy and program development
+    objective: Lead organization-wide business strategy development and execution, establish sustainable funding and resource development programs, create comprehensive organizational governance frameworks, and build lasting business capabilities while mentoring future business leaders.
+    prerequisites:
+      - module: business
+        level: 3
+        text: null
+      - module: project-management
+        level: 3
+        text: null
+      - module: leadership
+        level: 3
+        text: null
+    primaryResources:
+      - Executive Strategy Guide
+      - Resource Development Manual
+      - Governance Framework
+      - Program Development Tools
+    tasks:
+      - heading: Strategic Direction
+        items:
+          - text: Set organizational direction
+            subitems: []
+          - text: Lead strategy development
+            subitems: []
+          - text: Drive strategic execution
+            subitems: []
+          - text: Measure strategic impact
+            subitems: []
+      - heading: Resource Development
+        items:
+          - text: Create sustainable funding models
+            subitems: []
+          - text: Build resource networks
+            subitems: []
+          - text: Develop revenue streams
+            subitems: []
+          - text: Ensure financial sustainability
+            subitems: []
+      - heading: Organizational Governance
+        items:
+          - text: Establish governance frameworks
+            subitems: []
+          - text: Create oversight systems
+            subitems: []
+          - text: Implement compliance processes
+            subitems: []
+          - text: Manage organizational risk
+            subitems: []
+      - heading: Program Development
+        items:
+          - text: Mentor business leaders
+            subitems: []
+          - text: Build sustainable practices
+            subitems: []
+          - text: Document business knowledge
+            subitems: []
+          - text: Create succession plans
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully lead business strategy
+      - Create sustainable funding program
+      - Build lasting organizational impact

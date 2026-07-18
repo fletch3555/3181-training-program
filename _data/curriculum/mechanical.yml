@@ -1,0 +1,260 @@
+name: Mechanical
+title: Mechanical Systems Training
+description: Mechanical engineering and systems design curriculum for FRC teams
+intro: This module provides comprehensive training in mechanical engineering principles and mechanism design for FRC team members. Students will progress from basic mechanical concepts to advanced systems integration and optimization.
+moduleType: Technical
+order: 2
+resources:
+  - FRC Mechanical Design Principles
+  - Machine Design Guidelines
+  - Engineering Calculations Reference
+  - Material Properties Guide
+levels:
+  - level: 1
+    title: Basic Mechanical Concepts
+    description: Fundamental mechanical engineering principles
+    objective: Develop fundamental understanding of mechanical engineering principles including force, torque, and work relationships, master safe operation of hand tools and measuring instruments, understand material properties and selection criteria for robotics applications, and apply basic statics calculations to analyze simple mechanical systems.
+    prerequisites: []
+    primaryResources:
+      - Engineering Principles Guide
+      - Tool Safety Manual
+      - Materials Selection Guide
+      - Basic Analysis Templates
+    tasks:
+      - heading: Engineering Principles
+        items:
+          - text: Understand force and motion
+            subitems: []
+          - text: Calculate torque and leverage
+            subitems: []
+          - text: Learn work and power relationships
+            subitems: []
+          - text: Apply basic statics principles
+            subitems: []
+      - heading: Tool Proficiency
+        items:
+          - text: Master basic hand tools
+            subitems: []
+          - text: Use measuring instruments accurately
+            subitems: []
+          - text: Practice proper tool safety
+            subitems: []
+          - text: Maintain tools and workspace
+            subitems: []
+      - heading: Materials Knowledge
+        items:
+          - text: Learn material properties
+            subitems: []
+          - text: Understand material selection
+            subitems: []
+          - text: Apply fastener principles
+            subitems: []
+          - text: Calculate material requirements
+            subitems: []
+      - heading: Basic Analysis
+        items:
+          - text: Perform force calculations
+            subitems: []
+          - text: Analyze simple mechanisms
+            subitems: []
+          - text: Create free body diagrams
+            subitems: []
+          - text: Document analysis results
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Pass tool safety certification
+      - Successfully complete material analysis
+      - Demonstrate basic calculations
+  - level: 2
+    title: Mechanism Design & Analysis
+    description: Power transmission systems and mechanism design
+    objective: Design and analyze power transmission systems including gear trains, belt drives, and chain systems with proper ratio calculations and component selection, understand bearing and shaft design principles for rotating machinery, integrate multiple mechanical elements into functional mechanisms, and build physical prototypes to validate theoretical calculations.
+    prerequisites:
+      - module: mechanical
+        level: 1
+        text: null
+      - module: cad
+        level: 1
+        text: null
+    primaryResources:
+      - Power Transmission Design Guide
+      - Bearing Selection Manual
+      - FRC Mechanism Examples
+      - Integration Best Practices
+    tasks:
+      - heading: Gear Systems
+        items:
+          - text: Calculate gear ratios and speeds
+            subitems: []
+          - text: Design gear trains for specific applications
+            subitems: []
+          - text: Understand different gear types and applications
+            subitems: []
+          - text: Build and test simple gear reduction system
+            subitems: []
+      - heading: Belt & Chain Drives
+        items:
+          - text: Calculate belt/chain ratios and center distances
+            subitems: []
+          - text: Select appropriate belt/chain for load requirements
+            subitems: []
+          - text: Design tensioning systems
+            subitems: []
+          - text: Install and align drive systems properly
+            subitems: []
+      - heading: Bearing & Shaft Design
+        items:
+          - text: Select bearings based on load and speed requirements
+            subitems: []
+          - text: Design shaft systems with proper support
+            subitems: []
+          - text: Calculate shaft deflection and stress
+            subitems: []
+          - text: Implement proper shaft retention methods
+            subitems: []
+      - heading: Mechanism Integration
+        items:
+          - text: Combine multiple mechanical elements
+            subitems: []
+          - text: Analyze force flow through mechanisms
+            subitems: []
+          - text: Design for adjustability and maintenance
+            subitems: []
+          - text: 'Create mechanism: multi-stage arm or elevator'
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully build working gear reduction system
+      - Design and analyze complete mechanism
+      - Create technical documentation package
+  - level: 3
+    title: Advanced System Design
+    description: Complex mechanical systems and dynamic analysis
+    objective: Design complex mechanical systems with multiple integrated mechanisms and motion paths, perform dynamic analysis including acceleration, momentum, and energy calculations for moving systems, optimize mechanisms for performance and reliability using simulation tools, and lead subsystem integration with cross-functional teams.
+    prerequisites:
+      - module: mechanical
+        level: 2
+        text: null
+      - module: cad
+        level: 2
+        text: null
+      - module: manufacturing
+        level: 2
+        text: null
+    primaryResources:
+      - Dynamic Analysis Guide
+      - System Integration Manual
+      - Simulation Software Documentation
+      - FRC System Design Examples
+    tasks:
+      - heading: Advanced Mechanism Design
+        items:
+          - text: Design four-bar linkages for specific motion
+            subitems: []
+          - text: Create cam-follower systems
+            subitems: []
+          - text: Analyze instant centers and velocity
+            subitems: []
+          - text: Design complex manipulator with 3+ degrees of freedom
+            subitems: []
+      - heading: Dynamic Analysis
+        items:
+          - text: Calculate system inertia and dynamics
+            subitems: []
+          - text: Analyze vibration and resonance issues
+            subitems: []
+          - text: Design for dynamic loading conditions
+            subitems: []
+          - text: Perform motion analysis using CAD tools
+            subitems: []
+      - heading: Optimization Techniques
+        items:
+          - text: Optimize mechanisms for multiple objectives
+            subitems: []
+          - text: Perform trade studies between alternatives
+            subitems: []
+          - text: Use simulation tools for validation
+            subitems: []
+          - text: Implement design improvements based on testing
+            subitems: []
+      - heading: System Integration
+        items:
+          - text: Lead mechanical subsystem development
+            subitems: []
+          - text: Coordinate with electrical and programming teams
+            subitems: []
+          - text: Resolve integration conflicts
+            subitems: []
+          - text: Document system interfaces and dependencies
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully design complex robot subsystem
+      - Lead cross-functional integration effort
+      - Document system performance analysis
+  - level: 4
+    title: Systems Architecture
+    description: Robot-level mechanical architecture and innovation
+    objective: Lead robot-level mechanical architecture development including drivetrain selection and major subsystem integration, pioneer innovative mechanical solutions through advanced analysis and creative problem-solving, develop comprehensive testing and validation frameworks for mechanical systems, and mentor future mechanical designers while building sustainable design practices.
+    prerequisites:
+      - module: mechanical
+        level: 3
+        text: null
+      - module: project-management
+        level: 2
+        text: null
+      - module: cad
+        level: 3
+        text: null
+    primaryResources:
+      - Robot Architecture Guide
+      - Innovation Development Framework
+      - System Testing Manual
+      - Technical Leadership Handbook
+    tasks:
+      - heading: System Architecture
+        items:
+          - text: Design complete robot mechanical architecture
+            subitems: []
+          - text: Select and validate drivetrain configuration
+            subitems: []
+          - text: Define subsystem interfaces and requirements
+            subitems: []
+          - text: Lead system-level design reviews
+            subitems: []
+      - heading: Innovation Development
+        items:
+          - text: Research cutting-edge mechanical solutions
+            subitems: []
+          - text: Prototype innovative mechanisms
+            subitems: []
+          - text: Analyze competitor solutions and improvements
+            subitems: []
+          - text: Present technical innovations to judges and peers
+            subitems: []
+      - heading: Testing & Validation
+        items:
+          - text: Create comprehensive test plans
+            subitems: []
+          - text: Develop validation procedures
+            subitems: []
+          - text: Implement design improvements from testing
+            subitems: []
+          - text: Document system performance data
+            subitems: []
+      - heading: Leadership & Mentoring
+        items:
+          - text: Mentor junior mechanical team members
+            subitems: []
+          - text: Document design principles and best practices
+            subitems: []
+          - text: Lead mechanical strategy development
+            subitems: []
+          - text: Transfer knowledge to future teams
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully lead robot mechanical design
+      - Implement innovative mechanical solutions
+      - Create lasting technical documentation

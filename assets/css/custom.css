@@ -1,0 +1,60 @@
+.level-card,
+.module-card {
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    background: #fff;
+    transition: box-shadow 0.3s ease, transform 0.2s ease;
+}
+
+.level-card:hover,
+.module-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+}
+
+.level-card h3,
+.module-card h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.level-card h3 a,
+.module-card h3 a {
+    text-decoration: none;
+    color: #0366d6;
+}
+
+.level-description {
+    color: #586069;
+    margin-bottom: 1rem;
+}
+
+.level-meta {
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e1e4e8;
+}
+
+.prereqs {
+    color: #735c0f;
+    background: #fff8c5;
+    border: 1px solid #f1e05a;
+    border-radius: 3px;
+    padding: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.module-meta {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+}
+
+.level-badge {
+    background: #e1e4e8;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+}

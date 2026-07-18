@@ -1,0 +1,260 @@
+name: Project Management
+title: Project Management Training
+description: Project management and organizational leadership curriculum for FRC teams
+intro: This module provides comprehensive training in project management and organizational leadership for FRC team members. Students will develop from personal organization skills to executive leadership while building strong project management capabilities.
+moduleType: Non-Technical
+order: 6
+resources:
+  - Project Planning Templates
+  - Risk Management Tools
+  - Stakeholder Communication Guide
+  - Team Performance Metrics
+levels:
+  - level: 1
+    title: Personal Organization
+    description: Basic project management and organizational skills
+    objective: Develop strong personal productivity skills using time management tools and prioritization frameworks, establish goal-setting practices with SMART criteria and progress tracking systems, master fundamental communication skills including written correspondence and meeting participation, and create basic project planning abilities.
+    prerequisites: []
+    primaryResources:
+      - Time Management Tools Guide
+      - SMART Goals Template
+      - Communication Best Practices
+      - Basic Project Planning Templates
+    tasks:
+      - heading: Time Management
+        items:
+          - text: Use digital calendar effectively
+            subitems: []
+          - text: Create prioritized task lists
+            subitems: []
+          - text: Manage deadlines and commitments
+            subitems: []
+          - text: Track time usage patterns
+            subitems: []
+      - heading: Goal Setting
+        items:
+          - text: Write SMART goals
+            subitems: []
+          - text: Create action plans
+            subitems: []
+          - text: Track progress systematically
+            subitems: []
+          - text: Adjust plans based on feedback
+            subitems: []
+      - heading: Communication Skills
+        items:
+          - text: Write clear emails and messages
+            subitems: []
+          - text: Participate effectively in meetings
+            subitems: []
+          - text: Document decisions and action items
+            subitems: []
+          - text: Give brief status updates
+            subitems: []
+      - heading: Basic Planning
+        items:
+          - text: Create simple project schedules
+            subitems: []
+          - text: Identify task dependencies
+            subitems: []
+          - text: Estimate task durations reasonably
+            subitems: []
+          - text: Plan for contingencies and setbacks
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Maintain organized calendar and task list for 4 weeks
+      - Successfully plan and execute a small team project
+      - Demonstrate effective communication in team settings
+  - level: 2
+    title: Team Coordination
+    description: Team leadership and project planning skills
+    objective: Lead small project teams through effective meeting facilitation and conflict resolution techniques, develop comprehensive project planning skills with milestone tracking and resource management, implement risk management processes including identification, mitigation, and contingency planning, and manage stakeholder relationships.
+    prerequisites:
+      - module: project-management
+        level: 1
+        text: null
+      - module: business
+        level: 1
+        text: null
+    primaryResources:
+      - Team Leadership Guide
+      - Project Planning Templates
+      - Risk Management Framework
+      - Stakeholder Communication Tools
+    tasks:
+      - heading: Team Leadership
+        items:
+          - text: Facilitate effective team meetings
+            subitems: []
+          - text: Manage team dynamics
+            subitems: []
+          - text: Resolve conflicts constructively
+            subitems: []
+          - text: Delegate tasks appropriately
+            subitems: []
+      - heading: Project Planning
+        items:
+          - text: Create detailed project schedules
+            subitems: []
+          - text: Track milestones and deliverables
+            subitems: []
+          - text: Manage resource allocation
+            subitems: []
+          - text: Monitor project progress
+            subitems: []
+      - heading: Risk Management
+        items:
+          - text: Identify potential project risks
+            subitems: []
+          - text: Develop mitigation strategies
+            subitems: []
+          - text: Create contingency plans
+            subitems: []
+          - text: Monitor risk indicators
+            subitems: []
+      - heading: Stakeholder Management
+        items:
+          - text: Identify key stakeholders
+            subitems: []
+          - text: Develop communication plans
+            subitems: []
+          - text: Manage expectations
+            subitems: []
+          - text: Build stakeholder relationships
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully lead team project
+      - Create comprehensive project plan
+      - Demonstrate effective stakeholder management
+  - level: 3
+    title: Strategic Management
+    description: Large-scale project and strategic management
+    objective: Manage large-scale initiatives coordinating multiple interdependent projects with complex resource allocation decisions, develop and implement strategic planning processes with competitive analysis and data-driven decision making, establish performance management systems with key performance indicators and continuous improvement processes, and lead organizational change initiatives.
+    prerequisites:
+      - module: project-management
+        level: 2
+        text: null
+      - module: business
+        level: 2
+        text: null
+      - module: null
+        level: null
+        text: One technical Level 2+
+    primaryResources:
+      - Program Management Guide
+      - Strategic Planning Framework
+      - Performance Metrics Manual
+      - Change Management Toolkit
+    tasks:
+      - heading: Program Management
+        items:
+          - text: Coordinate multiple related projects
+            subitems: []
+          - text: Manage complex interdependencies
+            subitems: []
+          - text: Allocate resources across projects
+            subitems: []
+          - text: Lead cross-functional teams of 10+ people
+            subitems: []
+      - heading: Strategic Planning
+        items:
+          - text: Develop long-term strategic plans
+            subitems: []
+          - text: Align project activities with strategic goals
+            subitems: []
+          - text: Conduct competitive analysis and benchmarking
+            subitems: []
+          - text: Make data-driven strategic decisions
+            subitems: []
+      - heading: Performance Management
+        items:
+          - text: Establish key performance indicators
+            subitems: []
+          - text: Monitor and analyze performance metrics
+            subitems: []
+          - text: Implement continuous improvement processes
+            subitems: []
+          - text: Create performance reporting systems
+            subitems: []
+      - heading: Change Management
+        items:
+          - text: Lead organizational change initiatives
+            subitems: []
+          - text: Manage resistance to change
+            subitems: []
+          - text: Implement new processes and systems
+            subitems: []
+          - text: Build organizational capabilities
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully manage multiple project initiatives
+      - Implement effective performance management system
+      - Lead successful organizational change
+  - level: 4
+    title: Executive Leadership
+    description: Executive-level program management and leadership
+    objective: Lead organization-wide program management initiatives with strategic vision and resource optimization, develop innovative project management methodologies tailored to team needs, establish comprehensive governance frameworks for project selection and portfolio management, and build sustainable program management capabilities while mentoring future leaders.
+    prerequisites:
+      - module: project-management
+        level: 3
+        text: null
+      - module: leadership
+        level: 3
+        text: null
+      - module: business
+        level: 3
+        text: null
+    primaryResources:
+      - Portfolio Management Guide
+      - Innovation Framework
+      - Governance Standards Manual
+      - Leadership Development Guide
+    tasks:
+      - heading: Portfolio Management
+        items:
+          - text: Develop project selection criteria
+            subitems: []
+          - text: Optimize resource allocation
+            subitems: []
+          - text: Manage project portfolio balancing
+            subitems: []
+          - text: Create investment strategies
+            subitems: []
+      - heading: Program Innovation
+        items:
+          - text: Design custom PM methodologies
+            subitems: []
+          - text: Implement innovative tools and processes
+            subitems: []
+          - text: Create scalable program frameworks
+            subitems: []
+          - text: Develop best practice guidelines
+            subitems: []
+      - heading: Governance & Standards
+        items:
+          - text: Establish governance frameworks
+            subitems: []
+          - text: Create program standards
+            subitems: []
+          - text: Implement quality assurance
+            subitems: []
+          - text: Develop compliance processes
+            subitems: []
+      - heading: Legacy Building
+        items:
+          - text: Mentor project managers
+            subitems: []
+          - text: Build sustainable practices
+            subitems: []
+          - text: Document organizational knowledge
+            subitems: []
+          - text: Create succession plans
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully manage program portfolio
+      - Implement innovative PM practices
+      - Create lasting organizational impact

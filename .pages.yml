@@ -1,24 +1,27 @@
 content:
-- name: modules
+- name: curriculum
+  label: Curriculum Modules
   type: collection
-  path: docs
-  filename: '{{name}}.md'
+  path: _data/curriculum
+  filename: '{{slug}}.yml'
   subfolders: false
   fields:
     - name: name
+      label: Short Name
       type: string
-      description: text
-    - name: category
-      type: select
-      options:
-        values:
-          - Training Modules
-      default: Training Modules
-    - name: order
-      type: number
+      description: Used in navigation and prerequisite labels, e.g. "CAD"
+    - name: title
+      type: string
+      description: Full page title, e.g. "CAD Training"
+    - name: description
+      type: text
+    - name: intro
+      label: Intro Paragraph
+      type: text
     - name: moduleType
       type: select
       options:
+<<<<<<< HEAD
         values: 
         - Technical
         - Non-Technical
@@ -42,33 +45,78 @@ content:
         collection: modules
         value: '{name}'
     - name: level
+=======
+        values:
+          - Technical
+          - Non-Technical
+    - name: order
+>>>>>>> b6ea627 (migrating to 11ty)
       type: number
-      options:
-        min: 1
-        max: 4
-    - name: prerequisites
-      label: Prerequisites
-      type: reference
-      options:
-        collection: levels
-        multiple: true
-    - name: objectives
+    - name: resources
+      label: Module Resources
       type: string
       list: true
-      required: true
-    - name: resources
+    - name: levels
       type: object
       list: true
-      required: false
       fields:
+        - name: level
+          type: number
+          options:
+            min: 1
+            max: 4
         - name: title
           type: string
-        - name: url
+        - name: description
+          type: text
+        - name: objective
+          label: Learning Objective
+          type: text
+        - name: prerequisites
+          type: object
+          list: true
+          required: false
+          fields:
+            - name: module
+              label: Module
+              type: reference
+              required: false
+              options:
+                collection: curriculum
+            - name: level
+              type: number
+              required: false
+              options:
+                min: 1
+                max: 4
+            - name: text
+              label: Label (used when not referencing a module/level)
+              type: string
+              required: false
+        - name: primaryResources
+          label: Primary Resources
           type: string
-    - name: layout
-      type: string
-      default: libdoc/page
-      hidden: true
+          list: true
+        - name: tasks
+          type: object
+          list: true
+          fields:
+            - name: heading
+              type: string
+            - name: items
+              type: object
+              list: true
+              fields:
+                - name: text
+                  type: string
+                - name: subitems
+                  type: string
+                  list: true
+                  required: false
+        - name: completionRequirements
+          label: Completion Requirements
+          type: string
+          list: true
 
 media:
   input: assets/images

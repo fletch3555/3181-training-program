@@ -1,0 +1,26 @@
+{
+    "lang": "en",
+    "siteTitle": "FRC Team Training Curriculum",
+    "siteDescription": "Comprehensive training program for FIRST Robotics Competition teams",
+    "siteLogoUrl": "/assets/myfavicon.png",
+    "siteLogoMaxHeight": 60,
+    "author": "FRC Team 3181",
+    "faviconUrl": "/assets/myfavicon.png",
+    "customLinks": [],
+    "tocEnabled": true,
+    "tocHtmlTags": ["h1", "h2", "h3", "h4"],
+    "tocMinTags": 2,
+    "htmlBasePathPrefix": "",
+    "sandboxRunSwitch": false,
+    "searchEnabled": true,
+    "hljsLanguages": [
+        "xml",
+        "javascript",
+        "json",
+        "yaml",
+        "markdown",
+        "css"
+    ],
+    "roundedImagesCorners": true,
+    "editThisPageRootUrl": false
+}

@@ -1,0 +1,47 @@
+<h2>Learning Objective</h2>
+<p>{{ level.objective }}</p>
+
+<h2>Prerequisites</h2>
+{% if level.resolvedPrerequisites.size == 0 %}
+<p>None</p>
+{% else %}
+<ul>
+    {% for p in level.resolvedPrerequisites %}
+    <li>{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+<h2>Primary Resources</h2>
+<ul>
+    {% for r in level.primaryResources %}
+    <li>{{ r }}</li>
+    {% endfor %}
+</ul>
+
+<h2>Tasks</h2>
+{% for task in level.tasks %}
+<h3>{{ forloop.index }}. {{ task.heading }}</h3>
+<ul class="task-list">
+    {% for item in task.items %}
+        <li><input type="checkbox" disabled> {{ item.text }}
+            {% if item.subitems.size > 0 %}
+            <ul>
+                {% for sub in item.subitems %}
+                <li>{{ sub }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
+<h2>Level {{ level.level }} Completion Requirements</h2>
+<ul>
+    {% for c in level.completionRequirements %}
+    <li>{{ c }}</li>
+    {% endfor %}
+</ul>
+
+<p><a href="../">← Back to {{ level.moduleName }} Training</a></p>

@@ -1,0 +1,18 @@
+<p>{{ module.intro }}</p>
+
+<h2>Module Overview</h2>
+
+{% for level in module.levels %}
+    {% capture levelLabel %}Level {{ level.level }}: {{ level.title }}{% endcapture %}
+    {% capture levelLink %}level-{{ level.level }}/{% endcapture %}
+    {% include "module_level.html", title: levelLabel, description: level.description, link: levelLink, prerequisites: level.resolvedPrerequisites %}
+{% endfor %}
+
+{% if module.resources.size > 0 %}
+<h2>Resources</h2>
+<ul>
+    {% for r in module.resources %}
+    <li>{{ r }}</li>
+    {% endfor %}
+</ul>
+{% endif %}

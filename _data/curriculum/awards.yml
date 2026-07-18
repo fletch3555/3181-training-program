@@ -1,0 +1,260 @@
+name: Awards
+title: Awards & Recognition Training
+description: Documentation, award submission preparation, and presentation skills for FRC teams
+intro: This module provides comprehensive training in FIRST award documentation, submission strategy, and presentation skills for FRC team members. Students will progress from basic award understanding to leading championship-level award programs.
+moduleType: Non-Technical
+order: 10
+resources:
+  - FIRST Award Descriptions and Rubrics
+  - Award Submission Templates
+  - Interview Preparation Guide
+  - Documentation Best Practices
+levels:
+  - level: 1
+    title: Award Understanding
+    description: Basic understanding of FIRST awards and documentation
+    objective: Master comprehensive understanding of all FIRST award categories and requirements, develop basic documentation skills including team information gathering and organization, understand judging processes and interview techniques, and create simple award submission materials.
+    prerequisites: []
+    primaryResources:
+      - FIRST Awards Guide
+      - Documentation Templates
+      - Interview Practice Guide
+      - Submission Examples
+    tasks:
+      - heading: Award Knowledge
+        items:
+          - text: Study all FIRST award categories
+            subitems: []
+          - text: Understand award requirements
+            subitems: []
+          - text: Learn judging rubrics
+            subitems: []
+          - text: Map award dependencies
+            subitems: []
+      - heading: Documentation Basics
+        items:
+          - text: Gather team information
+            subitems: []
+          - text: Organize documentation
+            subitems: []
+          - text: Create basic templates
+            subitems: []
+          - text: Maintain activity records
+            subitems: []
+      - heading: Interview Skills
+        items:
+          - text: Learn interview techniques
+            subitems: []
+          - text: Practice award presentations
+            subitems: []
+          - text: Master elevator pitches
+            subitems: []
+          - text: Handle judge questions
+            subitems: []
+      - heading: Basic Submissions
+        items:
+          - text: Create award outlines
+            subitems: []
+          - text: Write simple submissions
+            subitems: []
+          - text: Collect supporting materials
+            subitems: []
+          - text: Review submission quality
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Pass award knowledge test
+      - Successfully create basic submission
+      - Demonstrate interview skills
+  - level: 2
+    title: Award Strategy & Documentation
+    description: Advanced award planning and documentation
+    objective: Develop comprehensive award strategies with clear action plans and timelines, create detailed documentation systems for award submissions, implement advanced presentation and interview techniques, and coordinate award submission teams across multiple categories.
+    prerequisites:
+      - module: awards
+        level: 1
+        text: null
+      - module: project-management
+        level: 1
+        text: null
+    primaryResources:
+      - Award Strategy Guide
+      - Documentation System Templates
+      - Presentation Development Manual
+      - Team Coordination Tools
+    tasks:
+      - heading: Award Strategy
+        items:
+          - text: Create award action plans
+            subitems: []
+          - text: Set submission timelines
+            subitems: []
+          - text: Identify target awards
+            subitems: []
+          - text: Develop success metrics
+            subitems: []
+      - heading: Advanced Documentation
+        items:
+          - text: Design documentation systems
+            subitems: []
+          - text: Create detailed templates
+            subitems: []
+          - text: Implement tracking tools
+            subitems: []
+          - text: Manage digital assets
+            subitems: []
+      - heading: Presentation Development
+        items:
+          - text: Create presentation strategies
+            subitems: []
+          - text: Develop visual materials
+            subitems: []
+          - text: Train presentation teams
+            subitems: []
+          - text: Practice Q&A scenarios
+            subitems: []
+      - heading: Team Coordination
+        items:
+          - text: Lead submission teams
+            subitems: []
+          - text: Coordinate documentation efforts
+            subitems: []
+          - text: Manage review processes
+            subitems: []
+          - text: Ensure quality control
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Create comprehensive award strategy
+      - Develop complete documentation system
+      - Successfully lead submission team
+  - level: 3
+    title: Award Program Management
+    description: High-level award program development and coordination
+    objective: Lead comprehensive award programs across multiple competitions and award categories, develop advanced documentation and presentation systems with multimedia integration, implement sophisticated interview preparation programs, and coordinate cross-functional teams for award submission development.
+    prerequisites:
+      - module: awards
+        level: 2
+        text: null
+      - module: project-management
+        level: 2
+        text: null
+      - module: leadership
+        level: 2
+        text: null
+    primaryResources:
+      - Program Management Guide
+      - Multimedia Development Tools
+      - Interview Excellence Manual
+      - Team Development Framework
+    tasks:
+      - heading: Program Management
+        items:
+          - text: Manage multiple award submissions
+            subitems: []
+          - text: Coordinate submission timelines
+            subitems: []
+          - text: Lead documentation teams
+            subitems: []
+          - text: Track program metrics
+            subitems: []
+      - heading: Advanced Systems
+        items:
+          - text: Create multimedia presentations
+            subitems: []
+          - text: Develop digital portfolios
+            subitems: []
+          - text: Implement data management systems
+            subitems: []
+          - text: Design review processes
+            subitems: []
+      - heading: Interview Excellence
+        items:
+          - text: Create interview strategies
+            subitems: []
+          - text: Develop presentation teams
+            subitems: []
+          - text: Lead mock interviews
+            subitems: []
+          - text: Design feedback systems
+            subitems: []
+      - heading: Team Development
+        items:
+          - text: Train award team members
+            subitems: []
+          - text: Create mentoring programs
+            subitems: []
+          - text: Build sustainable practices
+            subitems: []
+          - text: Document best practices
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully manage award program
+      - Create effective submission systems
+      - Lead successful presentation teams
+  - level: 4
+    title: Championship Awards Leadership
+    description: Championship-level awards program leadership and innovation
+    objective: Lead championship-level award programs with innovative documentation and presentation techniques, develop cutting-edge award submission systems and processes, create comprehensive award program development frameworks, and mentor future award leaders while building sustainable practices.
+    prerequisites:
+      - module: awards
+        level: 3
+        text: null
+      - module: project-management
+        level: 3
+        text: null
+      - module: leadership
+        level: 3
+        text: null
+    primaryResources:
+      - Innovation Framework Guide
+      - Strategic Leadership Manual
+      - System Development Tools
+      - Program Legacy Framework
+    tasks:
+      - heading: Program Innovation
+        items:
+          - text: Design innovative submission systems
+            subitems: []
+          - text: Create advanced documentation tools
+            subitems: []
+          - text: Develop new presentation methods
+            subitems: []
+          - text: Lead program innovation efforts
+            subitems: []
+      - heading: Strategic Leadership
+        items:
+          - text: Lead award strategy development
+            subitems: []
+          - text: Create long-term program plans
+            subitems: []
+          - text: Build organizational capabilities
+            subitems: []
+          - text: Drive continuous improvement
+            subitems: []
+      - heading: System Development
+        items:
+          - text: Create comprehensive frameworks
+            subitems: []
+          - text: Develop evaluation systems
+            subitems: []
+          - text: Implement quality controls
+            subitems: []
+          - text: Design program metrics
+            subitems: []
+      - heading: Program Legacy
+        items:
+          - text: Mentor award program leaders
+            subitems: []
+          - text: Document program knowledge
+            subitems: []
+          - text: Create succession plans
+            subitems: []
+          - text: Ensure program sustainability
+            subitems: []
+    completionRequirements:
+      - Complete all checklist items with mentor verification
+      - Successfully lead championship awards
+      - Implement innovative systems
+      - Create lasting program impact
