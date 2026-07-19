@@ -9,3 +9,8 @@ resources:
   - FRC CAD Templates
   - Design Requirements Reference
   - Technical Documentation Standards
+levels:
+  - _data/levels/cad-level-1.yml
+  - _data/levels/cad-level-2.yml
+  - _data/levels/cad-level-3.yml
+  - _data/levels/cad-level-4.yml

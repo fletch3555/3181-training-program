@@ -9,3 +9,8 @@ resources:
   - Electrical Safety Guidelines
   - Wiring Best Practices
   - Component Specifications
+levels:
+  - _data/levels/electrical-level-1.yml
+  - _data/levels/electrical-level-2.yml
+  - _data/levels/electrical-level-3.yml
+  - _data/levels/electrical-level-4.yml

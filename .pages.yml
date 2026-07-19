@@ -10,7 +10,7 @@ components:
         options:
           collection: levels
           value: '{path}'
-          label: '{fields.module} · Level {fields.level} — {fields.title}'
+          label: '{fields.title} ({path})'
       - name: text
         label: Label (used when not referencing a level)
         type: string
@@ -69,25 +69,27 @@ content:
       label: Module Resources
       type: string
       list: true
+    - name: levels
+      label: Levels
+      type: reference
+      list: true
+      options:
+        collection: levels
+        value: '{path}'
+        label: '{fields.title} ({path})'
 
 - name: levels
   label: Curriculum Levels
   type: collection
   path: _data/levels
-  filename: '{module}-level-{level}.yml'
+  filename: '{level}-{primary}.yml'
   subfolders: false
   view:
     primary: title
     fields:
-      - module
       - level
       - title
   fields:
-    - name: module
-      label: Module
-      type: reference
-      options:
-        collection: curriculum
     - name: level
       type: number
       options:

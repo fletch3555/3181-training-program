@@ -9,3 +9,8 @@ resources:
   - Risk Management Tools
   - Stakeholder Communication Guide
   - Team Performance Metrics
+levels:
+  - _data/levels/project-management-level-1.yml
+  - _data/levels/project-management-level-2.yml
+  - _data/levels/project-management-level-3.yml
+  - _data/levels/project-management-level-4.yml

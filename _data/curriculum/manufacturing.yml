@@ -9,3 +9,8 @@ resources:
   - Machine Tool Reference Guides
   - Quality Control Standards
   - Manufacturing Best Practices
+levels:
+  - _data/levels/manufacturing-level-1.yml
+  - _data/levels/manufacturing-level-2.yml
+  - _data/levels/manufacturing-level-3.yml
+  - _data/levels/manufacturing-level-4.yml

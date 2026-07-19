@@ -9,3 +9,8 @@ resources:
   - Machine Design Guidelines
   - Engineering Calculations Reference
   - Material Properties Guide
+levels:
+  - _data/levels/mechanical-level-1.yml
+  - _data/levels/mechanical-level-2.yml
+  - _data/levels/mechanical-level-3.yml
+  - _data/levels/mechanical-level-4.yml

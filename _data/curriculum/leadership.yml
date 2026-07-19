@@ -9,3 +9,8 @@ resources:
   - Communication Best Practices
   - Team Building Activities
   - Mentoring Guidelines
+levels:
+  - _data/levels/leadership-level-1.yml
+  - _data/levels/leadership-level-2.yml
+  - _data/levels/leadership-level-3.yml
+  - _data/levels/leadership-level-4.yml

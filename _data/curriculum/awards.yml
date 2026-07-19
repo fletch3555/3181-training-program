@@ -9,3 +9,8 @@ resources:
   - Award Submission Templates
   - Interview Preparation Guide
   - Documentation Best Practices
+levels:
+  - _data/levels/awards-level-1.yml
+  - _data/levels/awards-level-2.yml
+  - _data/levels/awards-level-3.yml
+  - _data/levels/awards-level-4.yml

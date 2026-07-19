@@ -9,3 +9,8 @@ resources:
   - Marketing Strategy Templates
   - Strategic Planning Tools
   - Partnership Development Resources
+levels:
+  - _data/levels/business-level-1.yml
+  - _data/levels/business-level-2.yml
+  - _data/levels/business-level-3.yml
+  - _data/levels/business-level-4.yml

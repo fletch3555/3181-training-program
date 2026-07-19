@@ -9,3 +9,8 @@ resources:
   - FRC Programming Guide
   - Version Control Setup
   - Code Style Guide
+levels:
+  - _data/levels/programming-level-1.yml
+  - _data/levels/programming-level-2.yml
+  - _data/levels/programming-level-3.yml
+  - _data/levels/programming-level-4.yml

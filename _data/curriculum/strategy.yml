@@ -9,3 +9,8 @@ resources:
   - Scouting System Guide
   - Alliance Selection Tools
   - Competition Strategy Templates
+levels:
+  - _data/levels/strategy-level-1.yml
+  - _data/levels/strategy-level-2.yml
+  - _data/levels/strategy-level-3.yml
+  - _data/levels/strategy-level-4.yml
