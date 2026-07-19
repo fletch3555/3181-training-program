@@ -10,7 +10,7 @@
     "tocEnabled": true,
     "tocHtmlTags": ["h1", "h2", "h3", "h4"],
     "tocMinTags": 2,
-    "htmlBasePathPrefix": "/3181-training-program/",
+    "htmlBasePathPrefix": "/training/",
     "sandboxRunSwitch": false,
     "searchEnabled": true,
     "hljsLanguages": [
