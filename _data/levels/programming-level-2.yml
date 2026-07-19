@@ -1,0 +1,61 @@
+module: programming
+level: 2
+title: Robot Control Systems
+description: Advanced robot control and sensor integration
+objective: Implement advanced robot control systems including closed-loop feedback and motion profiles, integrate various sensor types with proper calibration and error handling, develop command-based robot architecture with subsystem management, and create comprehensive autonomous routines.
+primaryResources:
+  - Advanced Control Guide
+  - Sensor Integration Manual
+  - Command-Based Programming Tutorial
+  - Autonomous Development Guide
+tasks:
+  - heading: Advanced Robot Control
+    items:
+      - text: Implement PID control loops
+        subitems: []
+      - text: Create motion profiles
+        subitems: []
+      - text: Design state machines
+        subitems: []
+      - text: Handle multiple control modes
+        subitems: []
+  - heading: Sensor Integration
+    items:
+      - text: Read and process encoder data
+        subitems: []
+      - text: Integrate gyro/accelerometer input
+        subitems: []
+      - text: Implement limit switch logic
+        subitems: []
+      - text: Develop sensor calibration routines
+        subitems: []
+  - heading: Command-Based Programming
+    items:
+      - text: Create robot subsystems
+        subitems: []
+      - text: Implement command patterns
+        subitems: []
+      - text: Manage subsystem dependencies
+        subitems: []
+      - text: Handle command scheduling
+        subitems: []
+  - heading: Autonomous Development
+    items:
+      - text: Design autonomous strategies
+        subitems: []
+      - text: Create modular autonomous routines
+        subitems: []
+      - text: Implement path following
+        subitems: []
+      - text: Test and validate autonomous modes
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully implement PID control system
+  - Create working autonomous routine
+  - Pass code review with senior programmer
+prerequisites:
+  - level: _data/levels/programming-level-1.yml
+    text: null
+  - level: _data/levels/electrical-level-1.yml
+    text: null

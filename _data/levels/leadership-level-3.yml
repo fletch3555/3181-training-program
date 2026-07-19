@@ -1,0 +1,63 @@
+module: leadership
+level: 3
+title: Organizational Leadership
+description: High-level organizational leadership and culture building
+objective: Drive organizational effectiveness through strategic leadership and culture development, mentor emerging leaders and build leadership development systems, manage organizational change initiatives and stakeholder relationships, and establish sustainable team practices that promote long-term success.
+primaryResources:
+  - Strategic Leadership Guide
+  - Leadership Development Framework
+  - Culture Building Toolkit
+  - Organizational Design Manual
+tasks:
+  - heading: Strategic Leadership
+    items:
+      - text: Develop organizational vision
+        subitems: []
+      - text: Create strategic initiatives
+        subitems: []
+      - text: Drive organizational alignment
+        subitems: []
+      - text: Lead change management efforts
+        subitems: []
+  - heading: Leadership Development
+    items:
+      - text: Mentor emerging leaders
+        subitems: []
+      - text: Create leadership training programs
+        subitems: []
+      - text: Build succession plans
+        subitems: []
+      - text: Foster leadership culture
+        subitems: []
+  - heading: Culture Building
+    items:
+      - text: Define organizational values
+        subitems: []
+      - text: Implement cultural initiatives
+        subitems: []
+      - text: Build inclusive environment
+        subitems: []
+      - text: Measure cultural health
+        subitems: []
+  - heading: Organizational Systems
+    items:
+      - text: Design organizational structures
+        subitems: []
+      - text: Develop decision-making frameworks
+        subitems: []
+      - text: Create feedback systems
+        subitems: []
+      - text: Establish sustainable practices
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully lead organizational initiatives
+  - Develop emerging leaders
+  - Create lasting cultural impact
+prerequisites:
+  - level: _data/levels/leadership-level-2.yml
+    text: null
+  - level: _data/levels/project-management-level-2.yml
+    text: null
+  - level: _data/levels/business-level-2.yml
+    text: null

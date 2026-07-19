@@ -1,0 +1,57 @@
+module: programming
+level: 1
+title: Programming Fundamentals
+description: Basic programming concepts and FRC development environment
+objective: Master fundamental programming concepts including variables, control structures, and functions, set up the FRC development environment with necessary tools and dependencies, implement basic robot control code for tank drive operation, and establish version control practices using Git.
+primaryResources:
+  - WPILib Documentation
+  - Programming Language Guide
+  - Git Basics Tutorial
+  - FRC Programming Examples
+tasks:
+  - heading: Development Environment
+    items:
+      - text: Install required software (VS Code, WPILib)
+        subitems: []
+      - text: Configure Java/C++ development tools
+        subitems: []
+      - text: Set up Git and GitHub access
+        subitems: []
+      - text: Create and build sample robot project
+        subitems: []
+  - heading: Programming Basics
+    items:
+      - text: Understand variables and data types
+        subitems: []
+      - text: Implement control structures (if/else, loops)
+        subitems: []
+      - text: Create functions and methods
+        subitems: []
+      - text: Learn object-oriented programming basics
+        subitems: []
+  - heading: Basic Robot Control
+    items:
+      - text: Implement tank drive control
+        subitems: []
+      - text: Read joystick inputs
+        subitems: []
+      - text: Create basic autonomous routines
+        subitems: []
+      - text: Handle robot state transitions
+        subitems: []
+  - heading: Version Control
+    items:
+      - text: Initialize Git repository
+        subitems: []
+      - text: Make commits with meaningful messages
+        subitems: []
+      - text: Create and switch branches
+        subitems: []
+      - text: Push code to GitHub
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully deploy code to robot
+  - Pass programming concepts quiz
+  - Demonstrate proper Git usage
+prerequisites: []

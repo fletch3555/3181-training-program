@@ -1,0 +1,61 @@
+module: leadership
+level: 2
+title: Team Leadership
+description: Team leadership and coaching skills
+objective: Lead small teams effectively through coaching and mentoring practices, facilitate productive meetings and team discussions, manage team dynamics and conflict resolution, and develop team culture and morale while achieving collective goals.
+primaryResources:
+  - Team Building Guide
+  - Meeting Facilitation Manual
+  - Conflict Resolution Toolkit
+  - Performance Management Guide
+tasks:
+  - heading: Team Development
+    items:
+      - text: Lead team building activities
+        subitems: []
+      - text: Coach individual team members
+        subitems: []
+      - text: Set team goals and expectations
+        subitems: []
+      - text: Foster positive team culture
+        subitems: []
+  - heading: Meeting Leadership
+    items:
+      - text: Plan and facilitate meetings
+        subitems: []
+      - text: Guide productive discussions
+        subitems: []
+      - text: Document and track action items
+        subitems: []
+      - text: Follow up on commitments
+        subitems: []
+  - heading: Conflict Management
+    items:
+      - text: Identify sources of conflict
+        subitems: []
+      - text: Mediate team disagreements
+        subitems: []
+      - text: Find win-win solutions
+        subitems: []
+      - text: Build team consensus
+        subitems: []
+  - heading: Team Performance
+    items:
+      - text: Monitor team progress
+        subitems: []
+      - text: Provide team feedback
+        subitems: []
+      - text: Celebrate team successes
+        subitems: []
+      - text: Address performance issues
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully lead team initiatives
+  - Demonstrate effective meeting facilitation
+  - Show positive team development
+prerequisites:
+  - level: _data/levels/leadership-level-1.yml
+    text: null
+  - level: _data/levels/project-management-level-1.yml
+    text: null

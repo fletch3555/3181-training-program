@@ -1,0 +1,108 @@
+module: cad
+level: 3
+title: Robot Subsystem Design
+description: Advanced robot subsystem design and analysis
+objective: Design complete functional robot subsystems incorporating mechanical calculations (gear ratios, forces, motion analysis), create dynamic assemblies with motion studies and interference detection, integrate electrical component placement and wire routing considerations into mechanical designs, and validate designs against FRC rules and performance requirements through simulation and analysis.
+primaryResources:
+  - FRCDesign.org "Complete Robot Design" course series
+  - OnShape "Simulation" and "Motion Studies" features
+  - FRCDesign.org "Mechanism Design" and "Systems Integration" courses
+  - OnShape "Advanced Assemblies" learning path
+tasks:
+  - heading: Mechanism Design & Analysis
+    items:
+      - text: Complete FRCDesign.org "Mechanism Design Theory" course
+        subitems: []
+      - text: Study OnShape motion analysis tools and kinematic studies
+        subitems: []
+      - text: Design complex multi-degree-of-freedom mechanisms (arms, elevators, intakes)
+        subitems: []
+      - text: Calculate gear ratios, mechanical advantage, and power requirements
+        subitems: []
+      - text: Use FRCDesign.org calculation tools and spreadsheets
+        subitems: []
+      - text: Analyze motion profiles and velocity/acceleration curves
+        subitems: []
+      - text: <strong>Major Project:</strong> Design complete robot arm subsystem
+        subitems:
+          - Multi-stage telescoping or articulated design
+          - Include all mechanical calculations and motion analysis
+          - Follow FRCDesign.org mechanical design principles
+      - text: <strong>Assessment:</strong> Present design rationale and calculations to technical review panel
+        subitems: []
+  - heading: Advanced Assembly & Motion Studies
+    items:
+      - text: Master OnShape advanced assembly features (linear patterns, circular patterns in assemblies)
+        subitems: []
+      - text: Complete FRCDesign.org "Advanced Assembly Techniques" tutorials
+        subitems: []
+      - text: Use advanced mates (gear, rack-and-pinion, cam-follower)
+        subitems: []
+      - text: Create realistic motion studies showing mechanism operation
+        subitems: []
+      - text: Perform interference detection during full range of motion
+        subitems: []
+      - text: Optimize assemblies for serviceability and access
+        subitems: []
+      - text: <strong>Integration Project:</strong> Create full motion study of robot arm
+        subitems:
+          - Show complete range of motion with realistic timing
+          - Demonstrate no interferences throughout operation
+          - Include motor mounting and drive system
+      - text: <strong>Assessment:</strong> Motion study presentation showing design validation
+        subitems: []
+  - heading: Electrical Integration Planning
+    items:
+      - text: Study FRCDesign.org "Electrical-Mechanical Integration" course
+        subitems: []
+      - text: Learn OnShape routing tools for cable management
+        subitems: []
+      - text: Design with electrical component placement considerations
+        subitems: []
+      - text: Plan wire routing paths and protection
+        subitems: []
+      - text: Consider electromagnetic interference (EMI) in design
+        subitems: []
+      - text: Coordinate with Programming Level 2 for sensor placement optimization
+        subitems: []
+      - text: <strong>Collaborative Project:</strong> Work with Electrical Level 2 student to integrate systems
+        subitems:
+          - Design mechanical mounts for all electrical components
+          - Plan wire routing with appropriate service access
+          - Consider weight distribution and center of gravity
+      - text: <strong>Assessment:</strong> Joint presentation with electrical team member
+        subitems: []
+  - heading: Design Validation & FRC Compliance
+    items:
+      - text: Master OnShape simulation tools (FEA basics, stress analysis)
+        subitems: []
+      - text: Complete FRCDesign.org "FRC Rules and Design Constraints" course
+        subitems: []
+      - text: Validate designs against current FRC game rules
+        subitems: []
+      - text: Perform basic finite element analysis on critical components
+        subitems: []
+      - text: Create multiple design iterations based on analysis
+        subitems: []
+      - text: Document design decisions and trade-offs
+        subitems: []
+      - text: <strong>Validation Project:</strong> Complete design review process for robot arm
+        subitems:
+          - FRC rules compliance check
+          - Stress analysis on critical components
+          - Weight analysis and optimization
+          - Design review presentation to full team
+      - text: <strong>Assessment:</strong> Successfully defend design choices in formal design review
+        subitems: []
+completionRequirements:
+  - Complete FRCDesign.org "Complete Robot Design" course with certificate
+  - Master OnShape simulation and motion study tools
+  - Submit complete subsystem design with full documentation
+  - Pass formal design review with technical panel
+  - Successfully integrate design with electrical systems
+  - Mentor approval for advancement to system-level design
+prerequisites:
+  - level: _data/levels/mechanical-level-2.yml
+    text: null
+  - level: _data/levels/cad-level-2.yml
+    text: null

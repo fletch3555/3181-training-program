@@ -1,0 +1,63 @@
+module: electrical
+level: 3
+title: Advanced Control Systems
+description: Advanced sensor integration and control systems
+objective: Design and implement advanced sensor systems including vision processing and custom sensor integration, develop sophisticated motor control systems with closed-loop feedback and motion profiling, create comprehensive electrical system documentation and troubleshooting procedures, and coordinate with programming team for control system development.
+primaryResources:
+  - Advanced Sensor Guide
+  - Control System Design Manual
+  - Documentation Standards
+  - Integration Testing Guide
+tasks:
+  - heading: Advanced Sensors
+    items:
+      - text: Design custom sensor solutions
+        subitems: []
+      - text: Implement vision system hardware
+        subitems: []
+      - text: Set up advanced feedback systems
+        subitems: []
+      - text: Calibrate sensor networks
+        subitems: []
+  - heading: Motor Control Systems
+    items:
+      - text: Implement closed-loop control
+        subitems: []
+      - text: Design motion profiling systems
+        subitems: []
+      - text: Optimize motor performance
+        subitems: []
+      - text: Configure multi-motor coordination
+        subitems: []
+  - heading: System Documentation
+    items:
+      - text: Create electrical system diagrams
+        subitems: []
+      - text: Document troubleshooting procedures
+        subitems: []
+      - text: Maintain component specifications
+        subitems: []
+      - text: Design testing protocols
+        subitems: []
+  - heading: Cross-Team Integration
+    items:
+      - text: Coordinate with programming team
+        subitems: []
+      - text: Support mechanical integration
+        subitems: []
+      - text: Implement control system interfaces
+        subitems: []
+      - text: Validate system performance
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully implement advanced control system
+  - Create comprehensive documentation
+  - Lead cross-functional integration
+prerequisites:
+  - level: _data/levels/electrical-level-2.yml
+    text: null
+  - level: _data/levels/programming-level-2.yml
+    text: null
+  - level: _data/levels/cad-level-2.yml
+    text: null

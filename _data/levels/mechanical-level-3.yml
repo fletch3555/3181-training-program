@@ -1,0 +1,63 @@
+module: mechanical
+level: 3
+title: Advanced System Design
+description: Complex mechanical systems and dynamic analysis
+objective: Design complex mechanical systems with multiple integrated mechanisms and motion paths, perform dynamic analysis including acceleration, momentum, and energy calculations for moving systems, optimize mechanisms for performance and reliability using simulation tools, and lead subsystem integration with cross-functional teams.
+primaryResources:
+  - Dynamic Analysis Guide
+  - System Integration Manual
+  - Simulation Software Documentation
+  - FRC System Design Examples
+tasks:
+  - heading: Advanced Mechanism Design
+    items:
+      - text: Design four-bar linkages for specific motion
+        subitems: []
+      - text: Create cam-follower systems
+        subitems: []
+      - text: Analyze instant centers and velocity
+        subitems: []
+      - text: Design complex manipulator with 3+ degrees of freedom
+        subitems: []
+  - heading: Dynamic Analysis
+    items:
+      - text: Calculate system inertia and dynamics
+        subitems: []
+      - text: Analyze vibration and resonance issues
+        subitems: []
+      - text: Design for dynamic loading conditions
+        subitems: []
+      - text: Perform motion analysis using CAD tools
+        subitems: []
+  - heading: Optimization Techniques
+    items:
+      - text: Optimize mechanisms for multiple objectives
+        subitems: []
+      - text: Perform trade studies between alternatives
+        subitems: []
+      - text: Use simulation tools for validation
+        subitems: []
+      - text: Implement design improvements based on testing
+        subitems: []
+  - heading: System Integration
+    items:
+      - text: Lead mechanical subsystem development
+        subitems: []
+      - text: Coordinate with electrical and programming teams
+        subitems: []
+      - text: Resolve integration conflicts
+        subitems: []
+      - text: Document system interfaces and dependencies
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully design complex robot subsystem
+  - Lead cross-functional integration effort
+  - Document system performance analysis
+prerequisites:
+  - level: _data/levels/mechanical-level-2.yml
+    text: null
+  - level: _data/levels/cad-level-2.yml
+    text: null
+  - level: _data/levels/manufacturing-level-2.yml
+    text: null

@@ -1,0 +1,57 @@
+module: leadership
+level: 1
+title: Personal Leadership
+description: Basic leadership and communication skills
+objective: Develop fundamental leadership skills including self-awareness and emotional intelligence, master effective communication strategies for various situations, build strong interpersonal relationships through active listening and feedback, and establish personal growth practices for continuous improvement.
+primaryResources:
+  - Leadership Style Assessment
+  - Communication Skills Guide
+  - Relationship Building Manual
+  - Personal Development Tools
+tasks:
+  - heading: Self Development
+    items:
+      - text: Complete leadership style assessment
+        subitems: []
+      - text: Identify strengths and areas for growth
+        subitems: []
+      - text: Create personal development plan
+        subitems: []
+      - text: Practice self-reflection techniques
+        subitems: []
+  - heading: Communication Skills
+    items:
+      - text: Master active listening techniques
+        subitems: []
+      - text: Give and receive constructive feedback
+        subitems: []
+      - text: Present ideas clearly and confidently
+        subitems: []
+      - text: Practice written communication
+        subitems: []
+  - heading: Relationship Building
+    items:
+      - text: Build positive peer relationships
+        subitems: []
+      - text: Work effectively in teams
+        subitems: []
+      - text: Show empathy and understanding
+        subitems: []
+      - text: Navigate difficult conversations
+        subitems: []
+  - heading: Personal Effectiveness
+    items:
+      - text: Make decisions systematically
+        subitems: []
+      - text: Manage personal stress
+        subitems: []
+      - text: Set and achieve personal goals
+        subitems: []
+      - text: Lead by example
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully complete leadership assessment
+  - Demonstrate effective communication skills
+  - Show personal growth and development
+prerequisites: []

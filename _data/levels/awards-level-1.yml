@@ -1,0 +1,57 @@
+module: awards
+level: 1
+title: Award Understanding
+description: Basic understanding of FIRST awards and documentation
+objective: Master comprehensive understanding of all FIRST award categories and requirements, develop basic documentation skills including team information gathering and organization, understand judging processes and interview techniques, and create simple award submission materials.
+primaryResources:
+  - FIRST Awards Guide
+  - Documentation Templates
+  - Interview Practice Guide
+  - Submission Examples
+tasks:
+  - heading: Award Knowledge
+    items:
+      - text: Study all FIRST award categories
+        subitems: []
+      - text: Understand award requirements
+        subitems: []
+      - text: Learn judging rubrics
+        subitems: []
+      - text: Map award dependencies
+        subitems: []
+  - heading: Documentation Basics
+    items:
+      - text: Gather team information
+        subitems: []
+      - text: Organize documentation
+        subitems: []
+      - text: Create basic templates
+        subitems: []
+      - text: Maintain activity records
+        subitems: []
+  - heading: Interview Skills
+    items:
+      - text: Learn interview techniques
+        subitems: []
+      - text: Practice award presentations
+        subitems: []
+      - text: Master elevator pitches
+        subitems: []
+      - text: Handle judge questions
+        subitems: []
+  - heading: Basic Submissions
+    items:
+      - text: Create award outlines
+        subitems: []
+      - text: Write simple submissions
+        subitems: []
+      - text: Collect supporting materials
+        subitems: []
+      - text: Review submission quality
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Pass award knowledge test
+  - Successfully create basic submission
+  - Demonstrate interview skills
+prerequisites: []

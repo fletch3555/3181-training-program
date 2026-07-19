@@ -1,0 +1,61 @@
+module: electrical
+level: 2
+title: Robot Electronics
+description: Robot electrical systems and motor control
+objective: Design and implement FRC-specific electrical systems including power distribution, motor controller setup, and sensor integration, understand motor characteristics and control methods for different applications, implement proper grounding and noise reduction techniques, and develop basic troubleshooting skills.
+primaryResources:
+  - FRC Electrical Guide
+  - Motor Control Manual
+  - Sensor Integration Guide
+  - Troubleshooting Manual
+tasks:
+  - heading: Power Systems
+    items:
+      - text: Set up power distribution panel
+        subitems: []
+      - text: Configure breaker panel
+        subitems: []
+      - text: Implement voltage regulation
+        subitems: []
+      - text: Design power routing
+        subitems: []
+  - heading: Motor Control
+    items:
+      - text: Configure motor controllers
+        subitems: []
+      - text: Understand motor characteristics
+        subitems: []
+      - text: Implement current limiting
+        subitems: []
+      - text: Test motor operation
+        subitems: []
+  - heading: Sensor Integration
+    items:
+      - text: Install limit switches
+        subitems: []
+      - text: Configure encoders
+        subitems: []
+      - text: Set up gyro/accelerometer
+        subitems: []
+      - text: Test sensor operation
+        subitems: []
+  - heading: System Maintenance
+    items:
+      - text: Perform basic troubleshooting
+        subitems: []
+      - text: Monitor system health
+        subitems: []
+      - text: Maintain electrical documentation
+        subitems: []
+      - text: Create spare parts inventory
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully build robot electrical system
+  - Pass motor control evaluation
+  - Demonstrate troubleshooting skills
+prerequisites:
+  - level: _data/levels/electrical-level-1.yml
+    text: null
+  - level: _data/levels/programming-level-1.yml
+    text: null

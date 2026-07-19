@@ -1,0 +1,63 @@
+module: project-management
+level: 4
+title: Executive Leadership
+description: Executive-level program management and leadership
+objective: Lead organization-wide program management initiatives with strategic vision and resource optimization, develop innovative project management methodologies tailored to team needs, establish comprehensive governance frameworks for project selection and portfolio management, and build sustainable program management capabilities while mentoring future leaders.
+primaryResources:
+  - Portfolio Management Guide
+  - Innovation Framework
+  - Governance Standards Manual
+  - Leadership Development Guide
+tasks:
+  - heading: Portfolio Management
+    items:
+      - text: Develop project selection criteria
+        subitems: []
+      - text: Optimize resource allocation
+        subitems: []
+      - text: Manage project portfolio balancing
+        subitems: []
+      - text: Create investment strategies
+        subitems: []
+  - heading: Program Innovation
+    items:
+      - text: Design custom PM methodologies
+        subitems: []
+      - text: Implement innovative tools and processes
+        subitems: []
+      - text: Create scalable program frameworks
+        subitems: []
+      - text: Develop best practice guidelines
+        subitems: []
+  - heading: Governance & Standards
+    items:
+      - text: Establish governance frameworks
+        subitems: []
+      - text: Create program standards
+        subitems: []
+      - text: Implement quality assurance
+        subitems: []
+      - text: Develop compliance processes
+        subitems: []
+  - heading: Legacy Building
+    items:
+      - text: Mentor project managers
+        subitems: []
+      - text: Build sustainable practices
+        subitems: []
+      - text: Document organizational knowledge
+        subitems: []
+      - text: Create succession plans
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully manage program portfolio
+  - Implement innovative PM practices
+  - Create lasting organizational impact
+prerequisites:
+  - level: _data/levels/project-management-level-3.yml
+    text: null
+  - level: _data/levels/leadership-level-3.yml
+    text: null
+  - level: _data/levels/business-level-3.yml
+    text: null

@@ -1,0 +1,61 @@
+module: business
+level: 2
+title: Strategic Planning
+description: Strategic planning and business development
+objective: Conduct comprehensive strategic analysis using SWOT methodology and competitive landscape assessment, develop multi-year strategic plans with measurable objectives and performance metrics aligned to organizational priorities, design sustainable business models including funding strategies and stakeholder value propositions.
+primaryResources:
+  - Strategic Analysis Guide
+  - Business Planning Templates
+  - Financial Strategy Manual
+  - Stakeholder Management Tools
+tasks:
+  - heading: Strategic Analysis
+    items:
+      - text: Perform detailed SWOT analysis
+        subitems: []
+      - text: Research competitive landscape
+        subitems: []
+      - text: Identify market opportunities
+        subitems: []
+      - text: Analyze industry trends
+        subitems: []
+  - heading: Business Planning
+    items:
+      - text: Create multi-year strategic plan
+        subitems: []
+      - text: Develop measurable objectives
+        subitems: []
+      - text: Design performance metrics
+        subitems: []
+      - text: Align goals with resources
+        subitems: []
+  - heading: Financial Strategy
+    items:
+      - text: Develop funding strategies
+        subitems: []
+      - text: Create financial projections
+        subitems: []
+      - text: Plan resource allocation
+        subitems: []
+      - text: Establish financial controls
+        subitems: []
+  - heading: Stakeholder Management
+    items:
+      - text: Map stakeholder relationships
+        subitems: []
+      - text: Create value propositions
+        subitems: []
+      - text: Develop engagement plans
+        subitems: []
+      - text: Build support networks
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Create comprehensive strategic plan
+  - Develop viable funding strategy
+  - Present stakeholder engagement plan
+prerequisites:
+  - level: _data/levels/business-level-1.yml
+    text: null
+  - level: _data/levels/project-management-level-1.yml
+    text: null

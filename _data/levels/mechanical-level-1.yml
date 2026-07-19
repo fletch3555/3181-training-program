@@ -1,0 +1,57 @@
+module: mechanical
+level: 1
+title: Basic Mechanical Concepts
+description: Fundamental mechanical engineering principles
+objective: Develop fundamental understanding of mechanical engineering principles including force, torque, and work relationships, master safe operation of hand tools and measuring instruments, understand material properties and selection criteria for robotics applications, and apply basic statics calculations to analyze simple mechanical systems.
+primaryResources:
+  - Engineering Principles Guide
+  - Tool Safety Manual
+  - Materials Selection Guide
+  - Basic Analysis Templates
+tasks:
+  - heading: Engineering Principles
+    items:
+      - text: Understand force and motion
+        subitems: []
+      - text: Calculate torque and leverage
+        subitems: []
+      - text: Learn work and power relationships
+        subitems: []
+      - text: Apply basic statics principles
+        subitems: []
+  - heading: Tool Proficiency
+    items:
+      - text: Master basic hand tools
+        subitems: []
+      - text: Use measuring instruments accurately
+        subitems: []
+      - text: Practice proper tool safety
+        subitems: []
+      - text: Maintain tools and workspace
+        subitems: []
+  - heading: Materials Knowledge
+    items:
+      - text: Learn material properties
+        subitems: []
+      - text: Understand material selection
+        subitems: []
+      - text: Apply fastener principles
+        subitems: []
+      - text: Calculate material requirements
+        subitems: []
+  - heading: Basic Analysis
+    items:
+      - text: Perform force calculations
+        subitems: []
+      - text: Analyze simple mechanisms
+        subitems: []
+      - text: Create free body diagrams
+        subitems: []
+      - text: Document analysis results
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Pass tool safety certification
+  - Successfully complete material analysis
+  - Demonstrate basic calculations
+prerequisites: []

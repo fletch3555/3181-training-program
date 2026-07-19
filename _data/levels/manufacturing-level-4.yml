@@ -1,0 +1,63 @@
+module: manufacturing
+level: 4
+title: Manufacturing Leadership
+description: High-level manufacturing operations and program leadership
+objective: Lead manufacturing operations including process optimization and lean manufacturing implementation, develop innovative manufacturing solutions through technology integration and continuous improvement, establish comprehensive quality management systems, and mentor future manufacturing team members while building sustainable manufacturing practices.
+primaryResources:
+  - Lean Manufacturing Guide
+  - Quality Management Manual
+  - Manufacturing Innovation Resources
+  - Leadership Development Guide
+tasks:
+  - heading: Manufacturing Leadership
+    items:
+      - text: Lead manufacturing team operations
+        subitems: []
+      - text: Implement lean manufacturing principles
+        subitems: []
+      - text: Optimize production workflows
+        subitems: []
+      - text: Develop manufacturing strategies
+        subitems: []
+  - heading: Process Innovation
+    items:
+      - text: Research advanced manufacturing technologies
+        subitems: []
+      - text: Implement innovative production methods
+        subitems: []
+      - text: Develop custom manufacturing solutions
+        subitems: []
+      - text: Create manufacturing improvement plans
+        subitems: []
+  - heading: Quality Management
+    items:
+      - text: Establish quality control systems
+        subitems: []
+      - text: Implement statistical process control
+        subitems: []
+      - text: Develop inspection procedures
+        subitems: []
+      - text: Create quality documentation standards
+        subitems: []
+  - heading: Program Development
+    items:
+      - text: Mentor manufacturing team members
+        subitems: []
+      - text: Document manufacturing best practices
+        subitems: []
+      - text: Create training materials
+        subitems: []
+      - text: Build sustainable manufacturing program
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully lead manufacturing operations
+  - Implement process improvements
+  - Create comprehensive documentation system
+prerequisites:
+  - level: _data/levels/manufacturing-level-3.yml
+    text: null
+  - level: _data/levels/project-management-level-2.yml
+    text: null
+  - level: _data/levels/cad-level-3.yml
+    text: null

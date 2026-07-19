@@ -1,0 +1,63 @@
+module: project-management
+level: 3
+title: Strategic Management
+description: Large-scale project and strategic management
+objective: Manage large-scale initiatives coordinating multiple interdependent projects with complex resource allocation decisions, develop and implement strategic planning processes with competitive analysis and data-driven decision making, establish performance management systems with key performance indicators and continuous improvement processes, and lead organizational change initiatives.
+primaryResources:
+  - Program Management Guide
+  - Strategic Planning Framework
+  - Performance Metrics Manual
+  - Change Management Toolkit
+tasks:
+  - heading: Program Management
+    items:
+      - text: Coordinate multiple related projects
+        subitems: []
+      - text: Manage complex interdependencies
+        subitems: []
+      - text: Allocate resources across projects
+        subitems: []
+      - text: Lead cross-functional teams of 10+ people
+        subitems: []
+  - heading: Strategic Planning
+    items:
+      - text: Develop long-term strategic plans
+        subitems: []
+      - text: Align project activities with strategic goals
+        subitems: []
+      - text: Conduct competitive analysis and benchmarking
+        subitems: []
+      - text: Make data-driven strategic decisions
+        subitems: []
+  - heading: Performance Management
+    items:
+      - text: Establish key performance indicators
+        subitems: []
+      - text: Monitor and analyze performance metrics
+        subitems: []
+      - text: Implement continuous improvement processes
+        subitems: []
+      - text: Create performance reporting systems
+        subitems: []
+  - heading: Change Management
+    items:
+      - text: Lead organizational change initiatives
+        subitems: []
+      - text: Manage resistance to change
+        subitems: []
+      - text: Implement new processes and systems
+        subitems: []
+      - text: Build organizational capabilities
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully manage multiple project initiatives
+  - Implement effective performance management system
+  - Lead successful organizational change
+prerequisites:
+  - level: _data/levels/project-management-level-2.yml
+    text: null
+  - level: _data/levels/business-level-2.yml
+    text: null
+  - level: null
+    text: One technical Level 2+

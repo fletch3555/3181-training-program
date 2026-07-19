@@ -1,0 +1,63 @@
+module: strategy
+level: 3
+title: Advanced Competition Management
+description: High-level competition strategy and team coordination
+objective: Lead competition-level strategic operations including multi-match planning and alliance coordination, develop advanced data analytics systems for real-time decision support, create comprehensive playbooks for various game scenarios and opponents, and coordinate cross-functional teams during competition.
+primaryResources:
+  - Competition Strategy Guide
+  - Analytics Framework
+  - Playbook Templates
+  - Team Coordination Manual
+tasks:
+  - heading: Competition Strategy
+    items:
+      - text: Develop multi-match strategies
+        subitems: []
+      - text: Coordinate alliance tactics
+        subitems: []
+      - text: Manage strategic adjustments
+        subitems: []
+      - text: Lead match strategy meetings
+        subitems: []
+  - heading: Advanced Analytics
+    items:
+      - text: Implement predictive analytics
+        subitems: []
+      - text: Create real-time dashboards
+        subitems: []
+      - text: Analyze opponent patterns
+        subitems: []
+      - text: Generate strategic insights
+        subitems: []
+  - heading: Playbook Development
+    items:
+      - text: Create comprehensive playbooks
+        subitems: []
+      - text: Design counter-strategies
+        subitems: []
+      - text: Document tactical variations
+        subitems: []
+      - text: Update based on competition data
+        subitems: []
+  - heading: Team Coordination
+    items:
+      - text: Lead strategy team
+        subitems: []
+      - text: Coordinate with drive team
+        subitems: []
+      - text: Manage scouting operations
+        subitems: []
+      - text: Integrate pit feedback
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully lead competition strategy
+  - Implement advanced analytics system
+  - Create effective playbook system
+prerequisites:
+  - level: _data/levels/strategy-level-2.yml
+    text: null
+  - level: _data/levels/project-management-level-2.yml
+    text: null
+  - level: _data/levels/leadership-level-2.yml
+    text: null

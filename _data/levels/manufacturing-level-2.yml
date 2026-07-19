@@ -1,0 +1,61 @@
+module: manufacturing
+level: 2
+title: Power Tools & Basic Machining
+description: Power tool operation and basic machining skills
+objective: Master safe operation of power tools and basic machine tools including drill press, band saw, and bench grinder, perform fundamental machining operations on manual mill and lathe with proper setup and tooling selection, implement quality control procedures including in-process inspection and documentation, and develop basic fixturing skills.
+primaryResources:
+  - Machine Tool Operations Guide
+  - Cutting Speed Calculator
+  - Quality Control Templates
+  - Setup Documentation Examples
+tasks:
+  - heading: Power Tool Operations
+    items:
+      - text: Use drill press safely and effectively
+        subitems: []
+      - text: Operate band saw with proper blade selection
+        subitems: []
+      - text: Use bench and angle grinders safely
+        subitems: []
+      - text: Master portable power tool operations
+        subitems: []
+  - heading: Basic Machining
+    items:
+      - text: Set up and operate manual mill
+        subitems: []
+      - text: Perform basic lathe operations
+        subitems: []
+      - text: Select proper cutting tools and speeds
+        subitems: []
+      - text: Complete basic machining project
+        subitems: []
+  - heading: Quality Control
+    items:
+      - text: Perform in-process inspection
+        subitems: []
+      - text: Document critical dimensions
+        subitems: []
+      - text: Use go/no-go gauges
+        subitems: []
+      - text: Maintain quality control records
+        subitems: []
+  - heading: Workholding & Setup
+    items:
+      - text: Design simple fixtures
+        subitems: []
+      - text: Use machine vises properly
+        subitems: []
+      - text: Implement 3-2-1 locating principles
+        subitems: []
+      - text: Create setup documentation
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully complete machining project
+  - Pass power tool safety evaluation
+  - Create complete documentation package
+prerequisites:
+  - level: _data/levels/manufacturing-level-1.yml
+    text: null
+  - level: _data/levels/mechanical-level-1.yml
+    text: null

@@ -1,0 +1,57 @@
+module: manufacturing
+level: 1
+title: Shop Safety & Basic Tools
+description: Basic shop safety and hand tool operations
+objective: Achieve comprehensive machine shop safety certification including hazard identification and emergency procedures, master precision measurement techniques using calipers, micrometers, and layout tools to specified tolerances, develop proficiency with basic hand tools for filing, cutting, and finishing operations, and demonstrate proper workholding and material handling techniques.
+primaryResources:
+  - Shop Safety Manual
+  - Precision Measurement Guide
+  - Hand Tool Reference
+  - Material Handling Guidelines
+tasks:
+  - heading: Safety Certification
+    items:
+      - text: Pass comprehensive shop safety exam (90%+)
+        subitems: []
+      - text: Demonstrate proper PPE usage
+        subitems: []
+      - text: Identify all emergency stops and procedures
+        subitems: []
+      - text: Show proper lifting and material handling techniques
+        subitems: []
+  - heading: Measuring & Layout
+    items:
+      - text: Use calipers to ±0.001" accuracy
+        subitems: []
+      - text: Read micrometers correctly
+        subitems: []
+      - text: Perform basic layout with height gauge
+        subitems: []
+      - text: Use angle measuring tools accurately
+        subitems: []
+  - heading: Basic Hand Tools
+    items:
+      - text: File to specified dimensions and surface finish
+        subitems: []
+      - text: Cut materials with hand saws
+        subitems: []
+      - text: Use taps and dies properly
+        subitems: []
+      - text: Demonstrate proper deburring techniques
+        subitems: []
+  - heading: Workholding
+    items:
+      - text: Use bench vises safely
+        subitems: []
+      - text: Select appropriate clamps and fixtures
+        subitems: []
+      - text: Demonstrate proper part support
+        subitems: []
+      - text: Practice safe material handling
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Pass safety certification exam
+  - Complete measurement accuracy test
+  - Demonstrate proper tool handling
+prerequisites: []

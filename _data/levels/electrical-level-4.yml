@@ -1,0 +1,63 @@
+module: electrical
+level: 4
+title: Systems Architecture & Innovation
+description: High-level electrical system design and technical leadership
+objective: Lead robot-level electrical architecture development including power system optimization and control system integration, pioneer innovative electrical solutions through advanced system design and custom electronics development, implement comprehensive testing and validation frameworks, and mentor future electrical designers while building sustainable practices.
+primaryResources:
+  - System Architecture Guide
+  - Innovation Development Framework
+  - Validation Procedures Manual
+  - Technical Leadership Handbook
+tasks:
+  - heading: System Architecture
+    items:
+      - text: Design complete electrical architecture
+        subitems: []
+      - text: Optimize power distribution systems
+        subitems: []
+      - text: Develop system redundancy plans
+        subitems: []
+      - text: Lead architecture design reviews
+        subitems: []
+  - heading: Innovation Development
+    items:
+      - text: Research cutting-edge solutions
+        subitems: []
+      - text: Design custom electrical systems
+        subitems: []
+      - text: Prototype innovative concepts
+        subitems: []
+      - text: Validate new technologies
+        subitems: []
+  - heading: Testing & Validation
+    items:
+      - text: Create comprehensive test plans
+        subitems: []
+      - text: Develop validation procedures
+        subitems: []
+      - text: Implement automated testing
+        subitems: []
+      - text: Document system performance
+        subitems: []
+  - heading: Leadership & Mentoring
+    items:
+      - text: Mentor electrical team members
+        subitems: []
+      - text: Document best practices
+        subitems: []
+      - text: Lead technical decision-making
+        subitems: []
+      - text: Build sustainable program
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully lead electrical system design
+  - Implement innovative solutions
+  - Create lasting documentation
+prerequisites:
+  - level: _data/levels/electrical-level-3.yml
+    text: null
+  - level: _data/levels/project-management-level-2.yml
+    text: null
+  - level: _data/levels/programming-level-3.yml
+    text: null

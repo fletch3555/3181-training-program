@@ -1,0 +1,100 @@
+module: cad
+level: 2
+title: Part Design & Assembly
+description: Advanced part design and assembly techniques for FRC teams
+objective: Create complex 3D parts using advanced modeling features (revolve, sweep, loft, patterns), build multi-part assemblies with proper mate constraints and interference checking, apply design for manufacturing principles including tolerances and standard fasteners, and generate technical drawings with dimensions and annotations.
+primaryResources:
+  - OnShape "Assemblies" and "Drawings" learning paths
+  - FRCDesign.org "Assembly Design" and "Drivetrain Design" courses
+  - OnShape "Advanced Part Modeling" modules
+tasks:
+  - heading: Advanced Part Features
+    items:
+      - text: Complete OnShape "Advanced Part Modeling" learning path
+        subitems: []
+      - text: Follow FRCDesign.org "Advanced Part Design" tutorials
+        subitems: []
+      - text: Master revolve, sweep, and loft operations
+        subitems: []
+      - text: Create complex patterns (feature-driven, table-driven)
+        subitems: []
+      - text: Use multi-body part design techniques
+        subitems: []
+      - text: Apply configurations for part families
+        subitems: []
+      - text: <strong>Project Series:</strong> Complete FRCDesign.org "Wheel Design Challenge"
+        subitems:
+          - Design custom omni wheel with multiple configurations
+          - 'Use advanced features: revolve, circular patterns, configurations'
+      - text: <strong>Assessment:</strong> Design a custom FRC bumper bracket with 3 size configurations
+        subitems: []
+  - heading: Assembly Creation & Management
+    items:
+      - text: Complete OnShape "Assemblies" learning path (all modules)
+        subitems: []
+      - text: Follow FRCDesign.org "FRC Assembly Best Practices" course
+        subitems: []
+      - text: Insert parts and sub-assemblies into main assembly
+        subitems: []
+      - text: Apply mate constraints (fastened, revolute, cylindrical, planar, ball)
+        subitems: []
+      - text: Create assembly configurations for different robot states
+        subitems: []
+      - text: Check for interferences using OnShape collision detection
+        subitems: []
+      - text: <strong>Major Project:</strong> Build complete FRC drivetrain assembly following FRCDesign.org tutorial
+        subitems:
+          - 'Include: chassis, wheels, motors, gearboxes, chain/belt drives'
+          - Demonstrate proper mate relationships and configurations
+      - text: <strong>Assessment:</strong> Assembly functions properly with no interferences, all DOF controlled
+        subitems: []
+  - heading: Design for Manufacturing (DFM)
+    items:
+      - text: Complete FRCDesign.org "Manufacturing Considerations" course
+        subitems: []
+      - text: Study OnShape "Sheet Metal" and "Weldments" features for FRC applications
+        subitems: []
+      - text: Apply appropriate tolerances using OnShape's tolerance analysis tools
+        subitems: []
+      - text: Design parts considering FRC manufacturing constraints (waterjet, 3D printing, machining)
+        subitems: []
+      - text: Integrate standard FRC fasteners from OnShape Parts Library
+        subitems: []
+      - text: Use FRCDesign.org material selection guidelines
+        subitems: []
+      - text: <strong>Integration Project:</strong> Redesign Level 1 roller for actual manufacturing
+        subitems:
+          - 'Include: proper tolerances, fastener selection, material specifications'
+          - Consider waterjet cutting and 3D printed components
+      - text: <strong>Assessment:</strong> Manufacturing review with mentor/machinist approval
+        subitems: []
+  - heading: Technical Documentation
+    items:
+      - text: Complete OnShape "Drawings" learning path
+        subitems: []
+      - text: Follow FRCDesign.org "Technical Drawing Standards" tutorial
+        subitems: []
+      - text: Create dimensioned drawings with proper GD&T
+        subitems: []
+      - text: Add section views, detail views, and exploded views
+        subitems: []
+      - text: Generate automated Bill of Materials (BOM) from assembly
+        subitems: []
+      - text: Include material specifications and finish callouts
+        subitems: []
+      - text: Create assembly instructions using OnShape's drawing tools
+        subitems: []
+      - text: <strong>Documentation Project:</strong> Complete drawing package for drivetrain assembly
+        subitems:
+          - Assembly drawing, individual part drawings, BOM, assembly instructions
+      - text: <strong>Assessment:</strong> Drawing package review for completeness and clarity
+        subitems: []
+completionRequirements:
+  - Complete all OnShape Learning Center assembly and drawing assessments
+  - Finish FRCDesign.org "Assembly Design" course with certificate
+  - Submit complete drivetrain assembly with documentation package
+  - Mentor approval of DFM principles application
+  - Peer teaching demonstration to Level 1 student
+prerequisites:
+  - level: _data/levels/cad-level-1.yml
+    text: null

@@ -1,0 +1,63 @@
+module: business
+level: 4
+title: Executive Business Leadership
+description: Executive-level business strategy and program development
+objective: Lead organization-wide business strategy development and execution, establish sustainable funding and resource development programs, create comprehensive organizational governance frameworks, and build lasting business capabilities while mentoring future business leaders.
+primaryResources:
+  - Executive Strategy Guide
+  - Resource Development Manual
+  - Governance Framework
+  - Program Development Tools
+tasks:
+  - heading: Strategic Direction
+    items:
+      - text: Set organizational direction
+        subitems: []
+      - text: Lead strategy development
+        subitems: []
+      - text: Drive strategic execution
+        subitems: []
+      - text: Measure strategic impact
+        subitems: []
+  - heading: Resource Development
+    items:
+      - text: Create sustainable funding models
+        subitems: []
+      - text: Build resource networks
+        subitems: []
+      - text: Develop revenue streams
+        subitems: []
+      - text: Ensure financial sustainability
+        subitems: []
+  - heading: Organizational Governance
+    items:
+      - text: Establish governance frameworks
+        subitems: []
+      - text: Create oversight systems
+        subitems: []
+      - text: Implement compliance processes
+        subitems: []
+      - text: Manage organizational risk
+        subitems: []
+  - heading: Program Development
+    items:
+      - text: Mentor business leaders
+        subitems: []
+      - text: Build sustainable practices
+        subitems: []
+      - text: Document business knowledge
+        subitems: []
+      - text: Create succession plans
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully lead business strategy
+  - Create sustainable funding program
+  - Build lasting organizational impact
+prerequisites:
+  - level: _data/levels/business-level-3.yml
+    text: null
+  - level: _data/levels/project-management-level-3.yml
+    text: null
+  - level: _data/levels/leadership-level-3.yml
+    text: null

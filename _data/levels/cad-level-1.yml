@@ -1,0 +1,84 @@
+module: cad
+level: 1
+title: Fundamentals
+description: Basic CAD skills and concepts for FRC teams
+objective: Master the CAD software interface and navigation, create fully-constrained 2D sketches using geometric and dimensional constraints, generate basic 3D parts through extrusion and modification features, and establish proper file management practices for collaborative design work.
+primaryResources:
+  - 'OnShape Learning Center: Fundamentals Course'
+  - FRC Design Basics tutorials
+  - OnShape mobile app for design review practice
+tasks:
+  - heading: Interface Navigation & Setup
+    items:
+      - text: Complete OnShape account setup and team workspace creation
+        subitems: []
+      - text: Complete OnShape Learning Center "Fundamentals Course" (Parts 1-3)
+        subitems: []
+      - text: Navigate all major OnShape toolbars and feature tree without assistance
+        subitems: []
+      - text: Customize workspace and shortcuts for efficient FRC workflow
+        subitems: []
+      - text: Demonstrate 15+ keyboard shortcuts for common OnShape commands
+        subitems: []
+      - text: <strong>Assessment:</strong> Navigate OnShape interface and demonstrate shortcuts to mentor in <5 minutes
+        subitems: []
+  - heading: 2D Sketching Mastery
+    items:
+      - text: Complete OnShape "Sketching" learning path modules
+        subitems: []
+      - text: Follow FRCDesign.org "Sketching Best Practices" tutorial
+        subitems: []
+      - text: Create fully constrained sketches using lines, circles, arcs, and splines
+        subitems: []
+      - text: Apply geometric constraints (parallel, perpendicular, tangent, concentric)
+        subitems: []
+      - text: Use dimensional constraints and parametric relationships
+        subitems: []
+      - text: <strong>Validation Project:</strong> Create 5 progressively complex fully-defined sketches from FRCDesign.org practice library
+        subitems: []
+      - text: <strong>Assessment:</strong> Sketch a complex bracket profile (provided drawing) in <15 minutes with full constraints
+        subitems: []
+  - heading: Basic 3D Features
+    items:
+      - text: Complete OnShape "Part Design" learning modules (Extrude, Revolve, Sweep)
+        subitems: []
+      - text: Follow FRCDesign.org "Basic Part Modeling" tutorial series
+        subitems: []
+      - text: Create extrusions and revolves from 2D sketches
+        subitems: []
+      - text: Perform cuts, holes, and boolean operations
+        subitems: []
+      - text: Apply fillets, chamfers, and draft features
+        subitems: []
+      - text: Use patterns (linear, circular) for repeated features
+        subitems: []
+      - text: <strong>Capstone Project:</strong> Design and model a simple FRC intake roller using OnShape
+        subitems:
+          - 'Must include: extrusions, cuts, fillets, and circular pattern'
+          - Follow FRCDesign.org mechanical design principles
+      - text: <strong>Assessment:</strong> Mentor review of roller design for manufacturability and FRC compliance
+        subitems: []
+  - heading: File Management & Collaboration
+    items:
+      - text: Complete OnShape "Collaboration" learning modules
+        subitems: []
+      - text: Set up FRC team document organization system in OnShape
+        subitems: []
+      - text: Use proper naming conventions for FRC parts (follow FRCDesign.org standards)
+        subitems: []
+      - text: Practice version control and branching in OnShape
+        subitems: []
+      - text: Share documents with appropriate permissions
+        subitems: []
+      - text: Export files in multiple formats (STEP, STL, PDF, drawings)
+        subitems: []
+      - text: <strong>Team Integration:</strong> Set up shared FRC parts library with standard hardware
+        subitems: []
+      - text: <strong>Assessment:</strong> Demonstrate proper file organization and sharing to mentor
+        subitems: []
+completionRequirements:
+  - Pass OnShape fundamentals assessment (available in OnShape Learning Center)
+  - Complete all FRCDesign.org basic tutorials
+  - Submit portfolio of 5 progressively complex parts
+  - Mentor sign-off on interface proficiency and file management
+prerequisites: []

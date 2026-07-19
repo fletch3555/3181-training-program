@@ -1,0 +1,57 @@
+module: project-management
+level: 1
+title: Personal Organization
+description: Basic project management and organizational skills
+objective: Develop strong personal productivity skills using time management tools and prioritization frameworks, establish goal-setting practices with SMART criteria and progress tracking systems, master fundamental communication skills including written correspondence and meeting participation, and create basic project planning abilities.
+primaryResources:
+  - Time Management Tools Guide
+  - SMART Goals Template
+  - Communication Best Practices
+  - Basic Project Planning Templates
+tasks:
+  - heading: Time Management
+    items:
+      - text: Use digital calendar effectively
+        subitems: []
+      - text: Create prioritized task lists
+        subitems: []
+      - text: Manage deadlines and commitments
+        subitems: []
+      - text: Track time usage patterns
+        subitems: []
+  - heading: Goal Setting
+    items:
+      - text: Write SMART goals
+        subitems: []
+      - text: Create action plans
+        subitems: []
+      - text: Track progress systematically
+        subitems: []
+      - text: Adjust plans based on feedback
+        subitems: []
+  - heading: Communication Skills
+    items:
+      - text: Write clear emails and messages
+        subitems: []
+      - text: Participate effectively in meetings
+        subitems: []
+      - text: Document decisions and action items
+        subitems: []
+      - text: Give brief status updates
+        subitems: []
+  - heading: Basic Planning
+    items:
+      - text: Create simple project schedules
+        subitems: []
+      - text: Identify task dependencies
+        subitems: []
+      - text: Estimate task durations reasonably
+        subitems: []
+      - text: Plan for contingencies and setbacks
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Maintain organized calendar and task list for 4 weeks
+  - Successfully plan and execute a small team project
+  - Demonstrate effective communication in team settings
+prerequisites: []

@@ -1,0 +1,61 @@
+module: awards
+level: 2
+title: Award Strategy & Documentation
+description: Advanced award planning and documentation
+objective: Develop comprehensive award strategies with clear action plans and timelines, create detailed documentation systems for award submissions, implement advanced presentation and interview techniques, and coordinate award submission teams across multiple categories.
+primaryResources:
+  - Award Strategy Guide
+  - Documentation System Templates
+  - Presentation Development Manual
+  - Team Coordination Tools
+tasks:
+  - heading: Award Strategy
+    items:
+      - text: Create award action plans
+        subitems: []
+      - text: Set submission timelines
+        subitems: []
+      - text: Identify target awards
+        subitems: []
+      - text: Develop success metrics
+        subitems: []
+  - heading: Advanced Documentation
+    items:
+      - text: Design documentation systems
+        subitems: []
+      - text: Create detailed templates
+        subitems: []
+      - text: Implement tracking tools
+        subitems: []
+      - text: Manage digital assets
+        subitems: []
+  - heading: Presentation Development
+    items:
+      - text: Create presentation strategies
+        subitems: []
+      - text: Develop visual materials
+        subitems: []
+      - text: Train presentation teams
+        subitems: []
+      - text: Practice Q&A scenarios
+        subitems: []
+  - heading: Team Coordination
+    items:
+      - text: Lead submission teams
+        subitems: []
+      - text: Coordinate documentation efforts
+        subitems: []
+      - text: Manage review processes
+        subitems: []
+      - text: Ensure quality control
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Create comprehensive award strategy
+  - Develop complete documentation system
+  - Successfully lead submission team
+prerequisites:
+  - level: _data/levels/awards-level-1.yml
+    text: null
+  - level: _data/levels/project-management-level-1.yml
+    text: null

@@ -1,0 +1,61 @@
+module: project-management
+level: 2
+title: Team Coordination
+description: Team leadership and project planning skills
+objective: Lead small project teams through effective meeting facilitation and conflict resolution techniques, develop comprehensive project planning skills with milestone tracking and resource management, implement risk management processes including identification, mitigation, and contingency planning, and manage stakeholder relationships.
+primaryResources:
+  - Team Leadership Guide
+  - Project Planning Templates
+  - Risk Management Framework
+  - Stakeholder Communication Tools
+tasks:
+  - heading: Team Leadership
+    items:
+      - text: Facilitate effective team meetings
+        subitems: []
+      - text: Manage team dynamics
+        subitems: []
+      - text: Resolve conflicts constructively
+        subitems: []
+      - text: Delegate tasks appropriately
+        subitems: []
+  - heading: Project Planning
+    items:
+      - text: Create detailed project schedules
+        subitems: []
+      - text: Track milestones and deliverables
+        subitems: []
+      - text: Manage resource allocation
+        subitems: []
+      - text: Monitor project progress
+        subitems: []
+  - heading: Risk Management
+    items:
+      - text: Identify potential project risks
+        subitems: []
+      - text: Develop mitigation strategies
+        subitems: []
+      - text: Create contingency plans
+        subitems: []
+      - text: Monitor risk indicators
+        subitems: []
+  - heading: Stakeholder Management
+    items:
+      - text: Identify key stakeholders
+        subitems: []
+      - text: Develop communication plans
+        subitems: []
+      - text: Manage expectations
+        subitems: []
+      - text: Build stakeholder relationships
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully lead team project
+  - Create comprehensive project plan
+  - Demonstrate effective stakeholder management
+prerequisites:
+  - level: _data/levels/project-management-level-1.yml
+    text: null
+  - level: _data/levels/business-level-1.yml
+    text: null

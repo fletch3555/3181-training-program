@@ -1,0 +1,57 @@
+module: electrical
+level: 1
+title: Basic Electronics
+description: Fundamental electrical concepts and safety
+objective: Master fundamental electrical concepts including voltage, current, and resistance relationships through Ohm's law, understand electrical safety procedures and proper use of measurement tools, develop basic circuit construction skills using breadboards and hand tools, and learn proper wire management techniques.
+primaryResources:
+  - Electrical Safety Manual
+  - Basic Electronics Guide
+  - Circuit Construction Guide
+  - Wire Management Standards
+tasks:
+  - heading: Electrical Safety
+    items:
+      - text: Complete electrical safety training
+        subitems: []
+      - text: Identify potential electrical hazards
+        subitems: []
+      - text: Use proper personal protective equipment
+        subitems: []
+      - text: Demonstrate emergency response procedures
+        subitems: []
+  - heading: Basic Circuit Theory
+    items:
+      - text: Understand Ohm's Law
+        subitems: []
+      - text: Calculate power in DC circuits
+        subitems: []
+      - text: Analyze series and parallel circuits
+        subitems: []
+      - text: Use multimeter for basic measurements
+        subitems: []
+  - heading: Circuit Construction
+    items:
+      - text: Build basic circuits on breadboards
+        subitems: []
+      - text: Solder basic electrical connections
+        subitems: []
+      - text: Crimp various electrical connectors
+        subitems: []
+      - text: Complete basic wiring project
+        subitems: []
+  - heading: Wire Management
+    items:
+      - text: Select appropriate wire sizes
+        subitems: []
+      - text: Create proper wire routing paths
+        subitems: []
+      - text: Apply cable management techniques
+        subitems: []
+      - text: Label wires and connections properly
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Pass electrical safety certification
+  - Successfully build and test basic circuits
+  - Demonstrate proper wire management
+prerequisites: []

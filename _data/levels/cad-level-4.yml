@@ -1,0 +1,117 @@
+module: cad
+level: 4
+title: Full Robot Integration
+description: Leadership in robot design and integration
+objective: Lead comprehensive robot design architecture from concept through manufacturing, coordinate multi-disciplinary design teams across mechanical, electrical, and programming domains, perform advanced engineering analysis including FEA stress analysis and center of gravity calculations, manage design iterations based on testing feedback, and create complete manufacturing documentation while mentoring junior designers and maintaining design knowledge transfer systems.
+primaryResources:
+  - FRCDesign.org "Robot Architecture" and "Systems Engineering" courses
+  - OnShape "Advanced Simulation" and "Professional Workflows" modules
+  - FRCDesign.org "Team Leadership" and "Design Management" resources
+  - OnShape "Enterprise Features" for large project management
+tasks:
+  - heading: System Architecture & Design Leadership
+    items:
+      - text: Complete FRCDesign.org "Robot Architecture and Systems Engineering" course
+        subitems: []
+      - text: Master OnShape enterprise project management features
+        subitems: []
+      - text: Develop overall robot architecture and design philosophy
+        subitems: []
+      - text: Coordinate multiple subsystem designs and interactions
+        subitems: []
+      - text: Manage design timeline, milestones, and dependencies
+        subitems: []
+      - text: Lead weekly design reviews with entire technical team
+        subitems: []
+      - text: Create and maintain system-level requirements and specifications
+        subitems: []
+      - text: <strong>Leadership Project:</strong> Lead full robot design from game analysis to final CAD
+        subitems:
+          - Coordinate 3+ subsystem design teams
+          - Manage design schedule and resource allocation
+          - Ensure design integration and compatibility
+      - text: <strong>Assessment:</strong> 360-degree feedback from team members and mentors
+        subitems: []
+  - heading: Advanced Engineering Analysis
+    items:
+      - text: Master OnShape advanced simulation capabilities (nonlinear FEA, dynamic analysis)
+        subitems: []
+      - text: Complete FRCDesign.org "Advanced Analysis Techniques" course
+        subitems: []
+      - text: Perform comprehensive stress analysis on critical structural components
+        subitems: []
+      - text: Analyze center of gravity, moment of inertia, and stability
+        subitems: []
+      - text: Optimize designs for weight, strength, and performance trade-offs
+        subitems: []
+      - text: Validate electrical clearances and EMI considerations using OnShape
+        subitems: []
+      - text: Create detailed engineering analysis reports
+        subitems: []
+      - text: <strong>Analysis Project:</strong> Complete comprehensive robot analysis package
+        subitems:
+          - Structural analysis of chassis and critical components
+          - Center of gravity analysis in multiple configurations
+          - Weight optimization study with performance impact
+      - text: <strong>Assessment:</strong> Engineering analysis review by professional engineer mentor
+        subitems: []
+  - heading: Manufacturing Coordination & Documentation
+    items:
+      - text: Master OnShape manufacturing-specific features (drawings, BOMs, work instructions)
+        subitems: []
+      - text: Complete FRCDesign.org "Manufacturing Management" course
+        subitems: []
+      - text: Generate complete manufacturing documentation package
+        subitems: []
+      - text: Coordinate closely with Machining Level 3+ students
+        subitems: []
+      - text: Plan manufacturing sequence, dependencies, and timeline
+        subitems: []
+      - text: Create detailed assembly instructions and quality check procedures
+        subitems: []
+      - text: Manage vendor relationships for outsourced manufacturing
+        subitems: []
+      - text: <strong>Manufacturing Project:</strong> Lead complete robot manufacturing process
+        subitems:
+          - Generate all required manufacturing documentation
+          - Coordinate with machine shop and external vendors
+          - Manage manufacturing timeline and quality control
+      - text: <strong>Assessment:</strong> Successful robot manufacturing with minimal issues
+        subitems: []
+  - heading: Continuous Improvement & Knowledge Transfer
+    items:
+      - text: Establish design iteration process based on testing feedback
+        subitems: []
+      - text: Create comprehensive design documentation and knowledge base using OnShape
+        subitems: []
+      - text: Implement lessons learned from competition performance
+        subitems: []
+      - text: Mentor multiple Level 1-3 CAD students
+        subitems: []
+      - text: Document design rationale and decision-making process
+        subitems: []
+      - text: Create design templates and standards for future seasons
+        subitems: []
+      - text: Contribute to FRCDesign.org community resources
+        subitems: []
+      - text: <strong>Legacy Project:</strong> Create comprehensive CAD knowledge transfer system
+        subitems:
+          - Standardized OnShape workspace templates
+          - Design review process documentation
+          - Mentoring curriculum for future design leaders
+      - text: <strong>Assessment:</strong> Successful knowledge transfer demonstrated by student progression
+        subitems: []
+completionRequirements:
+  - Lead successful complete robot design and manufacturing
+  - Complete all FRCDesign.org advanced courses with certificates
+  - Master all OnShape professional-level features
+  - Successfully mentor at least 2 junior designers to Level 2+
+  - Create lasting knowledge transfer systems
+  - Receive recommendation for FRC technical mentoring roles
+prerequisites:
+  - level: _data/levels/cad-level-3.yml
+    text: null
+  - level: _data/levels/project-management-level-2.yml
+    text: null
+  - level: null
+    text: One additional technical Level 2+

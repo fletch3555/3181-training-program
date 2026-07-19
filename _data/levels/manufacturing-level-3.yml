@@ -1,0 +1,63 @@
+module: manufacturing
+level: 3
+title: Advanced Machining & Fixtures
+description: Complex machining operations and fixture design
+objective: Execute complex machining operations requiring tight tolerances and surface finish specifications, design and fabricate custom fixturing for repeatable part production, develop comprehensive process planning documentation including operation sequencing and tooling requirements, and coordinate manufacturing with design requirements.
+primaryResources:
+  - Advanced Machining Guide
+  - Fixture Design Manual
+  - Process Planning Templates
+  - Design for Manufacturing Guide
+tasks:
+  - heading: Advanced Machining
+    items:
+      - text: Perform complex milling operations
+        subitems: []
+      - text: Machine precision turned components
+        subitems: []
+      - text: Achieve specified surface finishes
+        subitems: []
+      - text: Machine to tight tolerances (±0.001")
+        subitems: []
+  - heading: Fixture Design
+    items:
+      - text: Design custom fixturing systems
+        subitems: []
+      - text: Create modular fixture components
+        subitems: []
+      - text: Implement quick-change features
+        subitems: []
+      - text: Validate fixture repeatability
+        subitems: []
+  - heading: Process Planning
+    items:
+      - text: Create detailed operation sequences
+        subitems: []
+      - text: Specify tooling requirements
+        subitems: []
+      - text: Document setup procedures
+        subitems: []
+      - text: Develop inspection protocols
+        subitems: []
+  - heading: Design Integration
+    items:
+      - text: Review designs for manufacturability
+        subitems: []
+      - text: Suggest design improvements
+        subitems: []
+      - text: Coordinate with design team
+        subitems: []
+      - text: Create manufacturing feedback loop
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully machine complex parts
+  - Design and implement custom fixtures
+  - Create comprehensive process documentation
+prerequisites:
+  - level: _data/levels/manufacturing-level-2.yml
+    text: null
+  - level: _data/levels/cad-level-2.yml
+    text: null
+  - level: _data/levels/mechanical-level-2.yml
+    text: null

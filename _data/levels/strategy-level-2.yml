@@ -1,0 +1,61 @@
+module: strategy
+level: 2
+title: Strategic Analysis & Planning
+description: Advanced game strategy and alliance selection
+objective: Develop comprehensive match strategies through detailed game analysis and scoring optimization, create alliance selection strategies using multi-dimensional team evaluation, implement advanced scouting systems with data analytics, and coordinate strategy execution with drive team and pit crew.
+primaryResources:
+  - Advanced Strategy Guide
+  - Alliance Selection Tools
+  - Scouting Analysis Templates
+  - Match Strategy Framework
+tasks:
+  - heading: Advanced Game Analysis
+    items:
+      - text: Create detailed scoring models
+        subitems: []
+      - text: Analyze match tempo and pacing
+        subitems: []
+      - text: Develop counter-strategies
+        subitems: []
+      - text: Map optimal field navigation paths
+        subitems: []
+  - heading: Alliance Selection
+    items:
+      - text: Create team evaluation rubrics
+        subitems: []
+      - text: Analyze team complementarity
+        subitems: []
+      - text: Develop selection algorithms
+        subitems: []
+      - text: Plan backup selection strategies
+        subitems: []
+  - heading: Advanced Scouting
+    items:
+      - text: Design comprehensive scouting systems
+        subitems: []
+      - text: Train scouting teams
+        subitems: []
+      - text: Analyze performance trends
+        subitems: []
+      - text: Generate detailed team reports
+        subitems: []
+  - heading: Strategy Implementation
+    items:
+      - text: Brief drive teams on strategy
+        subitems: []
+      - text: Coordinate with pit crew
+        subitems: []
+      - text: Make real-time strategy adjustments
+        subitems: []
+      - text: Conduct post-match analysis
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Develop comprehensive match strategy
+  - Successfully manage scouting system
+  - Execute effective alliance selection
+prerequisites:
+  - level: _data/levels/strategy-level-1.yml
+    text: null
+  - level: _data/levels/project-management-level-1.yml
+    text: null

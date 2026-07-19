@@ -1,0 +1,63 @@
+module: awards
+level: 3
+title: Award Program Management
+description: High-level award program development and coordination
+objective: Lead comprehensive award programs across multiple competitions and award categories, develop advanced documentation and presentation systems with multimedia integration, implement sophisticated interview preparation programs, and coordinate cross-functional teams for award submission development.
+primaryResources:
+  - Program Management Guide
+  - Multimedia Development Tools
+  - Interview Excellence Manual
+  - Team Development Framework
+tasks:
+  - heading: Program Management
+    items:
+      - text: Manage multiple award submissions
+        subitems: []
+      - text: Coordinate submission timelines
+        subitems: []
+      - text: Lead documentation teams
+        subitems: []
+      - text: Track program metrics
+        subitems: []
+  - heading: Advanced Systems
+    items:
+      - text: Create multimedia presentations
+        subitems: []
+      - text: Develop digital portfolios
+        subitems: []
+      - text: Implement data management systems
+        subitems: []
+      - text: Design review processes
+        subitems: []
+  - heading: Interview Excellence
+    items:
+      - text: Create interview strategies
+        subitems: []
+      - text: Develop presentation teams
+        subitems: []
+      - text: Lead mock interviews
+        subitems: []
+      - text: Design feedback systems
+        subitems: []
+  - heading: Team Development
+    items:
+      - text: Train award team members
+        subitems: []
+      - text: Create mentoring programs
+        subitems: []
+      - text: Build sustainable practices
+        subitems: []
+      - text: Document best practices
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully manage award program
+  - Create effective submission systems
+  - Lead successful presentation teams
+prerequisites:
+  - level: _data/levels/awards-level-2.yml
+    text: null
+  - level: _data/levels/project-management-level-2.yml
+    text: null
+  - level: _data/levels/leadership-level-2.yml
+    text: null

@@ -1,0 +1,63 @@
+module: business
+level: 3
+title: Advanced Business Management
+description: Advanced business operations and innovation management
+objective: Master advanced financial management including complex budgeting, multi-source funding coordination, and financial forecasting with stakeholder reporting, develop and manage strategic partnerships, implement innovation management systems for continuous improvement, and establish comprehensive risk management frameworks.
+primaryResources:
+  - Advanced Financial Management Guide
+  - Partnership Development Manual
+  - Innovation Management Framework
+  - Risk Management Toolkit
+tasks:
+  - heading: Advanced Finance
+    items:
+      - text: Manage complex budgets
+        subitems: []
+      - text: Coordinate multiple funding sources
+        subitems: []
+      - text: Create financial forecasts
+        subitems: []
+      - text: Develop stakeholder reports
+        subitems: []
+  - heading: Partnership Management
+    items:
+      - text: Develop strategic partnerships
+        subitems: []
+      - text: Manage partner relationships
+        subitems: []
+      - text: Create partnership agreements
+        subitems: []
+      - text: Measure partnership value
+        subitems: []
+  - heading: Innovation Management
+    items:
+      - text: Implement innovation processes
+        subitems: []
+      - text: Lead continuous improvement
+        subitems: []
+      - text: Manage change initiatives
+        subitems: []
+      - text: Track innovation metrics
+        subitems: []
+  - heading: Risk Management
+    items:
+      - text: Identify strategic risks
+        subitems: []
+      - text: Develop mitigation strategies
+        subitems: []
+      - text: Create contingency plans
+        subitems: []
+      - text: Monitor risk indicators
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully manage complex financial systems
+  - Build strategic partnerships
+  - Implement innovation program
+prerequisites:
+  - level: _data/levels/business-level-2.yml
+    text: null
+  - level: _data/levels/project-management-level-2.yml
+    text: null
+  - level: _data/levels/leadership-level-2.yml
+    text: null

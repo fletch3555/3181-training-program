@@ -1,0 +1,57 @@
+module: business
+level: 1
+title: Fundamentals
+description: Basic business and financial principles for FRC teams
+objective: Develop financial literacy including basic accounting principles, budgeting, expense tracking, and ROI calculations for team activities, understand marketing fundamentals including target audience identification, material creation, and effectiveness measurement, comprehend organizational structures and decision-making processes within team context.
+primaryResources:
+  - Basic Accounting Guide
+  - Marketing Templates
+  - Organizational Structure Examples
+  - Strategic Planning Tools
+tasks:
+  - heading: Financial Literacy
+    items:
+      - text: Understand basic accounting principles
+        subitems: []
+      - text: Create and manage simple budgets
+        subitems: []
+      - text: Track expenses and revenue
+        subitems: []
+      - text: Calculate return on investment for team activities
+        subitems: []
+  - heading: Marketing Basics
+    items:
+      - text: Understand target audience identification
+        subitems: []
+      - text: Create basic marketing materials
+        subitems: []
+      - text: Use social media for team promotion
+        subitems: []
+      - text: Measure marketing effectiveness
+        subitems: []
+  - heading: Organizational Structure
+    items:
+      - text: Understand different organizational models
+        subitems: []
+      - text: Map team organizational structure
+        subitems: []
+      - text: Identify roles and responsibilities
+        subitems: []
+      - text: Understand decision-making processes
+        subitems: []
+  - heading: Basic Strategy
+    items:
+      - text: Conduct simple competitive analysis
+        subitems: []
+      - text: Identify team strengths and weaknesses
+        subitems: []
+      - text: Set measurable team objectives
+        subitems: []
+      - text: Understand resource allocation principles
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully create and manage a basic team budget
+  - Develop a simple marketing plan
+  - Present a basic SWOT analysis of the team
+prerequisites: []

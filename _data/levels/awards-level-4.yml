@@ -1,0 +1,63 @@
+module: awards
+level: 4
+title: Championship Awards Leadership
+description: Championship-level awards program leadership and innovation
+objective: Lead championship-level award programs with innovative documentation and presentation techniques, develop cutting-edge award submission systems and processes, create comprehensive award program development frameworks, and mentor future award leaders while building sustainable practices.
+primaryResources:
+  - Innovation Framework Guide
+  - Strategic Leadership Manual
+  - System Development Tools
+  - Program Legacy Framework
+tasks:
+  - heading: Program Innovation
+    items:
+      - text: Design innovative submission systems
+        subitems: []
+      - text: Create advanced documentation tools
+        subitems: []
+      - text: Develop new presentation methods
+        subitems: []
+      - text: Lead program innovation efforts
+        subitems: []
+  - heading: Strategic Leadership
+    items:
+      - text: Lead award strategy development
+        subitems: []
+      - text: Create long-term program plans
+        subitems: []
+      - text: Build organizational capabilities
+        subitems: []
+      - text: Drive continuous improvement
+        subitems: []
+  - heading: System Development
+    items:
+      - text: Create comprehensive frameworks
+        subitems: []
+      - text: Develop evaluation systems
+        subitems: []
+      - text: Implement quality controls
+        subitems: []
+      - text: Design program metrics
+        subitems: []
+  - heading: Program Legacy
+    items:
+      - text: Mentor award program leaders
+        subitems: []
+      - text: Document program knowledge
+        subitems: []
+      - text: Create succession plans
+        subitems: []
+      - text: Ensure program sustainability
+        subitems: []
+completionRequirements:
+  - Complete all checklist items with mentor verification
+  - Successfully lead championship awards
+  - Implement innovative systems
+  - Create lasting program impact
+prerequisites:
+  - level: _data/levels/awards-level-3.yml
+    text: null
+  - level: _data/levels/project-management-level-3.yml
+    text: null
+  - level: _data/levels/leadership-level-3.yml
+    text: null
