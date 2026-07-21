@@ -69,6 +69,19 @@
     font-size: 0.9rem;
 }
 
+/* Links here would otherwise pick up the theme's main a:link/a:visited brand-pink
+   color (ds__colors.css), which clashes against this box's warning-orange
+   background in dark mode. That rule is (0,1,2) specificity, so matching its own
+   :link/:visited pseudo-classes here (not just .prereqs a) is required to win. */
+.prereqs a:link,
+.prereqs a:visited {
+    color: var(--ita-colors-warning-900);
+}
+
+.prereqs a:hover {
+    color: var(--ita-colors-warning-500);
+}
+
 .module-meta {
     margin-top: 1rem;
     font-size: 0.9rem;
