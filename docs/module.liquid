@@ -4,9 +4,14 @@
 
 {% for level in module.levels %}
     {% capture levelLabel %}Level {{ level.level }}: {{ level.title }}{% endcapture %}
-    {% capture levelLink %}level-{{ level.level }}/{% endcapture %}
+    {% capture levelLink %}{{ level.slug }}/{% endcapture %}
     {% include "module_level.html", title: levelLabel, description: level.description, link: levelLink, prerequisites: level.resolvedPrerequisites %}
 {% endfor %}
+
+<h2>Level Prerequisites</h2>
+<pre class="mermaid">
+{{ module.mermaidGraph }}
+</pre>
 
 {% if module.resources.size > 0 %}
 <h2>Resources</h2>

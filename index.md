@@ -16,7 +16,7 @@ These modules focus on the hands-on, technical aspects of robot design and const
 
 {% for m in modules %}
 {% if m.moduleType == "Technical" %}
-{% capture moduleLink %}/docs/{{ m.slug }}/{% endcapture %}
+{% capture moduleLink %}/{{ m.slug }}/{% endcapture %}
 {% include "docs_module.html", title: m.name, description: m.description, link: moduleLink, level: m.moduleType %}
 {% endif %}
 {% endfor %}
@@ -27,7 +27,7 @@ These modules develop the organizational and soft skills crucial for team succes
 
 {% for m in modules %}
 {% if m.moduleType == "Non-Technical" %}
-{% capture moduleLink %}/docs/{{ m.slug }}/{% endcapture %}
+{% capture moduleLink %}/{{ m.slug }}/{% endcapture %}
 {% include "docs_module.html", title: m.name, description: m.description, link: moduleLink, level: m.moduleType %}
 {% endif %}
 {% endfor %}
@@ -46,4 +46,4 @@ These modules develop the organizational and soft skills crucial for team succes
 - **Prerequisite Enforcement:** Students must have foundational skills before advancing
 - **Accelerated Paths:** Advanced students may skip levels with demonstrated competency
 
-[Get Started with CAD →](/docs/cad/)
+[Get Started with CAD →](/cad/)

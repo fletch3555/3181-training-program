@@ -20,22 +20,26 @@
 </ul>
 
 <h2>Tasks</h2>
-{% for task in level.tasks %}
-<h3>{{ forloop.index }}. {{ task.heading }}</h3>
-<ul class="task-list">
-    {% for item in task.items %}
-        <li><input type="checkbox" disabled> {{ item.text }}
-            {% if item.subitems.size > 0 %}
-            <ul>
-                {% for sub in item.subitems %}
-                <li>{{ sub }}</li>
-                {% endfor %}
-            </ul>
-            {% endif %}
-        </li>
+<ol class="task-groups">
+    {% for task in level.tasks %}
+    <li>
+        <h3>{{ task.heading }}</h3>
+        <ul class="task-list">
+            {% for item in task.items %}
+                <li>{{ item.text }}
+                    {% if item.subitems.size > 0 %}
+                    <ul>
+                        {% for sub in item.subitems %}
+                        <li>{{ sub }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    </li>
     {% endfor %}
-</ul>
-{% endfor %}
+</ol>
 
 <h2>Level {{ level.level }} Completion Requirements</h2>
 <ul>

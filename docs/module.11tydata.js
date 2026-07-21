@@ -7,8 +7,9 @@ export default {
     },
     layout: "libdoc_page",
     category: "Training Modules",
+    mermaid: true,
     eleventyComputed: {
-        permalink: (data) => `docs/${data.module.slug}/`,
+        permalink: (data) => `${data.module.slug}/`,
         title: (data) => data.module.title,
         description: (data) => data.module.description,
         order: (data) => data.module.order,

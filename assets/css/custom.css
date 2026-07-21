@@ -1,10 +1,23 @@
+:root {
+    --libdoc-font-family: "Poppins", "Recursive", "fallbackFont";
+    --ita-colors-primary-100: #FDF2F9;
+    --ita-colors-primary-200: #FAD6EE;
+    --ita-colors-primary-300: #F6A2DA;
+    --ita-colors-primary-400: #EF5CBE;
+    --ita-colors-primary-500: #E616A1;
+    --ita-colors-primary-600: #BA1281;
+    --ita-colors-primary-700: #950E67;
+    --ita-colors-primary-800: #700B4E;
+    --ita-colors-primary-900: #4B0734;
+}
+
 .level-card,
 .module-card {
-    border: 1px solid #e1e4e8;
+    border: 1px solid var(--ita-colors-neutral-400);
     border-radius: 6px;
     padding: 1.5rem;
     margin-bottom: 1.5rem;
-    background: #fff;
+    background: var(--ita-colors-neutral-100);
     transition: box-shadow 0.3s ease, transform 0.2s ease;
 }
 
@@ -23,11 +36,20 @@
 .level-card h3 a,
 .module-card h3 a {
     text-decoration: none;
-    color: #0366d6;
+    color: var(--ita-colors-primary-600);
+}
+
+/* The theme hides every <a> inside a nested h3/h4/h5/h6 (main > *:not(header) h3 a
+   in ds__defaults.css) to suppress the auto-generated permalink icon link on
+   headings buried in content. That rule also catches our card's actual title
+   link, which is the *last* child in the heading (the permalink icon is first). */
+.level-card h3 a:last-child,
+.module-card h3 a:last-child {
+    display: inline;
 }
 
 .level-description {
-    color: #586069;
+    color: var(--ita-colors-neutral-700);
     margin-bottom: 1rem;
 }
 
@@ -35,13 +57,13 @@
     font-size: 0.9rem;
     margin-top: 1rem;
     padding-top: 1rem;
-    border-top: 1px solid #e1e4e8;
+    border-top: 1px solid var(--ita-colors-neutral-400);
 }
 
 .prereqs {
-    color: #735c0f;
-    background: #fff8c5;
-    border: 1px solid #f1e05a;
+    color: var(--ita-colors-warning-900);
+    background: var(--ita-colors-warning-100);
+    border: 1px solid var(--ita-colors-warning-500);
     border-radius: 3px;
     padding: 0.5rem;
     font-size: 0.9rem;
@@ -53,8 +75,37 @@
 }
 
 .level-badge {
-    background: #e1e4e8;
+    background: var(--ita-colors-neutral-400);
     padding: 0.2rem 0.5rem;
     border-radius: 12px;
     font-size: 0.8rem;
+}
+
+/* The site logo file is a solid mark on a transparent background. Rather than
+   render it as-is, use it as a mask over a solid background-color so it picks
+   up the brand pink -- same value in light and dark mode, so no separate
+   dark-mode override is needed here. */
+.site-logo {
+    display: block;
+    aspect-ratio: 1 / 1;
+    background-color: var(--ita-colors-primary-500);
+    -webkit-mask-image: var(--site-logo-url);
+    mask-image: var(--site-logo-url);
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    mask-position: center;
+}
+
+/* The search label/input never had an explicit text color, relying on the
+   browser default (black) — invisible once the sidebar background goes dark. */
+.search_form label,
+#searchInput {
+    color: var(--ita-colors-neutral-900);
+}
+
+#searchInput::placeholder {
+    color: var(--ita-colors-neutral-600);
 }
