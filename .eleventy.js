@@ -26,7 +26,12 @@ export default function(eleventyConfig) {
     // Separate bundle for dark-mode-only overrides, loaded via its own <link media>
     // kept in lockstep with the theme's own dark-mode link (see ui.js/libdoc_page.liquid)
     // so our brand colors win even when a user's explicit panel choice disagrees with OS preference.
-    eleventyConfig.addBundle("cssDark");
+    // outputFileExtension must be "css" (not the default, which mirrors the bundle name
+    // "cssDark") -- static hosts pick Content-Type from the file extension, and a
+    // non-.css extension gets served as application/octet-stream, which browsers refuse
+    // to parse as a stylesheet at all (confirmed via document.styleSheets[n].cssRules
+    // coming back empty in production despite the file loading with a 200).
+    eleventyConfig.addBundle("cssDark", { outputFileExtension: "css" });
     // Feeds an existing static CSS file's content into a {% css %} bundle, since the
     // bundle shortcodes are designed for inline template content, not static files.
     eleventyConfig.addShortcode("readFile", (filePath) => fs.readFileSync(filePath, "utf8"));
