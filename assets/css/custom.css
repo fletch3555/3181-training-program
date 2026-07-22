@@ -117,6 +117,15 @@
 .site-logo {
     display: block;
     aspect-ratio: 1 / 1;
+    /* Matches settings.json's siteLogoMaxHeight (60px), previously only applied
+       via the upstream <img style="max-height:..."> markup we replaced with this
+       mask-based span. Without it, width comes purely from the w-100 class on the
+       wrapping <a>, so the logo scales to the full sidebar width -- harmless-ish
+       on the 300px desktop sidebar, but on mobile the "sidebar" becomes the full
+       device width, so the logo (and the sticky header containing it) ballooned
+       to take over most of the mobile nav drawer, squeezing out the scrollable
+       nav-links area beneath it. */
+    max-width: 60px;
     background-color: var(--ita-colors-primary-500);
     -webkit-mask-image: var(--site-logo-url);
     mask-image: var(--site-logo-url);
