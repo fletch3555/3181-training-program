@@ -21,10 +21,26 @@
     transition: box-shadow 0.3s ease, transform 0.2s ease;
 }
 
-.level-card:hover,
-.module-card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    transform: translateY(-2px);
+/* (hover: hover) excludes touch devices -- without it, tapping a card on
+   mobile triggers :hover with no mouseleave to clear it, so the lift/shadow
+   effect just sticks until the user taps somewhere else. */
+@media (hover: hover) {
+    .level-card:hover,
+    .module-card:hover {
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        transform: translateY(-2px);
+    }
+}
+
+/* Matches the theme's own mobile-nav breakpoint (ds__defaults.css switches to
+   the bottom nav bar under 960px) so card spacing shrinks in step with the
+   rest of the layout going single-column, reclaiming width on narrow screens. */
+@media (max-width: 959px) {
+    .level-card,
+    .module-card {
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
 }
 
 .level-card h3,
